@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>Data visualization</title>
+        <!-- <link rel="stylesheet" href="{{ url_for('static', filename='CSS/style.css')}}"> -->
+        <!-- CSS only -->
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+        <script src="https://d3js.org/d3.v4.min.js"></script>
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+        <script type='text/javascript' src="http://code.jquery.com/ui/1.11.0/jquery-ui.min.js"> </script>
+        <script type='text/javascript' src="http://code.jquery.com/ui/1.11.0/themes/smoothness/jquery-ui.css"> </script>
+        
+        <script src="https://cdn.jsdelivr.net/npm/@tarekraafat/autocomplete.js@10.2.0/dist/autoComplete.min.js"></script>
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@tarekraafat/autocomplete.js@10.2.0/dist/css/autoComplete.min.css">
+
+        <script src="//cdnjs.cloudflare.com/ajax/libs/raphael/2.2.1/raphael.min.js"></script>
+        <script src="static\JS\circle-chart.js"></script>
+    </head>
+
+    <style>
+        #info_skill_graph_body{
+            margin : 50px;
+        }
+        .list-group-item:hover{
+            background-color :aquamarine; 
+        }
+        svg{
+            width : 100%;
+            
+        }
+        
+        #skill_comments, #info_skill_body_text{
+            height:300px;
+            overflow:scroll;
+            overflow-x: hidden;
+            overflow-y: auto;
+        }
+        #space{
+            height : 10px;
+        }
+        .links line {
+          stroke: #999;
+          stroke-opacity: 1;
+        }
+        .nodes circle {
+          stroke: #fff;
+          stroke-width: 2px;
+        }
+        text {
+          font-family: sans-serif;
+          font-size: 10px;
+        }
+    </style>
+
+    <body>
+
+        {% block intro %}{% endblock %}
+
+        <div id="box" class="container">
+            <div id = "req_graph">
+
+                <h2 id="title_sub_part">Prerequisites graph</h2>
+
+                <div id="search_box">
+
+                    <form autocomplete="off" class="form-inline">
+                        <label>
+                            <!--<input type="search" class="form-control" placeholder="Search for names..." id="search_tag"/>-->
+                            <input id="autoComplete" type="search" class="form-control" dir="ltr" spellcheck=false 
+                                autocorrect="off" autocomplete="off" autocapitalize="off" maxlength="2048" tabindex="1">
+                        </label>
+                        <!--
+                            <button id="button_tag" class="btn btn-primary mb-2">search</button>
+                        -->
+                    </form>
+
+                </div><br/>
+
+                <div>
+                    <button id="prerequis_butt" class="btn btn-info">Network graph</button>
+                    <button id="time_tag" class="btn btn-info">chronological graph</button>
+                    <button id="skill_tag" class="btn btn-info">Heat map</button>
+                </div>
+
+                <div id="space"></div>
+
+                <div id="content_req" class="card" >
+                    <div id="draw_content_req">
+                        <svg id="first_svg" width="800" height="900"></svg>
+                        {% block part_req_graph %}
+                        {% endblock %}
+                    </div>
+                </div>
+            </div><br/>
+
+            <div id = "skill_graph" class="card">
+                <div id ="draw_skill_graph">
+                    <h2 id="title_sub_part">Skills graph</h2>
+                    <!--<svg id="skill_svg"></svg>-->
+                </div>
+            </div><br/>
+
+            <div class="row"><br/>
+
+                <div class="col-sm card">
+                    <div class="card-header"><h2>About skill</h2></div> 
+                    
+                    <div id="info_skill" class="col-sm row">
+                        <div id="info_skill_body" class="col-sm"></div>
+
+                        <div class="col-sm">
+                            <div style="height:50px;"></div>
+                            <div id="info_skill_graph_body"></div>
+                        </div>
+                        
+                    </div>
+                </div><br/>
+
+                <div class="col-sm card">
+                    <h2 id="title_sub_part" class="card-header">Description of skills</h2>
+
+                    <div id ="skill_comments"></div>
+                </div>
+
+            </div>
+        </div>
+    </body>
+</html>

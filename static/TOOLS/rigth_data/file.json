@@ -1,0 +1,433 @@
+{
+  "nodes": [
+    {
+      "id": "LANG500a",
+      "group": "s5"
+    },
+    {
+      "id": "LANG501a",
+      "group": "s5"
+    },
+    {
+      "id": "SHES501a",
+      "group": "s5"
+    },
+    {
+      "id": "SHES505",
+      "group": "s5"
+    },
+    {
+      "id": "DDRS501",
+      "group": "s5"
+    },
+    {
+      "id": "INFO501a",
+      "group": "s5"
+    },
+    {
+      "id": "INFO502a",
+      "group": "s5"
+    },
+    {
+      "id": "MATH500a",
+      "group": "s5"
+    },
+    {
+      "id": "MATH501a",
+      "group": "s5"
+    },
+    {
+      "id": "EASI541b",
+      "group": "s5"
+    },
+    {
+      "id": "ISOC531",
+      "group": "s5"
+    },
+    {
+      "id": "MATH531",
+      "group": "s5"
+    },
+    {
+      "id": "PROJ531",
+      "group": "s5"
+    },
+    {
+      "id": "LANG601",
+      "group": "s6"
+    },
+    {
+      "id": "PROJ601a",
+      "group": "s6"
+    },
+    {
+      "id": "SHES601a",
+      "group": "s6"
+    },
+    {
+      "id": "SHES602a",
+      "group": "s6"
+    },
+    {
+      "id": "INFO631a",
+      "group": "s6"
+    },
+    {
+      "id": "MATH641c",
+      "group": "s6"
+    },
+    {
+      "id": "PROJ631a",
+      "group": "s6"
+    },
+    {
+      "id": "INFO632",
+      "group": "s6"
+    },
+    {
+      "id": "INFO641c",
+      "group": "s6"
+    },
+    {
+      "id": "INFO642c",
+      "group": "s6"
+    },
+    {
+      "id": "ISOC631",
+      "group": "s6"
+    },
+    {
+      "id": "PROJ632",
+      "group": "s6"
+    },
+    {
+      "id": "INFO632a",
+      "group": "s6"
+    },
+    {
+      "id": "ISOC631a",
+      "group": "s6"
+    },
+    {
+      "id": "PROJ632a",
+      "group": "s6"
+    },
+    {
+      "id": "INFO731a",
+      "group": "s7"
+    },
+    {
+      "id": "ISOC731",
+      "group": "s7"
+    },
+    {
+      "id": "DATA731a",
+      "group": "s7"
+    },
+    {
+      "id": "DATA732",
+      "group": "s7"
+    },
+    {
+      "id": "MATH741c",
+      "group": "s7"
+    },
+    {
+      "id": "PROJ731a",
+      "group": "s7"
+    },
+    {
+      "id": "LANG801a",
+      "group": "s8"
+    },
+    {
+      "id": "LANG802a",
+      "group": "s8"
+    },
+    {
+      "id": "SHES802a",
+      "group": "s8"
+    },
+    {
+      "id": "SHES803a",
+      "group": "s8"
+    },
+    {
+      "id": "PROJ801",
+      "group": "s8"
+    },
+    {
+      "id": "DATA831a",
+      "group": "s8"
+    },
+    {
+      "id": "DATA832a",
+      "group": "s8"
+    },
+    {
+      "id": "INFO831a",
+      "group": "s8"
+    },
+    {
+      "id": "PROJ831a",
+      "group": "s8"
+    },
+    {
+      "id": "INFO832a",
+      "group": "s8"
+    },
+    {
+      "id": "INFO833a",
+      "group": "s8"
+    },
+    {
+      "id": "INFO834a",
+      "group": "s8"
+    },
+    {
+      "id": "ISOC831a",
+      "group": "s8"
+    },
+    {
+      "id": "LANG901a",
+      "group": "s9"
+    },
+    {
+      "id": "LANG902a",
+      "group": "s9"
+    },
+    {
+      "id": "PROJ901a",
+      "group": "s9"
+    },
+    {
+      "id": "SHES901a",
+      "group": "s9"
+    },
+    {
+      "id": "INFO931",
+      "group": "s9"
+    },
+    {
+      "id": "INFO932",
+      "group": "s9"
+    },
+    {
+      "id": "PROJ931",
+      "group": "s9"
+    },
+    {
+      "id": "DATA931",
+      "group": "s9"
+    },
+    {
+      "id": "ISOC931",
+      "group": "s9"
+    },
+    {
+      "id": "PROJ932",
+      "group": "s9"
+    },
+    {
+      "id": "PROJ001",
+      "group": "s10"
+    }
+  ],
+  "links": [
+    {
+      "source": "MATH500a",
+      "target": "MATH501a",
+      "value": 1
+    },
+    {
+      "source": "LANG500a",
+      "target": "LANG501a",
+      "value": 1
+    },
+    {
+      "source": "INFO501a",
+      "target": "MATH531",
+      "value": 1
+    },
+    {
+      "source": "MATH531",
+      "target": "INFO631a",
+      "value": 1
+    },
+    {
+      "source": "INFO501a",
+      "target": "PROJ631a",
+      "value": 1
+    },
+    {
+      "source": "MATH531",
+      "target": "PROJ631a",
+      "value": 1
+    },
+    {
+      "source": "PROJ531",
+      "target": "PROJ631a",
+      "value": 1
+    },
+    {
+      "source": "INFO501a",
+      "target": "INFO642c",
+      "value": 1
+    },
+    {
+      "source": "INFO502a",
+      "target": "INFO642c",
+      "value": 1
+    },
+    {
+      "source": "INFO501a",
+      "target": "PROJ632",
+      "value": 1
+    },
+    {
+      "source": "INFO502a",
+      "target": "PROJ632",
+      "value": 1
+    },
+    {
+      "source": "INFO642c",
+      "target": "PROJ632",
+      "value": 1
+    },
+    {
+      "source": "INFO641c",
+      "target": "PROJ632",
+      "value": 1
+    },
+    {
+      "source": "PROJ531",
+      "target": "PROJ632",
+      "value": 1
+    },
+    {
+      "source": "LANG501a",
+      "target": "LANG601",
+      "value": 1
+    },
+    {
+      "source": "INFO641c",
+      "target": "PROJ731a",
+      "value": 1
+    },
+    {
+      "source": "INFO833a",
+      "target": "DATA831a",
+      "value": 1
+    },
+    {
+      "source": "INFO834a",
+      "target": "DATA831a",
+      "value": 1
+    },
+    {
+      "source": "MATH741c",
+      "target": "DATA831a",
+      "value": 1
+    },
+    {
+      "source": "DATA732",
+      "target": "DATA831a",
+      "value": 1
+    },
+    {
+      "source": "ISOC631",
+      "target": "DATA831a",
+      "value": 1
+    },
+    {
+      "source": "PROJ632",
+      "target": "DATA831a",
+      "value": 1
+    },
+    {
+      "source": "DATA732",
+      "target": "PROJ831a",
+      "value": 1
+    },
+    {
+      "source": "INFO832a",
+      "target": "PROJ831a",
+      "value": 1
+    },
+    {
+      "source": "INFO501a",
+      "target": "INFO832a",
+      "value": 1
+    },
+    {
+      "source": "MATH641c",
+      "target": "INFO832a",
+      "value": 1
+    },
+    {
+      "source": "INFO641c",
+      "target": "INFO832a",
+      "value": 1
+    },
+    {
+      "source": "INFO632",
+      "target": "INFO833a",
+      "value": 1
+    },
+    {
+      "source": "PROJ731a",
+      "target": "INFO833a",
+      "value": 1
+    },
+    {
+      "source": "INFO642c",
+      "target": "INFO834a",
+      "value": 1
+    },
+    {
+      "source": "DATA731a",
+      "target": "INFO931",
+      "value": 1
+    },
+    {
+      "source": "PROJ731a",
+      "target": "INFO931",
+      "value": 1
+    },
+    {
+      "source": "ISOC631",
+      "target": "PROJ931",
+      "value": 1
+    },
+    {
+      "source": "ISOC731",
+      "target": "PROJ931",
+      "value": 1
+    },
+    {
+      "source": "INFO731a",
+      "target": "PROJ931",
+      "value": 1
+    },
+    {
+      "source": "DATA832a",
+      "target": "DATA931",
+      "value": 1
+    },
+    {
+      "source": "INFO831a",
+      "target": "DATA931",
+      "value": 1
+    },
+    {
+      "source": "INFO833a",
+      "target": "DATA931",
+      "value": 1
+    },
+    {
+      "source": "INFO834a",
+      "target": "DATA931",
+      "value": 1
+    }
+  ]
+}

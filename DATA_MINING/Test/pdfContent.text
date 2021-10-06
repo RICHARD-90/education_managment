@@ -1,0 +1,7877 @@
+Programme de la spécialité
+
+Informatique, Données, Usages
+
+Programme de la spécialité Informatique, Données, Usages
+
+Copyright © 2021 Polytech Annecy-Chambéry
+
+Table des matières
+
+Glossaire  ......................................................................................................................................   1
+Semestre  5  ...................................................................................................................................   2
+1. UE501 : Sciences et outils de l'Ingénieur ................................................................................ 2
+1.1. DDRS501 - Développement Durable ..........................................................................  2
+1.2. EASI501a - Electricité .............................................................................................  3
+1.3. INFO501a - Numération et Algorithmique ...................................................................  5
+1.4. INFO502a - Bases de données ...................................................................................  5
+1.5. MATH500a - Soutien Mathématiques .........................................................................  6
+1.6. MATH501a - Mathématiques ....................................................................................  7
+2. UE502 : Sciences de l'ingénieur IDU1 ...................................................................................  8
+2.1. EASI541b - Automatisation ....................................................................................... 8
+2.2. ISOC531 - Sociétés numériques .................................................................................  9
+2.3. MATH531 - Graphes et Langages ............................................................................  10
+2.4. PROJ531 - Gestion de projets ..................................................................................  11
+3. UE503 : Passerelle vers le milieu professionnel .....................................................................  13
+3.1. LANG500a - Soutien Anglais ..................................................................................  13
+3.2. LANG501a - Anglais .............................................................................................  13
+3.3. SHES501a - Sport .................................................................................................. 14
+3.4. SHES505 - Simulation de gestion d'entreprise ............................................................. 15
+Semestre  6  ..................................................................................................................................   17
+1. UE601 : Mathématiques et Algorithmique ............................................................................  17
+1.1. INFO631a - Logique et Programmation .....................................................................  17
+1.2. MATH641c - Mathématiques ................................................................................... 18
+1.3. PROJ631a - Projet Algorithmique ............................................................................. 19
+2. UE602 : Informatique et Conception .................................................................................... 20
+2.1. INFO641c - Conception et Programmation orientée objet ..............................................  20
+2.2. INFO642c - Bases de données et technologies web ......................................................  21
+3. UE603 : Environnement et Applications ...............................................................................  22
+3.1. INFO632 - Systèmes d’exploitation et Virtualisation ....................................................  23
+3.2. ISOC631 - Plateformes collaboratives .......................................................................  24
+3.3. PROJ632 - Projet Data Science ................................................................................  24
+4. UE604 : Passerelle vers le milieu professionnel .....................................................................  25
+4.1. LANG600 - Soutien : Anglais ..................................................................................  25
+4.2. LANG601 - Anglais ...............................................................................................  25
+4.3. PROJ601 - Stage Découverte du milieu professionnel ..................................................  26
+4.4. SHES601 - Gestion financière .................................................................................. 27
+4.5. SHES602 - Initiation au droit ..................................................................................  27
+Semestre  7  ..................................................................................................................................   29
+1. UE701 : Mathématiques et Données ....................................................................................  30
+1.1. DATA731a - Modélisation Stochastique ....................................................................  30
+1.2. INFO731a - Sécurité et Cryptographie ....................................................................... 31
+1.3. MATH741c - Probabilités et statistiques ....................................................................  31
+2. UE702 : Informatique et Conception .................................................................................... 32
+2.1. INFO732a - Comportement et Modélisation Dynamique ...............................................  32
+2.2. INFO743c - Réseaux et systèmes répartis ................................................................... 33
+2.3. PROJ731a - Flux de Données et Accès Concurrents .....................................................  34
+3. UE703 : Visualisation et Gouvernance .................................................................................  34
+3.1. DATA732 - Analyse et visualisation de données .........................................................  34
+3.2. INFO734 - Développement Full Stack .......................................................................  35
+3.3. ISOC731 - Économie et gouvernance de la donnée ......................................................  36
+4. UE704 : Passerelle vers le milieu professionnel .....................................................................  37
+4.1. LANG700a - Soutien : Anglais ................................................................................  37
+4.2. LANG701a - Anglais (Niveau TOEIC non atteint) ....................................................... 37
+4.3. LANG702a - Langues vivantes (Niveau TOEIC atteint) ................................................  38
+4.4. SHES703a - Ressources et dynamique professionnelles ................................................  39
+
+iii
+
+Programme de la spécialité Informatique, Données, Usages
+
+4.5. SHES704a - Créativité et Management de l'innovation .................................................  40
+Semestre  8  ..................................................................................................................................   42
+1. UE801 : Données et Aide à la Décision ...............................................................................  43
+1.1. DATA831a - Big Data ...........................................................................................  43
+1.2. DATA832a - Machine Learning ...............................................................................  43
+1.3. INFO831a - Informatique décisionnelle .....................................................................  45
+1.4. PROJ831a - Projet Informatique Données et Usages ....................................................  46
+2. UE802 : Informatique et Conception .................................................................................... 47
+2.1. INFO832a - Qualité et tests logiciel ..........................................................................  47
+2.2. INFO833a - Systèmes distribués à large échelle ..........................................................  48
+2.3. INFO834a - Bases de données distribuées ..................................................................  49
+2.4. ISOC831a - Dimension métiers ................................................................................  50
+3. UE804 : Passerelle vers le milieu professionnel .....................................................................  50
+3.1. LANG800 - Soutien : Anglais ..................................................................................  50
+3.2. LANG801a - Anglais (Niveau TOEIC non atteint) ....................................................... 50
+3.3. LANG802a - Langues vivantes (Niveau TOEIC atteint) ................................................  52
+3.4. PROJ801 - Stage Assistant ingénieur ........................................................................  52
+3.5. SHES802a - Système de Management Intégré QSE (Qualité Sécurité Environnement) .........  53
+3.6. SHES803a - Théorie des organisations ......................................................................  54
+Semestre  9  ..................................................................................................................................   56
+1. UE901 : Optimisation et HPC ............................................................................................  56
+1.1. INFO931 - Optimisation et aide à la décision multicritère .............................................  56
+1.2. INFO932 - Calcul haute performance et Cloud Computing ............................................  58
+1.3. PROJ931 - Projet Usages ........................................................................................  58
+2. UE902 : Données et Aide à la Décision II ............................................................................  59
+2.1. DATA931 - Machine Learning ................................................................................  59
+2.2. ISOC931 - Innovation et Recherche ..........................................................................  60
+2.3. PROJ932 - Projet Data Science ................................................................................  61
+3. UE904 : Passerelle vers le milieu professionnel .....................................................................  62
+3.1. LANG901a - Anglais (Niveau TOEIC non atteint) ....................................................... 62
+3.2. LANG902a - Langues (Niveau TOEIC atteint) ............................................................ 63
+3.3. PROJ901a - Projet Recherche et Développement .........................................................  64
+3.4. SHES901a - Techniques de management ...................................................................  64
+Semestre  10  ................................................................................................................................   66
+1. UE001 : Stage Ingénieur .................................................................................................... 66
+1.1. PROJ001 - Stage Ingénieur .....................................................................................  66
+
+iv
+
+Glossaire
+
+Spécialité
+
+IDU
+
+Informatique, Données, Usages
+
+Disciplines
+
+DATA
+DDRS
+EASI
+INFO
+ISOC
+LANG
+MATH
+PROJ
+SHES
+
+CC
+ET
+TC
+TD
+TP
+UE
+
+N
+
+A
+
+M
+
+E
+
+Sciences des données
+Développement Durable et Responsabilité Sociétale
+Électronique-Électrotechnique, Automatique, Signal, Images
+Informatique, Génie Informatique
+Informatique et Société
+Langues vivantes
+Mathématiques
+Projets et stages
+Sciences Humaines, Économiques et Sociales
+
+Termes généraux
+
+Contrôle continu
+Épreuve terminale
+Tronc commun
+Travaux dirigés
+Travaux pratiques
+Unité d'enseignement
+
+Niveaux pour les objectifs d'apprentissage
+
+Notion : l'èlève-ingénieur a des connaissances de base et est capable de les
+restituer ou d'en parler
+Application  :  l'élève-ingénieur  sait  appliquer  les  connaissances  et  les  sa-
+voir-faire dans des situations courantes
+Maîtrise : l'élève-ingénieur est capable d'utiliser les différents concepts et de
+traiter des cas complexes ou inhabituels
+Expertise : l'élève-ingénieur matrîse les différents concepts et est capable d'en
+utiliser ou d'en proposer de nouveaux
+
+1
+
+Semestre 5
+
+UE
+
+ECTS Module
+
+Intitulé
+
+Cours (h) TD (h)
+
+TP (h)
+
+12
+
+DDRS501
+
+Développe-
+ment Durable
+
+11.5
+
+9
+
+ 
+
+EASI501a
+
+Electricité
+
+13.5
+
+15
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+12
+
+ 
+
+ 
+
+ 
+
+UE501 :
+Sciences
+et outils de
+l'Ingénieur
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+UE502 :
+
+Sciences de
+l'ingénieur
+
+IDU1
+
+ 
+
+ 
+
+ 
+
+UE503 :
+Passerelle
+vers le mi-
+lieu pro-
+fessionnel
+
+INFO501a
+
+Numération et
+Algorithmique
+
+INFO502a Bases de données
+
+MATH500a
+
+Soutien Ma-
+thématiques
+
+MATH501a Mathématiques
+EASI541b
+Automatisation
+
+ISOC531
+
+Sociétés nu-
+
+MATH531
+
+mériques
+Graphes et
+Langages
+
+PROJ531 Gestion de projets
+
+6
+
+LANG500a
+
+Soutien Anglais
+
+Pondé-
+ration
+
+1.5
+
+Evaluation
+
+CC(50%)
++ CT(50%)
+
+3
+
+3
+
+1.5
+
+ 
+
+3
+3
+
+3
+
+3
+
+3
+
+ 
+
+3
+1.5
+1.5
+
+CC(70%)
+TP(30%)
+CT(70%)
++ TP(30%)
+CT(70%)
+TP(30%)
+
+CC
+
+CC
+
+CC(70%)
++ TP(30%)
+
+CC
+
+CC
+
+CC (0,7) +
+
+Pratique (0,3)
+
+ 
+
+CC
+CC
+CC
+
+12
+
+10.5
+
+6
+
+ 
+
+21
+7.5
+
+12
+
+12
+
+6
+
+ 
+
+ 
+ 
+ 
+
+4.5
+
+21
+
+19.5
+12
+
+12
+
+12
+
+6
+
+12
+
+40.5
+21
+19.5
+
+12
+
+16
+
+12
+
+ 
+
+ 
+20
+
+16
+
+16
+
+28
+
+ 
+
+ 
+ 
+ 
+
+Evaluation
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+LANG501a
+SHES501a
+SHES505
+
+Anglais
+Sport
+
+Simulation
+de gestion
+d'entreprise
+
+1. UE501 : Sciences et outils de l'Ingénieur
+
+1.1. DDRS501 - Développement Durable
+Cours (h)
+
+TD (h)
+
+TP (h)
+
+Pondération
+
+11.5
+
+9
+
+ 
+
+1.5
+
+CC(50%) + CT(50%)
+
+Descriptif
+Ce cours vise à sensibiliser les élèves ingénieurs à la problématique du développement durable et à son intégration
+dans les entreprises et de leur permettre de prendre en main cet aspect dans leur vie professionnelle.
+
+2
+
+Semestre 5
+
+Plan du Cours
+1.
+
+ Etat des lieux de la planète
+
+Introduction au développement durable (3h. C)
+1.1.
+1.2. Historique du développement durable
+1.3. Concept du développement durable
+
+2. Bilan carbone (3h C, 4,5h TD)
+
+2.1. Changement climatique - Gaz à effet de serre
+2.2. Situation énergétique mondiale
+2.3. Méthode bilan carbone
+2.4. exercices d'application et études de cas
+
+3. Analyse du cycle de vie des produits, écoconception
+4. Gestion des déchets
+
+4.1. Approche globale de la production et du traitement
+
+Objectifs d'apprentissage
+
+Ce cours vise à rendre l'élève apte à :
+mettre en œuvre une politique de développe-
+ment durable dans son entreprise et réaliser le
+Bilan Carbone et/ou l'ACV d'un produit.
+ 
+
+Niveau
+
+A l'issue de ce cours l'élève sera capable :
+
+Application de comprendre les grands enjeux du DD.
+
+ 
+
+d'analyser des données, d’émettre des hypo-
+thèses (simplificatrices ou par manque de don-
+nées) afin de réaliser un BC ou une ACV pour
+le compte d'une entreprise.
+
+Bibliographie
+• Bertrand Barré, Bernadette Mérenne-Schoumaker,  Atlas des énergies mondiales. Ed. Autrement, 2011, ISBN
+
+978-2-7467-1486-1 Cote BU Savoie 333.70 BAR
+
+• Yvette  Veyret  Paul  Arnould,  Atlas  des  développements  durables.  Ed.  Autrement,  2008,  ISBN
+
+978-2-7467-1187-7. Côte Savoie BU 338.9 ATL
+
+•  Comité de Prospective en énergie de l’Académie des Sciences. La recherche scientifique face aux défis de
+
+l’énergie.Ed. EDP Sciences, 2012. ISBN 978-2-7598-0826-7 Côte BU Savoie 333.79 COM
+
+• Bernard  Wiesenfeld.  L’énergie  en  2050,  nouveaux  défis  et  faux  espoirs.  Ed.  EDP  Sciences,  2005,  ISBN
+
+2-86883-818-9 Côte BU Savoie 333.79 WIE
+
+•   Louis  Boisgibault,  L’énergie  solaire  après  Fukushima  :  la  nouvelle  donne.  Ed.  Medicilline,  2011,  ISBN
+
+978-2-9152-2037-7 Côte BU Savoie 621.47 BOI 1
+
+•   G.  Thomas  Farmer,  John  Cook.  Climate  change  science:  a  modern  synthesis.  Ed.  Springer,  2013,  ISBN
+
+978-94-007-5756-1 Côte BU Savoie 551.6 FAR
+
+•   B.  Mérenne-Schoumaker.  Géographie  de  l'énergie,  acteurs,  lieux  et  enjeux.  Ed.  Belin,  2011,  ISBN  :
+
+978-2-7011-5897-6 Côte BU Savoie 333.79 MER
+1.2. EASI501a - Electricité
+TP (h)
+Cours (h)
+
+TD (h)
+
+Pondération
+
+13.5
+
+15
+
+12
+
+3
+
+Evaluation
+
+CC(70%) TP(30%)
+
+Langue(s) utilisée(s) pour les enseignements
+• Français
+Pré-requis
+• Connaissances scientifiques et technologiques du premier cycle universitaire
+Descriptif
+Bases de l'électricité, étude des régimes transitoires, continus et sinusoïdaux
+Plan du Cours
+1.
+
+Lois d'étude des circuits (4,5h cours)
+1.1. Lois de Kirchhoff, théorème de superposition, théorème de Millman
+1.2. Générateur de Thévenin, de Norton
+1.3. Dipôles
+
+3
+
+Semestre 5
+
+2.
+
+1.4. Adaptation d'impédances
+1.5. Régime permanent, régime transitoire
+Energie électrique (6h cours)
+2.1. Conversion électromécanique
+2.2. Systèmes de distribution monophasé et triphasé
+2.3. Puissances active, réactive et apparente en monophasé et triphasé
+2.4. Protection électrique
+
+Intitulés TP
+1. Circuit RC en régime transitoire
+2. Mesure de puissances en triphasé
+3. Machine à courant continu
+Objectifs d'apprentissage
+
+Ce cours vise à rendre l'élève apte à :
+calculer et mesurer les grandeurs électriques
+courants et tensions dans un circuit linéaire, en
+régime continu, transitoire, sinusoïdal mono-
+phasé ou triphasé.
+
+Niveau
+Maîtrise
+
+calculer et mesurer les puissances et énergies
+consommées dans un circuit linéaire, en régime
+continu, transitoire, sinusoïdal monophasé ou
+triphasé
+
+Maîtrise
+
+A l'issue de ce cours l'élève sera capable :
+de donner les lois de comportement cou-
+rant-tension pour les dipôles de base (résis-
+tance, condensateur, bobine) d’appliquer les
+lois de Kirchhoff dans un circuit électrique
+d’établir et de résoudre les équations différen-
+tielles correspondant à l'étude d'un circuit élec-
+trique linéaire en régime transitoire de simpli-
+fier un circuit électrique en donnant la source
+de tension ou la source de courant équivalente
+entre deux points de ce circuit d'utiliser les
+nombres complexes pour la représentation de
+grandeurs électriques en régime sinusoïdal
+(courants, tensions, impédances)
+de quantifier les énergies échangées et/ou sto-
+ckées dans un circuit linéaire en régime transi-
+toire de calculer et mesurer les puissances ac-
+tives, réactives et apparentes en régime sinusoï-
+dal monophasé et triphasé équilibré de savoir
+comment relever le facteur de puissance d’une
+installation électrique
+
+expliquer le principe de fonctionnement d’un
+moteur à courant continu
+
+décrire l’architecture générale du réseau de
+production, distribution et consommation
+d’électricité en France
+
+établir si une installation électrique simple
+(domestique ou petite entreprise) présente un
+risque électrique
+
+Application de calculer la vitesse de rotation et/ou le couple
+
+moteur en régime permanent de quantifier les
+énergies mises en jeu
+
+Application d’expliquer le choix du régime sinusoïdal
+triphasé pour la production et le transport
+d’électricité de décrire les principales sources
+d'énergies électriques, les moyens de transport
+de l'électricité, ainsi que les principaux postes
+de consommation
+
+Application de décrire le principe de fonctionnement des
+dispositifs de protection des biens contre le
+risque électrique de décrire le principe de fonc-
+tionnement des dispositifs de protection des
+personnes contre le risque électrique (régime
+de neutre TT)
+
+Bibliographie
+• Electricité générale : Analyse et synthèse des circuits, cours et exercices corrigés de Tahar Neffati, édition Dunod
+• Chiffres clés de l'énergie - Édition 2018: http://www.statistiques.developpement-durable.gouv.fr/chiffres-cles-
+
+lenergie-edition-2018
+
+4
+
+Semestre 5
+
+1.3. INFO501a - Numération et Algorithmique
+Cours (h)
+
+Pondération
+
+TP (h)
+
+Evaluation
+
+TD (h)
+10.5
+
+12
+
+16
+
+3
+
+CT(70%) + TP(30%)
+
+Langue(s) utilisée(s) pour les enseignements
+• Français
+Pré-requis
+Aucun
+Descriptif
+Ce  cours  vise  d'une  part  à  acquérir  les  connaissances  de  base  sur  la  représentation  des  informations  dans  les
+ordinateurs et d'autre part à acquérir les bases de l'algorithmique et de la programmation avec une initiation à
+l'utilisation d'un langage objet. L'objectif est d'être capable d'utiliser l'outil informatique pour la résolution des
+problèmes rencontrés dans l'activité d'ingénierie.
+Plan du Cours
+1. Historique de l'informatique et Ingénierie
+2. Architecture des machines, représentation des données
+3.
+
+Initiation à la programmation
+3.1. Programmer en Python
+3.2. Notion d’objet
+3.3. (La récursivité)
+
+Intitulés TP
+Ce module comporte 4 séances de TP
+• Séance 1 : Initiation à la manipulation d'objets en python illustrée sur la reconnaissance de chiffres dans des
+
+images par corrélation
+
+• Séance 2, 3 et 4 : ces 3 séances correspondent à un seul sujet au choix :
+
+• Réprésentation visuelle d'informations issues de capteurs sous la forme d'émoticone colorées, souriantes ou
+
+grimaçantes à l'aide du module Pygame
+
+• Représentation visuelle d'objets 3D à l'aide des modules Pygame et PyOpenGL
+
+Objectifs d'apprentissage
+
+Ce cours vise à rendre l'élève apte à :
+Solutionner un problème en utilisant l'outil in-
+formatique
+
+ 
+
+ 
+
+Niveau
+
+A l'issue de ce cours l'élève sera capable :
+Application de comprendre les conséquences de la repré-
+
+sentation de données sur ordinateur et de choi-
+sir la plus pertinente
+de concevoir des algorithmes en utilisant la
+programmation objet
+d'implanter ces algorithmes sur un ordinateur
+
+ 
+
+ 
+
+Bibliographie
+• A. Cazes, J. Delacroix, Architecture des machines et des systèmes informatiques, Dunod, 2005.
+• T. Cormen, C. Leiserson, R. Rivest, Introduction à l'algorithmique, Dunod, 2002.
+• G. Swinnen, Apprendre à programmer avec Python 3 (http://inforef.be/swi/python.htm)
+Outils numériques
+• Ce  module  s'appuie  sur  le  langage  python.  Les  développements  demandés  en  td  et  en  tp  se  font  dans
+
+l'environnement Annaconda / Spyder, avec des modules spécifiques (scikit-image, Pygame et PyOpenGL).
+1.4. INFO502a - Bases de données
+Cours (h)
+
+Pondération
+
+Evaluation
+
+TD (h)
+
+TP (h)
+
+6
+
+4.5
+
+12
+
+Langue(s) utilisée(s) pour les enseignements
+• Français
+
+1.5
+
+5
+
+CT(70%) TP(30%)
+
+Semestre 5
+
+Pré-requis
+Aucun
+Descriptif
+Ce cours vise à acquérir les connaissances de base afin de modéliser, concevoir et manipuler une base de données.
+L'application de ce cours se fait sur des problèmes généraux et d'autres métiers.
+Plan du Cours
+1.
+2. Modélisation Entité/Association (1h CM)
+3. Modélisation et algèbre relationnel (3h CM)
+4.
+Objectifs d'apprentissage
+
+Introduction aux Bases de Données (30min CM)
+
+Introduction au langage SQL (1.5h CM)
+
+Ce cours vise à rendre l'élève apte à :
+manipuler tous les concepts nécessaires à la
+gestion d'une base de données
+ 
+ 
+
+Niveau
+Maîtrise
+
+A l'issue de ce cours l'élève sera capable :
+de concevoir une base de données
+
+ 
+ 
+
+de gérer une base de données
+d'utiliser une base de données
+
+Bibliographie
+J. Akoka, I. Comyn-Wattiau, Conception des bases de données relationnelles, Vuibert Informatique, 2001
+
+1.5. MATH500a - Soutien Mathématiques
+Cours (h)
+
+TD (h)
+
+ 
+
+21
+
+ 
+
+ 
+
+TP (h)
+
+Pondération
+
+Evaluation
+
+CC
+
+Pré-requis
+• Bases solides de mathématiques niveau lycée
+Descriptif
+Cet enseignement vise à renforcer les bases en mathématiques .
+Plan du Cours
+1. Géométrie plane et géométrie dans l'espace
+2. Nombres complexes, polynômes, fractions rationnelles: décomposition en éléments simples sur R
+3.
+4. Calcul différentiel des fonctions d'une variable réelle, applications : formule de Taylor, développements li-
+
+Systèmes linéaires, matrices, déterminants
+
+mités, équivalents
+
+5. Calcul intégral basique (dont changement de variable), définition et exemples d'intégrales généralisées
+6.
+
+Equations différentielles de base : cas linéaire du premier ordre, variation de la constante, second ordre li-
+néaires  à coefficients constants.
+
+Objectifs d'apprentissage
+
+Ce cours vise à rendre l'élève apte à :
+savoir manipuler, appliquer et utiliser les ou-
+tils de géométrie plane et de géométrie dans
+l'espace
+savoir manipuler, appliquer et utiliser les outils
+fondamentaux de l'algèbre
+
+ 
+
+Niveau
+Maîtrise
+
+A l'issue de ce cours l'élève sera capable :
+ 
+
+d’utiliser les nombres complexes, de résoudre
+des équations avec les nombres complexes, de
+faire le lien entre géométrie plane et nombres
+complexes
+d’effectuer la division euclidienne de poly-
+nômes, d’utiliser les propriétés des racines de
+polynômes et d’effectuer la décomposition en
+éléments simples d’une fraction rationnelle.
+
+Maîtrise
+
+ 
+
+6
+
+Semestre 5
+
+Ce cours vise à rendre l'élève apte à :
+ 
+
+Niveau
+
+ 
+
+A l'issue de ce cours l'élève sera capable :
+d’effectuer des calculs sur les matrices, de cal-
+culer des déterminants notamment en utilisant
+les propriétés des déterminants, de résoudre un
+système linéaire et d’utiliser les liens entre ma-
+trices et systèmes linéaires
+
+savoir manipuler, appliquer et utiliser les outils
+fondamentaux de l'analyse
+
+ 
+
+ 
+
+Application de savoir dériver, d’écrire la formule de Tay-
+
+ 
+
+ 
+
+lor et de calculer un développement limité pour
+une fonction d’une variable réelle
+de calculer une intégrale simple, d’utiliser
+intégration par parties et changement de va-
+riable pour une intégrale, d’étudier la conver-
+gence d’une intégrale généralisée dans des cas
+simples.
+de résoudre une équation différentielle linéaire
+du premier ordre, d’utiliser éventuellement
+pour cela un changement de variable ou de
+fonction donné, de résoudre une équation diffé-
+rentielle linéaire du second ordre à coefficients
+constants.
+
+Bibliographie
+• J-P.  Truc, Précis de Mathématiques, Nathan,1997
+• G Chauvat, A. Chollet, Y.Bouteiller, Mathématiques, Ediscience,2005
+• S Ferrigno, D Marx, A Muller-Gueudin, Mathématiques pour les sciences de l'ingénieur,Dunod,2013
+Lien vers un site contenant des cours, des exercices corrigés, des qcm et des liens vers des sites interessants
+http://ead-polytech.univ-savoie.fr/course/view.php?id=778&ifyeditingon=1
+
+1.6. MATH501a - Mathématiques
+Cours (h)
+
+TP (h)
+
+21
+
+TD (h)
+19.5
+
+ 
+
+Pondération
+
+3
+
+Evaluation
+
+CC
+
+Pré-requis
+• Remise à niveau Mathématiques ou sinon bases solides de BAC+2
+Descriptif
+Cet enseignement vise à donner les bases de l’analyse nécessaires pour les sciences de l’ingénieur.
+Plan du Cours
+1. Calcul différentiel : fonctions de plusieurs variables, différentiation,  exemples d'équations aux dérivées par-
+
+tielles
+
+2. Courbes et surfaces, mouvements ponctuels
+3.
+4. Analyse vectorielle: opérateurs différentiels, potentiels scalaires, potentiels vecteurs, intégrales curvilignes,
+
+Intégrales multiples
+
+intégrales de surface
+
+Objectifs d'apprentissage
+
+Ce cours vise à rendre l'élève apte à :
+Savoir identifier et caractériser une courbe ou
+une surface classique, déterminer une équation
+d’une tangente pour une courbe, d’un plan tan-
+gent pour une surface.
+ 
+
+Niveau
+
+A l'issue de ce cours l'élève sera capable :
+
+Application déterminer une équation d’une courbe ou d’une
+
+surface classique et identifier une courbe ou
+une surface d'après son équation.
+
+de travailler sur des paramétrages de courbes et
+surfaces .
+
+ 
+
+7
+
+Ce cours vise à rendre l'élève apte à :
+ 
+
+savoir calculer et donner du sens à une inté-
+grale double et une intégrale triple.
+ 
+
+savoir calculer et manipuler,les outils usuelles
+de l'analyse vectorielle.
+
+ 
+
+ 
+
+ 
+
+ 
+
+Semestre 5
+
+Niveau
+
+ 
+
+Maîtrise
+
+ 
+
+Maîtrise
+
+ 
+
+ 
+
+ 
+
+ 
+
+A l'issue de ce cours l'élève sera capable :
+d'obtenir une équation de tangente à une courbe
+ou de plan tangent à une surface
+de calculer une intégrale double en coordon-
+nées cartésiennes ou en coordonnées polaires
+de calculer une intégrale triple en coordonnées
+cartésiennes, cylindriques ou sphériques.
+de calculer, manipuler, interpréter et utiliser les
+opérateurs gradient , divergence, rotationnel et
+laplacien.
+d'identifier et déterminer un potentiel vecteur,
+un potentiel scalaire.
+de calculer et interpréter une dérivée direction-
+nelle
+de calculer et interpréter une intégrale curvi-
+ligne, une intégrale de surface.
+de calculer le flux d'une fonction vectorielle à
+travers une surface.
+
+Bibliographie
+Livres :
+• J-P.  Truc, Précis de Mathématiques, Nathan,1997   (pour MATH500)
+• J. Stewart, Analyse, Concepts et contextes, vol 2,De Boeck,2001
+• B. Dacorogna, Analyse avancée pour ingénieurs, Presses polytechniques et universitaires romandes,2002
+• E. Azoulay, J. Avignant, G. Auliac. Les mathématiques en Licence (2ème année tome1) Ediscience, 2003
+• F. Cottet-Emard, Analyse 2, De Boeck, 2006
+Sites: https://fr.wikiversity.org/wiki/Facult%C3%A9:Math%C3%A9matiques
+http://uel.unisciel.fr/    
+Livres complémentaires
+• P.Pilibossian, J-P. Lecoutre , Analyse, 1998
+• P. Pilibossian, J-P. Lecoutre , Algèbre, 1998
+• P. Thuillier, J.C. Belloc, Mathématiques (2 tomes) ,2004
+2. UE502 : Sciences de l'ingénieur IDU1
+
+2.1. EASI541b - Automatisation
+Cours (h)
+
+TD (h)
+
+TP (h)
+
+Pondération
+
+Evaluation
+
+7.5
+
+12
+
+20
+
+3
+
+CC(70%) + TP(30%)
+
+Langue(s) utilisée(s) pour les enseignements
+• Français
+Pré-requis
+Notions d'algèbre de Boole
+Descriptif
+Des lignes de production à la gestion énergétique de l'habitat, nombreux et variés sont les systèmes automatisés.
+Cet enseignement aborde les éléments de base nécessaires à la modélisation, l'analyse, la commande et la mise
+en oeuvre des systèmes automatisés.
+Plan du Cours
+1.
+
+Les systèmes combinatoires
+1.1. Ecritures canoniques et simplifications
+Les systèmes séquentiels
+
+2.
+
+8
+
+Semestre 5
+
+3.
+
+2.1. Le modèle Graphe d'états
+2.2. Synthèse d'un modèle pour une solution câblée
+2.3. Solution programmée
+Le Grafcet : un outil de spécification et de modélisation des systèmes séquentiels
+3.1. Principes généraux : concepts, éléments graphiques, interprétation
+3.2. Structures élémentaires : séquence, choix, parallélisme, synchronisation
+3.3. Structuration horizontale et verticale : structures dérivées, ressources
+3.4. Algorithme d'interprétation
+
+4. Modes de marche d'un système (GEMMA) et interface homme-machine (IHM)
+5. Conduite de projets d'automatisation : la démarche en V
+Intitulés TP
+1.
+
+TP1 (4h) : Cible matérielle et atelier logiciel
+1.1. Configuration matérielle
+1.2. Architecture réseau
+1.3. Organisation logicielle, application multi-tâches
+TP2, 3, 4 et 5 (16h) : Commande centralisée de systèmes
+2.1. Implémentation de modes de fonctionnement
+2.2. Tests élémentaires et finaux
+
+2.
+
+Objectifs d'apprentissage
+
+Ce cours vise à rendre l'élève apte à :
+expliquer la structure d’un système automati-
+sé : du capteur au dialogue opérateur
+ 
+ 
+
+organiser la solution de commande d’un auto-
+matisme centralisé : modes de marche et hié-
+rarchisation
+ 
+
+modéliser les spécifications fonctionnelles d’un
+système automatisé à partir de la description de
+son cahier des charges
+ 
+
+ 
+
+Niveau
+Maîtrise
+
+ 
+ 
+
+Maîtrise
+
+A l'issue de ce cours l'élève sera capable :
+de comprendre l’organisation d’un système in-
+dustriel
+d'acquérir la notion de système
+de différencier systèmes automatisés et sys-
+tèmes mécatroniques
+de réfléchir et de décider à propos des diffé-
+rents modes de marche.
+
+ 
+
+Maîtrise
+
+de faire une hiérarchisation verticale
+de suivre une démarche d’analyse
+
+ 
+
+ 
+
+de proposer des solutions combinatoires et sé-
+quentielles
+de mettre en œuvre une solution Grafcet
+
+2.2. ISOC531 - Sociétés numériques
+Cours (h)
+
+TD (h)
+
+TP (h)
+
+Pondération
+
+12
+
+12
+
+16
+
+3
+
+Evaluation
+
+CC
+
+Langue(s) utilisée(s) pour les enseignements
+• Anglais
+Pré-requis
+Nothing specific
+Descriptif
+Les plateformes  numériques sur lesquelles les nouvelles technologies de l'information et de la communication
+(NTIC) prolifèrent sont devenus des éléments centraux de nos sociétés contemporaines. Ces technologies ont un
+impact direct sur nos vies, nos identités, la culture, la sécurité et la a peu près tous les aspects de notre vie. D'un point
+de vue sociologique nous sommes rentrés dans une société numérique qu'il convient de comprendre dans toutes
+ses dimensions. L'objectif de ce cours est d'en donner une introduction. Nous nous intéresserons en particulier
+aux sources et aux développements fondamentaux du numérique, du rôle d'Internet et de ces manifestations, de la
+culture (ou sous-culture) en ligne, de la vie privée, de la gestion des informations, et de la cyber-sécurité.
+
+9
+
+Semestre 5
+
+Plan du Cours
+Course introduction
+1. What is digital society ?
+2. History of digital society
+
+2.1. Digital culture
+2.2. The cybernetic
+Internet and its history
+
+3.
+4. Digital life
+
+4.1. Online Social networks
+4.2. Online Social medias
+4.3. Online Social Services
+The emergence of digital identity
+
+5.
+6. Digital Privacy
+7. Digital security
+8. Digital innovations
+Intitulés TP
+1. Building a Social identity
+2.
+Privacy risk and benefits
+3. Building a collaborative platform ( 2 sessions)
+Objectifs d'apprentissage
+
+Ce cours vise à rendre l'élève apte à :
+recognize, define, and understand core issues
+of The Digital Society.
+ 
+ 
+
+Niveau
+Maîtrise
+
+A l'issue de ce cours l'élève sera capable :
+to manage its digital identity
+
+ 
+ 
+
+to describe components of the digital society
+to manage issues relative to digital life
+
+2.3. MATH531 - Graphes et Langages
+Cours (h)
+
+TD (h)
+
+TP (h)
+
+Pondération
+
+12
+
+12
+
+16
+
+3
+
+Evaluation
+
+CC
+
+Langue(s) utilisée(s) pour les enseignements
+• Français
+Pré-requis
+INFO501
+Descriptif
+Ce  cours  vise  à  acquérir  les  connaissances  sur  la  théorie  des  graphes  et  leurs  applications  afin  d'être  capable
+d'utiliser cet outil informatique pour modéliser des problèmes de représentation de données et les manipuler. Ce
+cours vise également, en s'appuyant sur la théorie des graphes, à acquérir les connaissances sur la théorie des
+langages afin d'être capable de concevoir un langage pour une application cible.
+Plan du Cours
+1. Arbres et arborescences
+
+1.1. Structures de données (séquentielles et récursives)
+1.2. Primitives sur les arbres
+1.3. Algorithmiques de parcours d'arbres (profondeur/largeur, préfixe/infixe/postfixe...)
+1.4. Arbres binaires (de recherche, rouge/noir...)
+
+2. Graphes
+
+2.1. Structures de données (matricielle et ensembliste)
+2.2. Primitives sur les graphes
+2.3. Algorithmiques de parcours de graphe (plus court chemin, arbre recouvrant, flots...)
+Théorie des langages
+3.1. Langage rationnel
+3.2. Automates à états finis
+
+3.
+
+10
+
+Semestre 5
+
+3.3. Lexique et grammaire
+
+Intitulés TP
+• TP1 Tri de données : Arbre binaire de recherche (ABR)
+• TP2 Ordonnancement de tâches : Graphes orientés acycliques (DAG)
+• TP3 Voyageur de commerce
+• TP4 Parler l'Idule (langue des IDU) : conception d'un langage
+Objectifs d'apprentissage
+
+Ce cours vise à rendre l'élève apte à :
+modéliser des informations sous forme d'arbre
+afin de les manipuler de la manière la plus effi-
+cace possible
+ 
+
+ 
+
+Niveau
+Maîtrise
+
+ 
+
+ 
+
+représenter des données sous forme de graphe
+et les manipuler de manière efficace.
+ 
+
+Maîtrise
+
+ 
+
+concevoir un langage adapté aux besoins
+
+Maîtrise
+
+ 
+
+ 
+
+2.4. PROJ531 - Gestion de projets
+Cours (h)
+
+TD (h)
+
+TP (h)
+
+Pondération
+
+A l'issue de ce cours l'élève sera capable :
+de choisir une structure arborescente - géné-
+rique, N-aire - adaptée à une problématique
+donnée.
+de concevoir et implémenter des algorithmes
+itératifs et récursifs dédiés aux arborescences
+N-aires
+de concevoir et implémenter des algorithmes
+itératifs et récursifs dédiés aux arborescences
+génériques
+de choisir une structure de graphe adaptée à
+une problématique donnée
+d'implémenter des algorithmes classiques dé-
+diés aux parcours de graphes
+de concevoir et implémenter un langage ration-
+nel
+de concevoir et implémenter un langage basé
+sur un lexique et une grammaire
+
+Evaluation
+
+6
+
+6
+
+28
+
+3
+
+CC (0,7) + Pratique (0,3)
+
+Langue(s) utilisée(s) pour les enseignements
+• Français
+Pré-requis
+
+Descriptif
+Ce module constitue une introduction à la gestion de projet en général et de projet informatique en particulier.
+  Les étudiants se familiarisent avec les différentes éléments à prendre en compte, les différentes étapes (cadrage,
+planification, suivi, cycle de vie de logiciel), les pratiques et outils menant à des systèmes logiciels de petite taille.
+Plan du Cours
+Cours 1 : Qu'est-ce qu'un logiciel et comment le développer ?
+• Qu'est-ce qu'un logiciel ?
+• Cycle de vie d'un logiciel
+• Crise du développement logiciel
+• Approche en Cascades
+• Limite de l'approche en Cascades
+Cours 2 : Autres approches pour le développement
+• En spirales
+• Adaptable (Unified Process)
+• Agile
+Cours 3 : Planification d'un projet
+
+11
+
+Semestre 5
+
+• PERT/GANTT
+• SWOT
+• SCORing
+• Gestion de risques
+Cours 4 : Outils pour le développement logiciel
+• Approche Open Source
+• Outils collaboratifs
+• Intégration Continue
+• Gestion des erreurs et des besoins
+L'ensemble des TD portera sur les notions vues en Cours à savoir définir le projet en termes de durée et de res-
+sources, sa planification et la gestion SWOT
+Intitulés TP
+Travaux Pratiques 1 : Mise en place des outils pour le développement logiciel
+Utilisation de Trello  pour la définition des tâches et leur affectation, Slack pour la communication intra-équipe,
+Git pour le dépôt des ressources et Wiki pour la documentation
+Travaux Pratiques 2 : Approche Agile
+Les étudiants mettront en pratique le cours sur les méthodes Agiles en prenant une approche Peer Programming
+Travaux Pratiques 3, 4 et 5 : Projet Open Source
+Sur ces trois séances, les étudiants devront réaliser une gestion de projet (avec PERT et GANTT), définir les
+ressources nécessaires puis réaliser les développements en tenant compte des erreurs et besoins du client
+Travaux Pratiques 6 : Intégration Continue
+Sur un projet Open Source conséquent, les étudiants devront apprendre à considérer les erreurs relevés, les attribuer
+et les corriger puis effectuer une intégration continue
+Travaux Pratiques 7 : Evaluation
+Cette évaluation individuelle permettra de juger l'étudiant sur ses capacités à créer l'environnement nécessaire
+pour son projet, effectuer une gestion de projet, gérer les modifications demandées et publier une version sans
+fautes de son projet en fin de séance
+Objectifs d'apprentissage
+
+Ce cours vise à rendre l'élève apte à :
+expliquer les différents éléments à prendre en
+compte dans la gestion d'un projet informatique
+ 
+
+ 
+
+ 
+
+distinguer les différents modèles/méthodes de
+développement d'un système logiciel (en cas-
+cade, évolutifs, en spirale, agiles)
+
+ 
+
+ 
+
+Niveau
+
+A l'issue de ce cours l'élève sera capable :
+Application d'expliquer les contraintes de temps, coûts et
+
+ 
+
+ 
+
+ 
+
+délais liés à un projet
+de comprendre les objectifs du projet, identi-
+fier/décomposer en tâches à mettre en oeuvre
+d'estimer les ressources humaines, temporelles
+et matérielles liées aux tâches
+d'identifier les facteurs de risque et les solu-
+tions potentielles
+
+Application de comprendre et d'expliquer l'intérêt de
+
+l'utilisation d'un modèle par rapport à des ca-
+ractéristiques liées au produit à développer
+(produit critique, produit à structure stable, pro-
+duit amené à évoluer fréquemment, etc.)
+de comprendre et d'expliquer l'intérêt de
+l'utilisation d'un modèle par rapport à des ca-
+ractéristiques liées au processus de dévelop-
+pement (taille des équipes, nombre/complexi-
+té/durée des tâches, gestion des risques, etc. )
+
+mettre en œuvre une méthode de gestion de
+projet de petite taille et des outils collaboratifs
+associés (e.g. Scrum, Trello)
+
+Application de choisir et mettre en application une méthode
+
+de gestion de projet de petite taille en sélec-
+
+12
+
+Semestre 5
+
+Ce cours vise à rendre l'élève apte à :
+
+Niveau
+
+A l'issue de ce cours l'élève sera capable :
+tionnant les outils collaboratifs associés (e.g.
+Scrum, Trello)
+
+mettre en œuvre et utiliser un outil de gestion
+de versions de programmes (e.g. SVN, GitHub)
+
+mettre en œuvre et utiliser des outils de pla-
+nification et de suivi de projet (e.g. PERT/
+GANTT, SWOT, SCORing/Gestion des
+risques)
+
+Application de définir une politique de gestion du code
+
+(programmes) et de la mettre en oeuvre en à
+l'aide d'un outil de gestion de versions (e.g.
+SVN, GitHub)
+
+Application de planifier et de suivre un projet en utilisant
+des outils tels que PERT/GANTT, SWOT et
+SCORing
+
+3. UE503 : Passerelle vers le milieu professionnel
+
+3.1. LANG500a - Soutien Anglais
+Cours (h)
+
+TD (h)
+
+TP (h)
+
+Pondération
+
+Evaluation
+
+ 
+
+12
+
+ 
+
+ 
+
+ 
+
+Langue(s) utilisée(s) pour les enseignements
+• Anglais
+Pré-requis
+Score inférieur à 600 au Toeic du début d'année.
+Descriptif
+Reprise de toutes les bases et renforcement des points de langues . 12h de cours  par semestre en groupe de 15
+étudiants.
+
+3.2. LANG501a - Anglais
+TP (h)
+Cours (h)
+
+TD (h)
+40.5
+
+ 
+
+ 
+
+Pondération
+
+3
+
+Evaluation
+
+CC
+
+Langue(s) utilisée(s) pour les enseignements
+• Anglais
+Pré-requis
+Niveau B1 du CECR
+Descriptif
+Ce  cours  prépare  les  étudiants  au  test  du  TOEIC  ("Test  of  English  for  International  communication")  et  plus
+exactement à l'obtention d'un score minimal de 785 points (sur 990).
+Dans le but de travailler les 4 compétences, ce cours est aussi une introduction à la prise de parole en public au
+moyen de présentations données par des étudiants en groupes ou en individuel, sur des sujets illustrés par des
+articles de presse ou des supports vidéos (VTD : Video, Talk and Debate et aussi production écrite). Selon le site
+(Annecy ou Chambéry certains seront vus à des moments différents du semestre, de l'année voire même des trois
+années de formation).
+Les étudiants sont évalués tout au long de chaque semestre. L'évaluation terminale consiste en une épreuve de 1h,
+1h30 ou 2h selon le semestre et selon le site (Annecy ou Le Bourget), et compte coefficient 2 dans le contrôle
+continu total.
+Plan du Cours
+1. Oral
+
+1.1. Éléments de phonologie
+1.2. Éléments grammaticaux(temps, questionnement, adjectifs......)
+1.3. Réinvestissement des structures et du vocabulaire
+1.4. Communication orale interactive
+1.5. Introduction et entraînement au TOEIC (Partie listening)
+Écrit
+
+2.
+
+13
+
+Semestre 5
+
+2.1. Révision d'éléments grammaticaux (temps, questionnement, adjectifs....)
+2.2. Traduction (thème/version)
+2.3. Compréhension de texte en langue authentique
+2.4. Curriculum vitae (en S5, S6 au plus tard S7)
+2.5. Lettre de candidature / motivation (en s5, s6 au plus tard S7)
+2.6. Introduction et entraînement au TOEIC (Partie reading)
+
+Objectifs d'apprentissage
+
+Ce cours vise à rendre l'élève apte à :
+auto-vérifier sa maîtrise des structures de la
+langue et à en poursuivre l’apprentissage mé-
+thodique, en visant une inter-activité opération-
+nelle des 4 compétences de communication
+
+Niveau
+Maîtrise
+
+ 
+
+ 
+
+comprendre des documents sonores et
+s’exprimer oralement
+
+Maîtrise
+
+ 
+
+ 
+
+ 
+
+ 
+
+comprendre des documents écrits et s’exprimer
+à l’écrit
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Maîtrise
+
+ 
+
+ 
+
+A l'issue de ce cours l'élève sera capable :
+de faire des révisions grammaticales sur : les
+réflexes corrects des structures courantes ; le
+groupe verbal et les temps (sauf l’expression
+du conditionnel) ; le groupe nominal et tous ses
+éléments constitutifs; les liens logiques (mots
+de liaison)
+d'améliorer ses connaissances grammaticales et
+lexicales (anglais général et vocabulaire spéci-
+fique au TOEIC) en classe et en autonomie, en
+les validant par des tests d’évaluation réguliers
+d'écouter régulièrement les nouvelles sur des
+sites anglophones d’information (CNN, BBC,
+Skynews…) et sera en mesure de restituer
+l’essentiel oralement de façon succincte, en in-
+ter-activité avec le groupe-classe
+de travailler sur des supports audio et vidéo va-
+riés et de prendre la parole pour réagir sponta-
+nément en inter-activité avec la classe
+de pratiquer des exercices de TOEIC (4 parties
+de compréhension orale) + tests entiers
+de prendre la parole en mode préparé et en in-
+ter-activité spontanée via des exposés indivi-
+duels (auto-présentation et/ou compte-rendus
+d’articles, type « colles ») et des exposés par
+deux (sujets variés)
+de travailler sur les conversations télépho-
+niques (compréhension /production)
+de pratiquer des exercices de TOEIC (3 parties
+écrites)
+de lire des documents variés (articles généraux
+et scientifiques) et de rédiger quelques lignes
+pour en rendre compte et donner son avis
+d'écrire des emails (à caractère personnel et
+professionnel) / de commencer à rédiger CVs
+et lettres de motivation
+
+Bibliographie
+• Documents distribués par les intervenants
+• Différents sites internet dont la liste est fournie en début d'année
+
+3.3. SHES501a - Sport
+Cours (h)
+
+TD (h)
+
+TP (h)
+
+ 
+
+21
+
+ 
+
+Evaluation
+
+CC
+
+Pondération
+
+1.5
+
+14
+
+Semestre 5
+
+Langue(s) utilisée(s) pour les enseignements
+• Français
+Descriptif
+Ce cours s’appuie sur la pratique des activités physiques et sportives et s’articule autour de deux axes prioritaires.
+D’une part, il s’agit de permettre aux élèves d’acquérir des savoir-faire liés aux activités sportives et de mettre en
+avant leurs savoir-être, qualités requises pour leur insertion et leur réussite professionnelle. Cet axe s’appuiera sur
+le travail effectué autour des valeurs véhiculées par les différentes activités sportives et leurs modes de pratique
+diversifiés.
+D’autre part, il s’agit de permettre aux élèves-ingénieurs d’acquérir des compétences collectives dans la réalisation
+d’un projet et la gestion de groupe mais également de développer leurs capacités individuelles d’adaptation et de
+régulation. Cet axe se traduira par l’organisation collective et la mise en place d’un évènement sportif sur une
+séance.
+Objectifs d'apprentissage
+
+Ce cours vise à rendre l'élève apte à :
+travailler en équipe afin de préparer, mettre en
+place et réguler un évènement sportif dans un
+cadre contraint
+ 
+
+ 
+
+Niveau
+Maîtrise
+
+ 
+
+ 
+
+s’engager dans une nouvelle activité physique
+de manière intense, lucide, raisonnée et critique
+
+Maîtrise
+
+ 
+
+ 
+
+ 
+
+ 
+
+A l'issue de ce cours l'élève sera capable :
+de concevoir une fiche de projet collectif en in-
+tégrant les différents paramètres organisation-
+nels.
+d'expliquer et de faire appliquer à un groupe un
+ensemble de règles collectives de fonctionne-
+ment
+d'adapter et de réguler le fonctionnement de
+son activité en s’adaptant aux contraintes spa-
+tiales matérielles et humaines et en répondant
+rapidement aux problèmes rencontrés
+de développer une motricité adaptative en
+s’engageant pleinement dans l’activité tout en
+respectant les règles, les autres et sa propre in-
+tégrité physique
+d'intégrer et d'appliquer rapidement des règles
+de fonctionnement complexes et nouvelles
+de développer un regard critique et constructif
+afin de pouvoir juger objectivement sa presta-
+tion et celle des autres
+
+3.4. SHES505 - Simulation de gestion d'entreprise
+Cours (h)
+
+Pondération
+
+TP (h)
+
+TD (h)
+19.5
+
+ 
+
+ 
+
+1.5
+
+Evaluation
+
+CC
+
+Langue(s) utilisée(s) pour les enseignements
+• Français
+Pré-requis
+Aucun
+Descriptif
+Les jeux d’entreprise, également appelés serious game ou simulation de gestion d'entreprise, sont des outils pé-
+dagogiques pour apprendre autrement. Il s’agit d’une simulation qui vise à monter la complexité des entreprises
+tout en reposant sur un modèle simplifié. Dans un jeu d’entreprise le temps est accéléré et les participants jouent
+sur une période condensée (deux journées dans le cas présent) plusieurs années de la vie d’une entreprise. Cette
+simulation d’entreprise est réalisée à l’aide d’un programme informatique. Ce programme intègre un algorithme
+afin de calculer les performances de chaque équipes concurrentes (chaque équipe représentant une entreprise du
+marché) à la fin de chaque décision.
+
+15
+
+Semestre 5
+
+Plan du Cours
+1. Analyser le contexte général pour mieux communiquer,
+2. Connaître les principaux outils de communication, médias/hors médias,
+3. Comprendre le processus d'élaboration d'une stratégie de communication,
+4. Donner une formation globale, concrète et efficace en matière de gestion des entreprises,
+5.
+
+Sensibiliser à l'interdépendance des fonctions de l'entreprise à travers la prise de décisions et l'analyse de
+résultats.
+
+Objectifs d'apprentissage
+
+Ce cours vise à rendre l'élève apte à :
+concevoir les bases d'une stratégie d’entreprise
+et appréhender les interactions entre fonctions
+
+Niveau
+
+A l'issue de ce cours l'élève sera capable :
+
+Application  
+
+Bibliographie
+• Sophie Delerm, Jean-Pierre Helfer et Jacques Orsoni. « Les bases du marketing », Vuibert, 2006 (Partie 2,
+
+Chapitres 1 et 2 et Partie 3, Chapitre 2).
+
+• Jacques Lendrevie, Julien Levy, « Mercator, Théorie Et Nouvelles Pratique Du Marketing (9e Edition), Dunod,
+
+Paris, 2009 (Chapitre 15)
+
+• Jean Barreau, Jacqueline Delahaye, « Gestion financière DECF Epreuve 4 », Dunod, 2006 (Chapitres 7 et 8)
+• Christian Goujet, Christian Raulet & Christiane Raulet, « Comptabilité de gestion », Dunod, Paris, 2007. (Cha-
+
+pitres 1, 17 et 18)
+
+• Maurice Pillet, Chantal Martin-Bonnefous, Pascal Bonnefous, Alain Courtois, «  Gestion de production : les
+
+fondamentaux et les bonnes pratiques », Eyrolles, 2011. (Lire : Chapitres 4, 6 et 8)
+
+Outils numériques
+• Serious game : OgPlay
+
+16
+
+Semestre 6
+
+UE
+
+ECTS Module
+
+Intitulé
+
+Cours (h) TD (h)
+
+TP (h)
+
+Pondé-
+ration
+
+Evaluation
+
+10
+
+INFO631a
+
+Logique et Pro-
+
+10.5
+
+10.5
+
+20
+
+grammation
+
+3
+
+3
+
+4
+
+2.5
+
+2.5
+
+3
+
+3
+
+3
+
+ 
+
+3
+ 
+
+CC
+
+CC(50%)
++ ET(50%)
+
+CC
+
+CC(20%)
++ ET(50%)
++ TP(30%)
+
+CC(70%)
++ TP(30%)
+
+CC
+
+CC
+
+CC
+
+ 
+
+CC
+
+Quitus diplôme
+
+1.5
+1.5
+
+CT
+CT
+
+ 
+
+42
+
+20
+
+20
+
+16
+
+16
+
+30
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+Evaluation
+
+CC
+
+UE601 :
+Mathéma-
+tiques et Al-
+gorithmique
+
+ 
+
+ 
+
+UE602 :
+Informa-
+tique et
+
+Conception
+
+ 
+
+UE603 :
+
+Environne-
+ment et Ap-
+plications
+
+ 
+
+ 
+
+UE604 :
+Passerelle
+vers le mi-
+lieu pro-
+fessionnel
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+5
+
+ 
+
+9
+
+ 
+
+ 
+
+6
+
+ 
+ 
+
+ 
+ 
+
+MATH641c Mathématiques
+
+18
+
+PROJ631a
+
+INFO641c
+
+INFO642c
+
+Projet Al-
+gorithmique
+Conception et
+Programmation
+orientée objet
+
+Bases de don-
+nées et tech-
+nologies web
+
+18
+
+ 
+
+9
+
+ 
+
+9
+
+8.5
+
+7.5
+
+INFO632
+
+Systèmes
+
+10.5
+
+13.5
+
+d’exploitation
+et Virtualisation
+
+ISOC631
+
+PROJ632
+
+Plateformes
+collaboratives
+
+Projet Da-
+ta Science
+
+LANG600
+
+Soutien : Anglais
+
+LANG601
+PROJ601
+
+Anglais
+
+Stage Décou-
+verte du milieu
+professionnel
+
+12
+
+ 
+
+ 
+
+ 
+ 
+
+SHES601 Gestion financière
+SHES602
+Initiation au droit
+
+10.5
+15
+
+12
+
+ 
+
+12
+
+40.5
+
+ 
+
+9
+4.5
+
+1. UE601 : Mathématiques et Algorithmique
+
+1.1. INFO631a - Logique et Programmation
+Pondération
+Cours (h)
+
+TP (h)
+
+TD (h)
+10.5
+
+10.5
+
+20
+
+3
+
+Langue(s) utilisée(s) pour les enseignements
+• Français
+
+17
+
+Semestre 6
+
+Pré-requis
+• MATH 531 (première partie : Graphes)
+Descriptif
+Ce  cours  vise  à  acquérir  les  compétences  afin  de  modéliser  un  problème  selon  une  description  logique  et  de
+l'implémenter dans un langage logique comme Prolog et un langage plus générique tel que Java ou Python.
+Plan du Cours
+1.
+
+Logique propositionnelle
+1.1. Langage et Sémantique
+1.2. Aspects déductifs
+1.3. Formes Normale
+Logique des prédicats du 1er ordre
+2.1. Quantificateurs et Variables
+2.2. Modèles et Preuves
+2.3. Normalisation, Unification et Résolution
+Logiques temporelles
+3.1. Connecteurs temporels et quantificateurs de chemin
+3.2. Sémantique
+3.3. Expressivité des logiques temporelles (LTL, CTL...)
+Logique floue
+4.1. Interface numérique/symbolique
+4.2. Extension des opérateurs logiques
+4.3. Raisonnement
+
+2.
+
+3.
+
+4.
+
+Intitulés TP
+• TP1 d'une description logique à Prolog
+• TP2 Arbres généalogiques
+• TP3 Automates à états finis
+• TP4 Enigme - Logigramme
+• TP5 Systèmes à base de règles
+Objectifs d'apprentissage
+
+Ce cours vise à rendre l'élève apte à :
+représenter, avec la théorie adaptée, un pro-
+blème sous forme logique
+ 
+
+ 
+
+Niveau
+Maîtrise
+
+ 
+
+ 
+
+implémenter un problème dans un langage lo-
+gique afin d'en extraire de l'information
+
+Maîtrise
+
+ 
+
+ 
+
+A l'issue de ce cours l'élève sera capable :
+de décrire un problème sous forme de la lo-
+gique des prédicats du 1er ordre
+de décrire un problème sous forme d'une lo-
+gique temporelle ou floue
+de décrire un problème sous forme d'une lo-
+gique floue
+d'implémenter dans un langage de programma-
+tion un problème décrit dans une logique des
+prédicats du 1er ordre, temporelle ou floue
+d'inférer de la connaissance à partir d'une pro-
+grammation logique
+
+1.2. MATH641c - Mathématiques
+Cours (h)
+
+TD (h)
+
+TP (h)
+
+Pondération
+
+Evaluation
+
+18
+
+18
+
+ 
+
+3
+
+CC(50%) + ET(50%)
+
+Langue(s) utilisée(s) pour les enseignements
+• Français
+Pré-requis
+• Algèbre linéaire de base (espaces vectoriels, opérations matricielles), analyse élémentaire
+
+18
+
+Semestre 6
+
+Descriptif
+Ce cours est divisé en trois parties:
+• Compléments d'algèbre linéaire, réductions des matrices
+• Espaces euclidiens et hermitiens
+• Suites et séries de fonctions, différents types de convergence
+Plan du Cours
+1. Compléments d'algèbre
+
+1.1. Espaces vectoriels, applications linéaires
+1.2. Réduction des matrices diagonalisation
+Espaces euclidiens et hermitiens
+2.1. Produit scalaire et produit hermitien,
+2.2. Bases orthonormées,
+2.3. Projections orthogonales,
+2.4. Matrices orthogonales et hermitiennes
+Suites et séries de signaux
+3.1. Types de convergence, conservation des propriétés, séries entières, application aux équations différen-
+
+2.
+
+3.
+
+tielles
+
+3.2. Prolongement des fonctions usuelles à la variable complexe. Séries de Fourier
+
+Objectifs d'apprentissage
+
+Ce cours vise à rendre l'élève apte à :
+utiliser les différentes réductions possibles des
+matrices
+ 
+ 
+
+ 
+
+ 
+
+comprendre les structures algébriques et eucli-
+diennes des espaces vectoriels et leurs applica-
+tions
+ 
+
+Niveau
+
+A l'issue de ce cours l'élève sera capable :
+
+Application de reconnaître les matrices diagonalisables ou
+
+ 
+ 
+
+ 
+
+ 
+
+Maîtrise
+
+triangularisables
+de trouver les valeurs propres
+de construire une base des sous-espaces
+propres
+de calculer les puissances et l'exponentielle
+d'une matrice
+de résoudre les systèmes d'équations différen-
+tielles linéaires du premier ordre
+d'utiliser différents produits scalaires sur les
+vecteurs et les signaux
+
+ 
+
+de faire le lien avec les approximations au sens
+des moindres carrés
+
+utiliser les suites et séries de fonctions
+
+Application de reconnaître les différents types de conver-
+
+gence
+de résoudre des équations différentielles en uti-
+lisant des séries entières
+de prolonger les fonctions usuelles à la variable
+complexe
+de décomposer un signal en séries de Fourier
+
+Evaluation
+
+CC
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+1.3. PROJ631a - Projet Algorithmique
+Cours (h)
+
+TD (h)
+
+TP (h)
+
+Pondération
+
+ 
+
+ 
+
+42
+
+Langue(s) utilisée(s) pour les enseignements
+• Français
+Pré-requis
+• INFO501
+
+4
+
+19
+
+Semestre 6
+
+• MATH531
+• PROJ531
+Descriptif
+Ce module constitue une mise en application des structures de données et algorithmes présentés dans le module
+« Graphes et Langages ». Il prend la forme de développements logiciels dans le respect des méthodes de gestion
+de projets informatiques vues dans le module « Gestion de projets ». En particulier, des outils appropriés à un
+développement modulaire des programmes et à une gestion de l’évolution du code produit seront exploités.
+Plan du Cours
+Concrètement, le module se décompose en trois mini-projets individuels à choisir dans un ensemble de sujets
+proposés.
+Les développements seront réalisés en Python, Java, C ou C++ avec la contrainte d’utiliser au moins deux langages
+différents.
+Intitulés TP
+1. Mini-projet 1 : Trois séances de 4h
+2. Mini-projet 2 : Trois séances de 4h
+3. Mini-projet 3 : Trois séances de 4h
+4.
+
+Trois séances d’évaluation de 2h : évaluation individuelle de chaque étudiant
+4.1. Présentation et démonstration
+4.2. Questions
+4.3. Bilan
+
+Objectifs d'apprentissage
+
+Ce cours vise à rendre l'élève apte à :
+solutionner un problème algorithmique donné
+
+Niveau
+Maîtrise
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+2. UE602 : Informatique et Conception
+
+A l'issue de ce cours l'élève sera capable :
+d'identifier les algorithmes existants pouvant
+répondre à un problème donné ou contribuer à
+sa résolution
+d'expliquer précisément les algorithmes choi-
+sis, leur fonctionnement et leur orchestration
+de mesurer les performances du programme
+réalisé
+d'implanter la solution algorithmique choisie
+de définir et appliquer une procédure de test du
+programme réalisé
+
+2.1. INFO641c - Conception et Programmation orientée objet
+Evaluation
+Cours (h)
+CC(20%) +
+
+Pondération
+
+2.5
+
+TD (h)
+
+TP (h)
+
+9
+
+9
+
+20
+
+ET(50%) + TP(30%)
+
+Langue(s) utilisée(s) pour les enseignements
+• Français
+Pré-requis
+• Connaissances de base en informatique
+Descriptif
+Ce module est une introduction à l'approche orienté objet. Il aborde des aspects liés à la conception et à la pro-
+grammation. Pour la partie programmation, le langage Java est utilisé en tant que langage support.
+Plan du Cours
+1.
+2. Classes et Objets. Communication entre objets. Encapsulation.
+3. Relations entre classes. Héritage et polymorphisme
+
+L'approche orienté objet et cycle de vie du logiciel
+
+20
+
+Semestre 6
+
+4. Classes abstraites et interfaces
+5. Modèle a événements et interfaces graphiques
+Objectifs d'apprentissage
+
+Ce cours vise à rendre l'élève apte à :
+expliquer les caractéristiques de l'approche
+orientée objetexpliquer les caractéristiques de
+l'approche orientée objet
+ 
+ 
+
+ 
+
+ 
+
+concevoir et implémenter une application
+orientée objet de relativement petite taille (10
+classes) à partir d’une description de problème.
+ 
+
+ 
+
+ 
+
+ 
+
+Niveau
+Maîtrise
+
+A l'issue de ce cours l'élève sera capable :
+d'expliquer la structure d'une application orien-
+tée objet
+
+ 
+ 
+
+ 
+
+ 
+
+Maîtrise
+
+d'expliquer comment les objets communiquent
+d'expliquer ce qu'est l'encapsulation et son inté-
+rêt
+d'expliquer ce qu'est l'héritage et son lien avec
+la réutilisation du code
+d'expliquer le polymorphisme, son lien avec
+l'héritage, les classes abstraites et les interfaces
+de définir un diagramme de classe a partir d'un
+description de problème
+
+ 
+
+ 
+
+ 
+
+ 
+
+de créer des instances de classes et les faire
+communiquer
+de réaliser une application impliquant de
+l'héritage, des classes abstraites et des inter-
+faces
+de mettre en place un mécanisme de communi-
+cation a base d'événements
+de construire une interface graphique contenant
+plusieurs fenêtres s'échangeant des événements
+
+expliquer le rôle de la conception et de la pro-
+grammation dans le cycle de vie du logiciel
+ 
+
+Application de citer les principales étapes dans le cycle de
+
+ 
+
+vie du logiciel
+de donner des exemples de cycle de vie du lo-
+giciel
+
+2.2. INFO642c - Bases de données et technologies web
+Cours (h)
+
+Pondération
+
+Evaluation
+
+TD (h)
+
+TP (h)
+
+8.5
+
+7.5
+
+20
+
+2.5
+
+CC(70%) + TP(30%)
+
+Langue(s) utilisée(s) pour les enseignements
+• Français
+Pré-requis
+• Avoir des connaissances de base en informatique (INFO501, INFO502)
+Descriptif
+L'objectif de ce cours est d'apprendre à concevoir et réaliser une application web complète. Les informations sont
+modélisées et représentées dans une bases de données. Puis l'accès à la base de données est réalisée au travers d'un
+serveur web qui génère les pages web de l'application.  Ce cours vise à ce que les étudiants soient capables :
+• de concevoir et de mettre en œuvre une application 3 tiers de taille moyenne,
+• de concevoir l'organisation des données au travers d'un modèle entité-association et de sa traduction dans une
+
+base de données relationnelle,
+
+• d’accéder aux données à travers un serveur web, de concevoir des interfaces web pour la représentation et la
+
+manipulation des données,
+
+• d'utiliser les technologies actuelles telles que le SGBD Postgres, les langages SQL, PHP, CSS, HTML, javas-
+
+cript, ...
+
+21
+
+Semestre 6
+
+Plan du Cours
+1. Architectures 3 tiers
+2.
+
+Schémas conceptuels (Entités/Association, UML) d'une BD et traduction en modèle relationnel, normalisa-
+tion du modèle
+Langage de définition, de manipulation, déclencheur, transaction
+
+3.
+4. Conception d'une interface web dynamique
+5. Gestion des accès à une BD, interrogation des données, restitution et présentation au client.
+Intitulés TP
+Les travaux pratiques porteront sur :
+• comprendre une base de données existante (établir un schéma conceptuel, requêtes SQL)
+• faire évoluer une base existante (modification du schéma, ajout de contraintes ...)
+• concevoir et mettre en œuvre une base de données à partir d'un cahier des charges
+• mettre en œuvre une démarche permettant de travailler sur une architecture 3 tiers (identification des différents
+
+serveurs, leurs accès et les différents espaces de travail)
+
+• mettre  en  place  des  programmes  sur  les  serveurs  et  les  clients  web  nécessaires  au  fonctionnement  de
+
+l'architecture 3 tiers
+
+• utiliser les principaux langages de développement des applications web (HTML, CSS, PHP, XML, javascript
+
+…)
+
+• mettre en œuvre l'accès aux données d'une base à partir du client web
+Objectifs d'apprentissage
+
+Ce cours vise à rendre l'élève apte à :
+concevoir et mettre en œuvre une architecture 3
+tiers de taille moyenne
+
+Niveau
+Maîtrise
+
+ 
+
+ 
+
+concevoir l'organisation des données au travers
+d'un modèle objet et de sa traduction dans une
+base de données relationnelle
+ 
+
+ 
+
+ 
+
+ 
+
+Maîtrise
+
+ 
+
+ 
+
+concevoir et réaliser une interface web
+
+Maîtrise
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+A l'issue de ce cours l'élève sera capable :
+d'énumérer les types des composants in-
+tervenants dans une architecture 3 tiers et
+d'expliquer leurs rôles
+d'énumérer les différents types de modèles de
+données (hiérarchique, relationnel, objet, etc.)
+de mettre en œuvre une démarche lui permet-
+tant de travailler sur une architecture 3 tiers
+(identification des différents serveurs, leurs ac-
+cès et les différents espaces de travail)
+de comprendre une base de données existante
+(établir un schéma conceptuel, requêtes SQL)
+
+de faire évoluer une base existante (modifica-
+tion du schéma, ajout de contraintes ...)
+de concevoir et mettre en œuvre une base de
+données à partir d'un cahier des charges
+de mettre en place des programmes sur les ser-
+veurs et les clients web nécessaires au fonc-
+tionnement de l'architecture 3 tiers
+d'utiliser les principaux langages de développe-
+ment des applications web (HTML, CSS, PHP,
+XML, javascript …)
+de mettre en œuvre l'accès aux données d'une
+base à partir du client web
+de mettre en place une application web com-
+plète répartie sur les 3 tiers
+
+3. UE603 : Environnement et Applications
+
+22
+
+Semestre 6
+
+3.1. INFO632 - Systèmes d’exploitation et Virtualisation
+Cours (h)
+
+Pondération
+
+TP (h)
+
+Evaluation
+
+TD (h)
+13.5
+
+10.5
+
+16
+
+3
+
+CC
+
+Langue(s) utilisée(s) pour les enseignements
+• Français
+Pré-requis
+Aucun
+Descriptif
+Ce cours vise à appréhender les systèmes d'exploitation et la virtualisation d'un point de vue utilisateur. Le cours
+aborde les grands principes et les travaux dirigés et pratiques permettent d'observer les réactions du système et
+de mieux comprendre son fonctionnement.
+Plan du Cours
+Introduction
+1.
+1.1. Rôle des systèmes, intérêt de la virtualisation
+1.2. Historique
+1.3. Architecture
+1.4. Concepts de base
+
+3.
+
+2. Gestion des fichiers
+2.1. Arborescence
+2.2. Structures de fichiers
+2.3. Manipulation
+Processus
+3.1. Notion de processus
+3.2. Partage du processeur
+3.3. Communications
+Synchronisation
+4.1. Introduction à la programmation multi-tâches
+4.2. Cohérence et synchronisation
+
+4.
+
+5. Virtualisation
+
+5.1. Intérêts de la virtualisation
+5.2. Différents types de virtualisation et leur fonctionnement
+
+Intitulés TP
+• Ligne de commande et manipulation de fichiers
+• Automatisation de tâches, langages de scripts
+• Manipulation de processus, partage du processeur
+• Synchronisation de processus
+• Un système dans un système : création et déploiement de machines virtuelles
+Objectifs d'apprentissage
+
+Ce cours vise à rendre l'élève apte à :
+comprendre le principe de fonctionnement des
+systèmes d'exploitation et de la virtualisation
+ 
+
+ 
+
+acquérir les bases de la programmation mul-
+ti-tâches, comprendre les besoins de synchroni-
+sation entre processus.
+ 
+
+Niveau
+
+A l'issue de ce cours l'élève sera capable :
+Application d'utiliser de manière intelligente un système
+
+d'exploitation
+de programmer de manière plus efficace, en
+prenant en compte le comportement du système
+de créer une machine virtuelle et l'utiliser
+
+ 
+
+ 
+
+Application de comprendre le partage des ressources (pro-
+cesseur, mémoire, fichiers) par les processus
+
+d'identifier les problèmes de cohérence et com-
+prendre les mécanismes de synchronisation
+
+ 
+
+23
+
+Semestre 6
+
+3.2. ISOC631 - Plateformes collaboratives
+Pondération
+Cours (h)
+
+TD (h)
+
+TP (h)
+
+12
+
+12
+
+16
+
+3
+
+Evaluation
+
+CC
+
+Langue(s) utilisée(s) pour les enseignements
+• Anglais
+Pré-requis
+Digital Society course- Python programming
+Descriptif
+Le  but  de  ce  cours  est  d'introduire  les  principes  et  l'utilisation  des  plateformes  collaboratives.    En  particulier
+les notions d'API seront introduites. Nous verrons en particulier les réseaux sociaux (Facebook et Twitter), les
+plateformes de développement collaboratives comme GitHub ou freshmat et le Crowd Funding. Finalement une
+introduction au logiciel libre et au développement participatif sera faite. Ce cours sera l'occasion pour les étudiants
+de faire un projet autour de ces plateformes.
+Plan du Cours
+1.
+2. REST API
+3. Middleware
+4.
+5.
+6. Using collaborative development platforms
+
+Introduction to Facebook API and social graph search
+Introduction to Twitter API (streaming and search)
+
+Introduction to the concept of Platform and API
+
+6.1. Using GIT, SVN and Mercurial
+Introduction to Crowd Funding platforms
+
+7.
+8. A history of open source projects
+
+8.1. GNU, LINUX
+
+Facebook Social Graph API
+Twitter API
+
+Intitulés TP
+1.
+2.
+3. Collaborative platform usage projects
+Objectifs d'apprentissage
+
+Ce cours vise à rendre l'élève apte à :
+Using Online collaborative platform
+ 
+ 
+
+ 
+
+Niveau
+Maîtrise
+
+ 
+ 
+
+ 
+
+A l'issue de ce cours l'élève sera capable :
+to understand the concept of API
+to use Twitter and Facebook API
+to use collaborative development tools like Gi-
+tHub
+to understand issues of open source develop-
+ment
+
+3.3. PROJ632 - Projet Data Science
+Cours (h)
+
+TD (h)
+
+TP (h)
+
+Pondération
+
+ 
+
+ 
+
+30
+
+3
+
+Evaluation
+
+CC
+
+Langue(s) utilisée(s) pour les enseignements
+• Français
+Pré-requis
+Numération et Algorithmique (INFO 501) Base de données (INFO 502, INFO 642a) Conception et Programmation
+Orientée Objet (INFO 641a) Gestion de projets (PROJ 531)
+Descriptif
+Ce premier projet dans le cadre des Data Science vise à analyser quelles données sont nécessaires pour répondre
+au problème donné, à les acquérir puis à s'assurer de leur cohérence et compléter si certaines informations sont
+
+24
+
+Semestre 6
+
+manquantes. Les données pourront être soit des données structurées comme nous pouvons les trouver dans des
+approches Open Data ou être des données non structurées comme du texte (avis sur les réseaux sociaux : recettes
+de cuisine, restaurants, etc.). Le projet donnera lieu à la réalisation d'un document qui fournira les modèles pour
+la réalisation de l'application ainsi que les schémas de base de données et les données nécessaires pour répondre
+au problème.
+Objectifs d'apprentissage
+
+Ce cours vise à rendre l'élève apte à :
+faire de l'acquisition et de la consolidation de
+données
+ 
+ 
+
+Niveau
+
+A l'issue de ce cours l'élève sera capable :
+
+Application d'acquérir des données plus ou moins bien
+
+ 
+ 
+
+structurées
+d'effectuer un nettoyage des données
+de pallier au manque d'informations dans les
+données
+
+4. UE604 : Passerelle vers le milieu professionnel
+
+4.1. LANG600 - Soutien : Anglais
+Cours (h)
+
+TD (h)
+
+TP (h)
+
+Pondération
+
+Evaluation
+
+ 
+
+12
+
+ 
+
+ 
+
+ 
+
+Langue(s) utilisée(s) pour les enseignements
+• Anglais
+Pré-requis
+Soutien de s5 (12h en présentiel et 12h en autonomie)
+Descriptif
+Reprise de toutes les bases et renforcement des points de langues vus en s5. 12h de cours  par semestre en groupe
+de 15 étudiants.
+
+4.2. LANG601 - Anglais
+Cours (h)
+
+TP (h)
+
+TD (h)
+40.5
+
+ 
+
+ 
+
+Pondération
+
+3
+
+Evaluation
+
+CC
+
+Langue(s) utilisée(s) pour les enseignements
+• Anglais
+Pré-requis
+Programme de S5 (LANG501)
+Descriptif
+Ce  cours  prépare  les  étudiants  au  test  du  TOEIC  ("Test  of  English  for  International  communication")  et  plus
+exactement à l'obtention d'un score minimal de 785 points (sur 990).
+Les étudiants sont évalués tout au long de chaque semestre. L'évaluation terminale consiste en une épreuve de
+1h, 1h30 ou 2h selon le semestre et selon le site (Annecy ou Le Bourget),et compte coefficient 2 dans le contrôle
+continu total.
+Les étudiants sont évalués tout au long de chaque semestre. L'évaluation terminale consiste en une épreuve de
+1h, 1h30 ou 2h selon le semestre et selon le site (Annecy ou Le Bourget),et compte coefficient 2 dans le contrôle
+continu total.
+Plan du Cours
+1. Révision de points de grammaire importants pour le Toeic
+
+1.1. Le nom
+1.2. Les pronoms
+1.3. Les mots de liaisons....
+
+2. Compréhension orale
+
+2.1. Dialogues enregistrés en anglais américain, britannique, néo-zélandais....
+2.2. Videos en anglais américain, britannique, australien....
+
+25
+
+Semestre 6
+
+3. Compréhension écrite
+3.1. Extraits de presse
+3.2. Textes divers
+
+Objectifs d'apprentissage
+
+Maîtrise
+
+Niveau
+Maîtrise
+
+comprendre des documents sonores et
+s’exprimer oralement
+ 
+
+Ce cours vise à rendre l'élève apte à :
+auto-vérifier sa maîtrise des structures de la
+langue et à en poursuivre l’apprentissage mé-
+thodique, en visant une inter-activité opération-
+nelle des 4 compétences de communication.
+
+A l'issue de ce cours l'élève sera capable :
+de faire des révisions grammaticales sur : les
+réflexes corrects des structures courantes ; le
+groupe verbal et les temps (sauf l’expression
+du conditionnel) ; le groupe nominal et tous ses
+éléments constitutifs; les liens logiques (mots
+de liaison)
+d'améliorer ses connaissances grammaticales et
+lexicales (anglais général et vocabulaire spéci-
+fique au TOEIC) en classe et en autonomie, en
+les validant par des tests d’évaluation réguliers
+de travailler sur les conversations télépho-
+niques (compréhension /production)
+de travailler sur des supports audio et vidéo va-
+riés et prendre la parole pour réagir spontané-
+ment en inter-activité avec la classe
+de pratiquer des exercices de TOEIC (4 parties
+de compréhension orale) + tests entiers
+de prendre la parole en mode préparé et en in-
+ter-activité spontanée via des exposés indivi-
+duels (auto-présentation et/ou compte-rendus
+d’articles, type « colles ») et des exposés par
+deux (sujets variés)
+d'écouter régulièrement les nouvelles sur des
+sites anglophones d’information (CNN, BBC,
+Skynews…) et sera en mesure de restituer
+l’essentiel oralement de façon succincte, en in-
+ter-activité avec le groupe-classe
+de pratiquer des exercices de TOEIC (3 parties
+écrites)
+de lire des documents variés (articles généraux
+et scientifiques) et de rédiger quelques lignes
+pour en rendre compte et donner son avis.
+d'écrire des emails (à caractère personnel et
+professionnel) /de commencer à rédiger CVs et
+lettres de motivation
+4.3. PROJ601 - Stage Découverte du milieu professionnel
+Cours (h)
+
+comprendre des documents écrits et s’exprimer
+à l’écrit
+ 
+
+Pondération
+
+Evaluation
+
+Maîtrise
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+TD (h)
+
+TP (h)
+
+ 
+
+ 
+
+ 
+
+ 
+
+Quitus diplôme
+
+Descriptif
+Au cours de sa 3ème année, l’élève ingénieur aura l’obligation d’effectuer soit un stage en entreprise (stage ouvrier
+ou technicien) soit un stage de mobilité à l’étranger (travail pour une œuvre humanitaire ou emploi dans un pays
+étranger, etc.).
+Les objectifs du stage ouvrier sont :
+• vivre une expérience en situation d’ouvrier,
+• s’intégrer et participer à une organisation professionnelle,
+
+26
+
+Semestre 6
+
+• identifier les missions des employés (ingénieurs, techniciens, ouvriers ...),
+• découvrir des méthodes et des pratiques professionnelles (style de management, qualité, sécurité, environne-
+
+ment, ...).
+
+• tirer des conclusions de son stage, pour sa propre formation, dans l’optique d’une éventuelle future intégration
+
+dans cette entreprise en tant qu’ingénieur.
+
+Les objectifs du stage de mobilité à l’étranger :
+• vivre une expérience à l’international,
+• s’intégrer et découvrir un pays étranger (hors canton de Genève et Monaco),
+• améliorer son niveau en langue
+Objectifs d'apprentissage
+
+Ce cours vise à rendre l'élève apte à :
+murir son projet professionnel
+
+ 
+
+Niveau
+
+A l'issue de ce cours l'élève sera capable :
+
+Application d’identifier ses motivations, ses valeurs et ses
+
+compétences professionnelles
+de décrire l'organisation d'une entreprise
+
+ 
+
+4.4. SHES601 - Gestion financière
+Cours (h)
+
+TD (h)
+
+TP (h)
+
+Pondération
+
+10.5
+
+9
+
+ 
+
+1.5
+
+Evaluation
+
+CT
+
+Langue(s) utilisée(s) pour les enseignements
+• Français
+Descriptif
+L'objectif de ce cours est d'acquérir les notions de base en gestion financière.
+Plan du Cours
+1.
+2.
+3.
+
+L'entreprise et son environnement: notions générales, milieu économique... (1 cours + 1 TD)
+La comptabilité générale: écriture comptable, comptabilité analytique, impôts et taxes (1 cours + 1 TD)
+Le diagnostic économique: caractéristiques et structure, moyens financiers, humains et matériels, investisse-
+ment et financement (2 cours + 2 TD)
+Le diagnostic financier : bilan, compte de résultat, ratios... (3 cours + 2 TD)
+
+4.
+Objectifs d'apprentissage
+
+Ce cours vise à rendre l'élève apte à :
+décrire les paramètres essentiels en gestion fi-
+nancière
+
+Niveau
+Notion
+
+ 
+
+ 
+
+ 
+
+ 
+
+A l'issue de ce cours l'élève sera capable :
+de comprendre les principales notions en
+comptabilité générale: écriture comptable,
+comptabilité analytique, impôts et taxes
+d'expliquer le diagnostic économique: carac-
+téristiques et structure, moyens financiers, hu-
+mains et matériels, investissement et finance-
+ment
+de comprendre les outils de diagnostic finan-
+cier : bilan, compte de résultat, ratios...
+
+4.5. SHES602 - Initiation au droit
+Cours (h)
+
+TD (h)
+
+TP (h)
+
+15
+
+4.5
+
+ 
+
+Pondération
+
+1.5
+
+Evaluation
+
+CT
+
+Langue(s) utilisée(s) pour les enseignements
+• Français
+Descriptif
+L'objectif de ce cours  est d'acquérir les notions de base en droit.
+
+27
+
+Semestre 6
+
+Plan du Cours
+1.
+2.
+3.
+4.
+Objectifs d'apprentissage
+
+Les Institutions judiciaires, les Principes Fondamentaux et les Acteurs de la Justice (2 cours + 1 TD)
+La Procédure Pénale et de Droit Pénal (1 cours + 1 TD)
+Le Contrat, la Responsabilité Contractuelle et le Droit de la Famille (2 cours + 1 TD)
+Le Droit du Travail (4 cours)
+
+Ce cours vise à rendre l'élève apte à :
+appréhender les bases du droit du travail
+ 
+
+ 
+
+Niveau
+Notion
+
+ 
+
+ 
+
+A l'issue de ce cours l'élève sera capable :
+d'identifier les principes du Droit du Travail
+de connaître les Institutions judiciaires, les
+Principes Fondamentaux et les Acteurs de la
+Justice
+d'appréhender le Contrat, la Responsabilité
+Contractuelle et le Droit de la Famille
+
+28
+
+Semestre 7
+
+UE
+
+ECTS Module
+
+Intitulé
+
+Cours (h) TD (h)
+
+TP (h)
+
+Pondé-
+ration
+
+Evaluation
+
+DATA731a
+
+Modélisation
+Stochastique
+
+12
+
+ 
+
+8
+
+ 
+
+ 
+
+7
+
+ 
+
+ 
+
+INFO731a
+
+MATH741c
+
+INFO732a
+
+INFO743c
+
+PROJ731a
+
+9
+
+DATA732
+
+ 
+
+ 
+
+ 
+
+ 
+
+INFO734
+
+ISOC731
+
+Sécurité et
+
+Cryptographie
+Probabilités
+et statistiques
+Comportement
+et Modélisa-
+
+tion Dynamique
+
+Réseaux et sys-
+tèmes répartis
+Flux de Don-
+nées et Accès
+Concurrents
+Analyse et vi-
+
+sualisation
+de données
+
+Développe-
+
+ment Full Stack
+
+Économie et
+gouvernance
+de la donnée
+
+6
+
+LANG700a Soutien : Anglais
+
+ 
+
+ 
+
+ 
+
+ 
+
+LANG701a
+
+LANG702a
+
+SHES703a
+
+SHES704a
+
+Anglais (Ni-
+veau TOEIC
+non atteint)
+Langues vi-
+
+vantes (Niveau
+TOEIC atteint)
+Ressources et
+dynamique pro-
+
+fessionnelles
+
+Créativité et
+Management
+de l'innovation
+
+UE701 :
+Mathéma-
+tiques et
+Données
+
+ 
+
+ 
+
+UE702 :
+Informa-
+tique et
+
+Conception
+
+ 
+
+ 
+
+UE703 :
+Visualisa-
+tion et Gou-
+
+vernance
+
+UE704 :
+Passerelle
+vers le mi-
+lieu pro-
+fessionnel
+
+ 
+
+ 
+
+ 
+
+ 
+
+24
+
+20
+
+ 
+
+24
+
+20
+
+12
+
+16
+
+24
+
+16
+
+ 
+
+ 
+
+ 
+
+8
+
+ 
+
+3
+
+3
+
+2
+
+2.5
+
+2.5
+
+2
+
+3
+
+3
+
+3
+
+ 
+
+3
+
+3
+
+CC
+
+ET(50%) +
+CC(50%)
+CC(50%)
++ ET(50%)
+CC(50%)
++ ET(50%)
+
+ET(60%)
++ TP(40%)
+
+CC
+
+CC
+
+CC(0,7)+TP(0,3)
+
+CC
+
+ 
+
+CC
+
+CC
+
+1.5
+
+1.5
+
+Oral (50%)
++ rapport et
+soutenance
+
+stage 3A (50%)
+CC (20%) Rap-
+
+port +Soute-
+nance(80%)
+
+12
+
+18
+
+7.5
+
+12
+
+4
+
+12
+
+12
+
+12
+
+ 
+
+ 
+
+ 
+
+ 
+
+8
+
+18
+
+6
+
+3
+
+4
+
+12
+
+ 
+
+12
+
+6
+
+40.5
+
+30
+
+10.5
+
+12
+
+13.5
+
+29
+
+Semestre 7
+
+1. UE701 : Mathématiques et Données
+1.1. DATA731a - Modélisation Stochastique
+Pondération
+Cours (h)
+
+TD (h)
+
+TP (h)
+
+12
+
+ 
+
+24
+
+3
+
+Evaluation
+
+CC
+
+Langue(s) utilisée(s) pour les enseignements
+• Français
+• Français avec documents en anglais
+Descriptif
+L’objectif du module est une étude approfondie de modélisations stochastiques dans un contexte de description,
+d’analyse et de recherche d’information dans des données. Les principaux modèles étudiés sont associés à des ap-
+proches probabilistes et statistiques. Le module comprend l'étude des familles probabilisées mono et multivariées
+munies de fonctions d'entropies, des familles dites autorégressives et à moyennes mobiles (ainsi que leurs géné-
+ralisations neuronales), des familles différentielles et intégrales stochastiques (d’ordres entiers et fractionnaires),
+  aux processus de Poisson et aux propriétés dites markoviennes de certains processus, mais également aux inter-
+actions de processus et aux mélanges de modèles simples.
+Plan du Cours
+1. Modèles probabilistes mono et multivariés
+2.
+3.
+4. Modèles statistiques autorégressifs et leurs généralisations neuronales
+5.
+6.
+7.
+8.
+9.
+
+Equations stochastiques intégrales / aux différences d'ordres entiers
+Equations stochastiques intégrales / aux différences d'ordres fractionnaires
+Processus en interactions et modèles de mélanges
+Processus de Poisson - Chaines et Champs de Markov
+Simulation stochastique et estimation de paramètres (générateurs de nombres aléatoires, méthodes de Monte-
+Carlo, régressions, approches bayésiennes, etc.)
+
+Entropies paramétriques croisées et relatives
+Principe du maximum de vraissemblance
+
+Intitulés TP
+TP (8h) :  Projet Modélisation stochastique (16h) : Les élèves travailleront sur des mini-projets associés à plusieurs
+thèmes, entre autres :
+• La détection d’anomalies (comportements spéculatifs dans les données boursières, rupture dans un cycle hy-
+
+drographique, etc.).
+
+• L’analyse des tendances (données financières, données météorologiques, etc.).
+• La classification d’observations (données biologiques, signaux, images, etc.).
+• Etc.
+Objectifs d'apprentissage
+
+Ce cours vise à rendre l'élève apte à :
+décrire une observation imprécise par un mo-
+dèle stochastique
+
+Niveau
+Maîtrise
+
+A l'issue de ce cours l'élève sera capable :
+de sélectionner et de valider la pertinence d'un
+modèle stochastique pour la description d’une
+observation donnée ou d’une information ca-
+chée dans un flux de données.
+
+associer une information imprécise à un para-
+mètre du modèle stochastique
+
+suivre/prédire l'évolution d'un phénomène phy-
+sique ou d'une information
+
+Application d'estimer les paramètres du modèle et de mettre
+en évidence des tendances, des changements ou
+des écarts dans les observations de processus,
+en comparaison avec des spécifications atten-
+dues
+
+Application de prédire la nature des observations futures en
+tenant compte du modèle validé et des observa-
+tions passées
+
+30
+
+Semestre 7
+
+1.2. INFO731a - Sécurité et Cryptographie
+Pondération
+Cours (h)
+
+TD (h)
+
+TP (h)
+
+Evaluation
+
+12
+
+8
+
+20
+
+3
+
+ET(50%) + CC(50%)
+
+Langue(s) utilisée(s) pour les enseignements
+• Français avec documents en anglais
+• Anglais
+Pré-requis
+System course
+Descriptif
+Ce cours présente une introduction aux principes et à la pratique de la sécurité des réseaux et des systèmes infor-
+matiques. Les sujets abordés seront la cryptographie, la sécurité des réseaux et des systèmes d'exploitations, les
+mécanismes de propagation des vers et virus, et la gestion d'incident de sécurité. Nous traiterons aussi de sujet liés
+à la sécurité des applications mobiles, des systèmes de paiement et de la sécurité des données.
+Plan du Cours
+1.
+2. Cryptography
+
+ Introduction to Security
+
+2.1. Symmetric Cryptography
+2.2. Asymmetric Cryptography
+2.3. Hash functions
+
+IPSec
+
+3. Key Management  and PKI
+4. Network Security – Attacks
+5. Web Security (pdf)
+6.
+7. VPNs & Firewalls
+8.
+Intrusion Detection
+9. User Authentication
+10. Program Security – Attacks
+11. Malware
+Intitulés TP
+1. Using PGP and other encryption scheme
+2. web security and SSL
+3.
+virus anatomy
+4. Network attack
+5.
+6.
+Objectifs d'apprentissage
+
+Intrusion detection
+Privacy leakage and tracking
+
+Ce cours vise à rendre l'élève apte à :
+knowing how to protect computer systems
+from cyber risks
+ 
+
+knowing how to protect private and sensitive
+data
+ 
+
+ 
+
+Niveau
+Maîtrise
+
+ 
+
+Maîtrise
+
+A l'issue de ce cours l'élève sera capable :
+to use active and passive protection systems,
+like authentification systems, firewalls
+to understand network attack mechanisms
+to deploy encryption protection mechanism
+
+ 
+
+ 
+
+to categorize data base on security classifica-
+tion and to implement separation scheme bet-
+ween sensitive and non sensitive data
+to be able to conceive data protection plans.
+
+1.3. MATH741c - Probabilités et statistiques
+Cours (h)
+
+Pondération
+
+TD (h)
+
+TP (h)
+
+18
+
+18
+
+ 
+
+2
+
+31
+
+Evaluation
+
+CC(50%) + ET(50%)
+
+Semestre 7
+
+Descriptif
+Objectifs d'apprentissage
+
+Ce cours vise à rendre l'élève apte à :
+modéliser une situation aléatoire à l'aide de
+probabilités
+ 
+ 
+
+Niveau
+Maîtrise
+
+ 
+ 
+
+maitriser les statistiques
+
+Maîtrise
+
+ 
+
+ 
+
+ 
+
+ 
+
+2. UE702 : Informatique et Conception
+
+A l'issue de ce cours l'élève sera capable :
+de manipuler les variables discrètes ou conti-
+nues
+de connaitre et utiliser les lois classiques
+de trouver la loi d'une variable aléatoire et
+d'une somme de variables aléatoires
+d'utiliser des probabilités pour déterminer les
+lois des échantillons
+d'utiliser des approximations (par la loi nor-
+male, la loi de Poisson ...)
+de déterminer des modèles (régressions ... )
+
+2.1. INFO732a - Comportement et Modélisation Dynamique
+Cours (h)
+
+Pondération
+
+Evaluation
+
+TD (h)
+
+TP (h)
+
+7.5
+
+6
+
+24
+
+2.5
+
+CC(50%) + ET(50%)
+
+Langue(s) utilisée(s) pour les enseignements
+• Français
+Descriptif
+L'objectif de ce cours est d'apprendre à concevoir et réaliser un système logiciel en tenant compte de propriétés
+non fonctionnelles telles que la maintenabilité ou sa capacité à évoluer. Les aspects statiques ayant été abordés
+dans le module INFO641 selon une approche objet, l'accent est mis ici sur les aspects dynamiques du système,
+i.e. son comportement.
+Plan du Cours
+1. Analyse et conception des aspects dynamique avec UML (diagrammes de séquences, de collaboration et
+
+d'états-transitions)
+
+Patrons de conception pour des produits logiciels évolutifs
+
+2. Attributs qualité des produits logiciels (Normes ISO/CEI 9126, SquaRE)
+3.
+Intitulés TP
+Mise en pratique dans le cadre d'un mini-projet par équipes.
+Objectifs d'apprentissage
+
+Ce cours vise à rendre l'élève apte à :
+analyser et concevoir le comportement d'un
+système logiciel en utilisant la notation UML.
+
+Niveau
+
+A l'issue de ce cours l'élève sera capable :
+
+Application de produire un modèle dynamique (dia-
+
+citer et expliquer les attributs qualité liés au
+comportement d'un produit logiciel (adéquation
+fonctionnelle, maintenabilité, etc.)
+ 
+
+Notion
+
+ 
+
+grammes d'états-transitions, de séquences et
+collaboratifs) représentant le comportement
+d'un système logiciel
+d’expliquer le rôle de la maintenance dans le
+développement du logiciel
+
+de distinguer les aspects fonctionnels (services
+attendus) des aspects non fonctionnels (fiabili-
+té, maintenabilité, etc.)
+
+prendre en compte ces attributs qualité dans la
+conception et la réalisation des systèmes logi-
+ciels.
+
+Application d'intégrer dès la conception du logiciel les
+
+"bonnes pratiques" ainsi que les aspects non
+fonctionnels tels que la capacité du logiciel à
+évoluer (maintenabilité)
+
+32
+
+Semestre 7
+
+Ce cours vise à rendre l'élève apte à :
+ 
+
+Niveau
+
+ 
+
+A l'issue de ce cours l'élève sera capable :
+de faire des choix argumentés de conception
+par rapport à des caractéristiques visées pour le
+logiciel
+
+concevoir et réaliser des systèmes logiciels en
+utilisant les bonnes pratiques en génie logiciel
+(patrons de conception).
+
+Application de mettre en oeuvre des patrons logiciels liés
+au comportement tels que les patrons "Straté-
+gie", "Observateur" et "Adaptateur"
+
+2.2. INFO743c - Réseaux et systèmes répartis
+Cours (h)
+
+Pondération
+
+TD (h)
+
+TP (h)
+
+Evaluation
+
+12
+
+3
+
+20
+
+2.5
+
+ET(60%) + TP(40%)
+
+Introduction à l'architecture d'Internet (1,5h cours)
+Protocoles applicatifs (1,5 h cours)
+Protocoles de transport: TCP, UDP (1,5 h cours)
+
+Langue(s) utilisée(s) pour les enseignements
+• Français
+• Français avec documents en anglais
+Pré-requis
+Notions de programmation
+Descriptif
+Ce cours donne les concepts fondamentaux nécessaires à la compréhension des réseaux informatique et aux dé-
+ploiement des applications et systèmes réparties. Le cours débutera par une introduction à l'architecture de l'Internet
+et aux notions de protocoles applicatifs. Il présentera ensuite les protocoles de transport ainsi que la structure
+de l'adressage IP. L'interface sockets sera présentée ainsi que la notion de middleware. L'algorithmique répar-
+tie sera introduite par des examples concrets d'applications.  Ceci fournira les bases essentielles au déploiement
+d'application en réseau et réparties.
+Plan du Cours
+1.
+2.
+3.
+4. Adressage IP (1,5 h cours)
+5.
+6. Middlewares (1,5 h cours)
+7. Algorithmique répartie (1,5 h cours)
+8.
+Liste des TD
+• TD 1 ( protocoles, encapsulation, architecture IP)
+• TD2 (middlewares, systèmes répartis)
+Intitulés TP
+• Mise en place d'un réseau IP (4 h de TP)
+• Routage IP ( 4 h de TP)
+• Capture de trames et observation in vivo (4 h de TP)
+• Développement d'applications réseaux (serveur de tchat) (4h de TP)
+• Algorithmique répartie et middlewares (4h de TP)
+Objectifs d'apprentissage
+
+Programmation Socket  (1,5 h cours)
+
+Etude de cas (1,5 h cours)
+
+Ce cours vise à rendre l'élève apte à :
+comprendre l'architecture de l'Internet et des
+réseaux IP
+comprendre l'architecture des applications ré-
+seau
+
+comprendre et mettre en place des protocoles
+applicatifs rétroactifs
+
+A l'issue de ce cours l'élève sera capable :
+de déployer un réseau local simple et définir un
+adressage IP
+de développer des applications réseaux et des
+algorithmes répartis simples en utilisant les so-
+ckets ou du middleware
+d'implanter des applications client-serveur et
+Pair à Pair
+
+Niveau
+Maîtrise
+
+Notion
+
+Maîtrise
+
+33
+
+Semestre 7
+
+Bibliographie
+• J. Kurose, Keith W. Ross, Analyse structurée des réseaux - Des applications de l'Internet aux infrastructures de
+
+télécommunication (2e éd.), Pearson Education, 2003
+
+• A. S. Tanenbaum, M. Van Steen, Distributed Systems: Principles and Paradigms (2nd ed.), 2007, Prentice Hall
+
+2.3. PROJ731a - Flux de Données et Accès Concurrents
+Cours (h)
+
+Pondération
+
+TD (h)
+
+TP (h)
+
+Evaluation
+
+4
+
+4
+
+12
+
+2
+
+CC
+
+Langue(s) utilisée(s) pour les enseignements
+• Français
+Pré-requis
+Notions de programmation objet (INFO641a)
+Descriptif
+Ce cours à pour but d'apprendre, par la manipulation, la gestion des flux de données. La manipulation de grands
+flux de données nécessite la maîtrise des entrées sorties, de la programmation réseau et de la programmation
+concurrente.
+Plan du Cours
+1.
+
+Entrées/sorties en java
+1.1. Les flux
+1.2. Encapsulation
+Programmation réseau et sockets
+2.1. rappels sur les réseaux
+2.2. Sockets TCP et UDP
+2.3. Modèle client/serveur
+Programmation multi-thread et synchronisation
+3.1. Création de threads / pools de threads
+3.2. Cohérence et synchronisation
+
+2.
+
+3.
+
+Intitulés TP
+• Manipulation de flux en Java
+• Programmation concurrente -- Programme multi-threadé et sychronisation
+• Programmation répartie -- Réseau et concurrence
+Objectifs d'apprentissage
+
+Ce cours vise à rendre l'élève apte à :
+concevoir des solutions distribuées pour la ma-
+nipulation des flux de données
+ 
+
+ 
+
+Niveau
+Maîtrise
+
+ 
+
+ 
+
+A l'issue de ce cours l'élève sera capable :
+de manipuler les entrées/sorties en java de ma-
+nière avancée
+de programmer des solutions distribuées basées
+sur des sockets réseau
+de concevoir et mettre en oeuvre des pro-
+grammes multi-threadés
+
+3. UE703 : Visualisation et Gouvernance
+
+3.1. DATA732 - Analyse et visualisation de données
+Cours (h)
+
+Pondération
+
+TD (h)
+
+TP (h)
+
+12
+
+12
+
+16
+
+3
+
+Langue(s) utilisée(s) pour les enseignements
+• Français
+• Français avec documents en anglais
+
+34
+
+Evaluation
+
+CC
+
+Semestre 7
+
+Descriptif
+Le module d'Analyse et de Visualisation de données permettra à l'étudiant de disposer d'un ensemble de techniques
+pour l'analyse et la visualisation en fonction du type de données considérées : structurées, non structurées, graphes.
+Le module mettra en avant un certain nombre d'outils pour l'aider dans cette tâche.
+Plan du Cours
+1. Qu'est-ce que l'analyse de données ?
+2. Qu'est-ce que l'analyse en composantes principales ?
+3.
+
+Les différents types de données
+3.1. Données structurées (datasets)
+3.2. Données non structurées (audio, vidéo, texte)
+3.3. Graphes
+
+4. Outils pour l'analyse de données
+5. Outils pour la visualisation de données
+Objectifs d'apprentissage
+
+Ce cours vise à rendre l'élève apte à :
+analyser et visualiser différents types de don-
+nées
+ 
+
+ 
+
+Niveau
+Maîtrise
+
+ 
+
+ 
+
+A l'issue de ce cours l'élève sera capable :
+d'interpréter une analyse en composantes prin-
+cipales
+de définir quelle technique utilisée pour analy-
+ser les données
+d'exploiter les principales méthodes de visuali-
+sation
+
+3.2. INFO734 - Développement Full Stack
+Pondération
+Cours (h)
+
+TD (h)
+
+TP (h)
+
+12
+
+ 
+
+24
+
+3
+
+Evaluation
+
+CC(0,7)+TP(0,3)
+
+Langue(s) utilisée(s) pour les enseignements
+• Français
+• Français avec documents en anglais
+• Anglais
+Pré-requis
+Savoir utiliser HTML 5/CSS 3 (être capable de réaliser une page Web, un site Web statique avec mise en forme)
+Savoir utiliser JavaScript (être capable de mettre un peu de dynamique dans une page Web, en particulier la gestion
+des événements) Savoir administrer et utiliser une base de données NoSQL
+Descriptif
+L'objectif de cet enseignement est de présenter ce que l'on appelle le développement Full Stack JS avec deux
+parties :
+1. Développement Back-end (Node.js, Express, MongoDB)
+2. Développement Front-end (Angular 2, Ionic 2)
+La partie serveur reposera sur le serveur Node.js et Express, et sera appuyée par une base de données NoSQL. La
+partie client sera déclinée en trois versions. La première version sera générée par le serveur et envoyée au client
+sous la forme de pages HTML avec un moteur de rendu comme EJS. La deuxième version exploitera Angular
+2 pour une approche Single Page Application, et finalement la troisième version proposera de développer une
+version mobile avec Ionic 2.
+Plan du Cours
+1. Approches pour la réalisation d'un site Web dynamique (PHP vs. JavaScript)
+2.
+
+Fondamentaux sur Node.js
+2.1. Fonctionnement de Node.js
+2.2. Routage des requêtes entrantes avec Node.js et Express
+2.3. La notion de route
+2.4. La notion de controlleur
+2.5. Architecture modulaire pour le développement Full Stack
+
+35
+
+Semestre 7
+
+Single Page Applications
+
+3. Développement avec un moteur de rendu
+4. Qu'est-ce qu'une API REST ?
+5.
+6. Méthodes de développement pour le mobile
+Intitulés TP
+L'ensemble des séances de TP portera sur la réalisation d'un unique projet. A chaque séance seront abordées des
+notions différentes afin de le construire de façon incrémental, à savoir :
+1. Définition du serveur minimal Node.js et utilisation d'Express
+2. Création de routes et de controlleurs pour Express et rendu de pages en EJS
+3. Développement du CRUD pour l'exemple d'un todo multi-utilisateurs
+4. Développement du rendu côté serveur avec EJS
+5.
+6. Développement de l'approche Single Page Application avec Angular 2
+7.
+Objectifs d'apprentissage
+
+Exposition des données par l'intermédiaire d'une API REST
+
+Passage à une version mobile avec Ionic 2
+
+Ce cours vise à rendre l'élève apte à :
+développer l'ensemble des outils nécessaires
+pour gérer la partie serveur
+
+Niveau
+Maîtrise
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+A l'issue de ce cours l'élève sera capable :
+de comprendre le fonctionnement des parties
+serveur et des parties client d'une application
+Web
+de comprendre le routage et les différents
+middleware utilisés sur la partie serveur
+de réaliser un serveur pour le traitement de re-
+quêtes
+de réaliser un serveur REST
+
+Application de comprendre ce qu'est un SPA
+
+développer des applications de type Single
+Page Application
+ 
+
+développer des applications mobiles hybrides
+
+de faire la distinction entre l'approche pages
+serveur et SPA
+de comprendre ce qu'est une application Web,
+une application native et une application hy-
+bride
+de réaliser une application hybride ne nécessi-
+tant pas de base de données
+de réaliser une application hybride utilisant un
+serveur REST
+3.3. ISOC731 - Économie et gouvernance de la donnée
+Cours (h)
+
+Pondération
+
+Evaluation
+
+TD (h)
+
+TP (h)
+
+Notion
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+12
+
+12
+
+16
+
+3
+
+CC
+
+Langue(s) utilisée(s) pour les enseignements
+• Anglais
+Pré-requis
+No prerequisite
+Descriptif
+L'objectif de ce cours est d'acquérir lees éléments analytiques et méthodologiques pour appréhender les aspects
+économiques, légaux, éthiques et politique de la gouvernance des données et des ses usages. Nous présenterons la
+large variété des acteurs privées et publics, nationaux, européens et internationaux, afin de comprendre qui définit
+les normes, règles et protocoles pour le traitement de la donnée, et pour quelles raisons. Ceci permettra de com-
+prendre comment ces normes sont appliquées au niveau technique, politique et sociale. Nous nous concentrerons
+en particulier sur les problématiques relatives au respect de la vie privée, à la confiance et aussi à l'économie de
+la donnée.
+
+36
+
+Semestre 7
+
+Infrastructure  and critical resources
+Privacy, Personal data protection, security and cybersecurity
+
+Plan du Cours
+1.
+2.
+3. Access to information, transparency and open governance
+4.
+
+Intellectual property: concepts, problematics issues and controversies (author rights, copyright, trademarks,
+patents…)
+Internet content regulation
+Technical intermediaries liability : role of various gatekeepers
+Economics of personal data, behaviour advertising
+Personal data protection and security policies,  data retention, communication surveillance
+
+5.
+6.
+7.
+8.
+9. Case studies
+Intitulés TP
+Data governance project (In 4 lab sessions the student will pursue a data governance project from scratch up to
+the realizations)
+Objectifs d'apprentissage
+
+Ce cours vise à rendre l'élève apte à :
+Understand principles of data governance
+ 
+
+Understand principle of data economics
+ 
+
+ 
+
+Niveau
+Maîtrise
+
+ 
+
+Maîtrise
+
+ 
+
+ 
+
+A l'issue de ce cours l'élève sera capable :
+to integrate privacy into its design
+to integrate the legal and data governance fra-
+mework into is professional practice
+to integrate data economics into projects
+to evaluate the cost/benefit tradeoffs involved
+in data processing project
+to integrate information risks into analyses and
+designs.
+
+4. UE704 : Passerelle vers le milieu professionnel
+
+4.1. LANG700a - Soutien : Anglais
+Cours (h)
+
+TD (h)
+
+TP (h)
+
+Pondération
+
+ 
+
+6
+
+ 
+
+ 
+
+Evaluation
+
+ 
+
+Pré-requis
+Avoir validé S5 - S6 Score Toeic 635. Score Toeic 735 non atteint.
+Descriptif
+Reprise de toutes les bases et renforcement des points de langues. 6h de cours + 6 h de travail en autonomie par
+semestre en groupe de 15 étudiants.
+
+4.2. LANG701a - Anglais (Niveau TOEIC non atteint)
+Cours (h)
+
+Pondération
+
+TP (h)
+
+TD (h)
+40.5
+
+ 
+
+ 
+
+3
+
+Evaluation
+
+CC
+
+Langue(s) utilisée(s) pour les enseignements
+• Anglais
+Pré-requis
+Programme de S5 et S6.
+Descriptif
+Ce  cours  prépare  les  étudiants  au  test  du  TOEIC  ("Test  of  English  for  International  communication")  et  plus
+exactement à l'obtention d'un score minimal de 785 points (sur 990).
+Dans le but de travailler les 4 compétences, ce cours est aussi une introduction à la prise de parole en public au
+moyen de présentations données par des étudiants en groupes ou en individuel, sur des sujets illustrés par des
+articles de presse ou des supports vidéos (VTD : Video, Talk and Debate et aussi production écrite). Selon le site
+
+37
+
+Semestre 7
+
+(Annecy ou Chambéry certains seront vus à des moments différents du semestre, de l'année voire même des trois
+années de formation).
+Les étudiants sont évalués tout au long de chaque semestre. L'évaluation terminale consiste en une épreuve de
+1h, 1h30 ou 2h selon le semestre et selon le site (Annecy ou Le Bourget),et compte coefficient 2 dans le contrôle
+continu total.
+Plan du Cours
+1. Révision de points de grammaire importants pour le Toeic:
+
+1.1. Révisions des temps.
+1.2. Le conditionnel et les structures en "should" (suggestion/subjonctif).
+1.3. Les auxiliaires de modalité et les périphrases de sens voisin.
+1.4. Les mots de liaison (révisions).
+
+2. Compréhension orale:
+
+2.1. Dialogues enregistrés en anglais américain, britannique, néo-zélandais....
+2.2. Videos en anglais américain, britannique, australien.
+
+3. Compréhension écrite:
+3.1. Extraits de presse
+3.2. Textes divers
+
+Objectifs d'apprentissage
+
+Ce cours vise à rendre l'élève apte à :
+intervenir à l'écrit et à l'oral, en visant toujours
+l’inter-activité de communication opération-
+nelle
+
+Niveau
+Maîtrise
+
+ 
+
+comprendre des documents sonores et
+s’exprimer oralement
+
+ 
+
+comprendre des documents écrits et s’exprimer
+à l’écrit
+ 
+
+ 
+
+ 
+
+Notion
+
+ 
+
+Maîtrise
+
+ 
+
+ 
+
+A l'issue de ce cours l'élève sera capable :
+de poursuivre des révisions grammaticales
+sur : le conditionnel ; tous les autres temps ;
+l’expression de la suggestion et de la modali-
+té / le passif ; les structures verbales (infinitif/ -
+ing) ;
+d'améliorer ses connaissances grammaticales et
+lexicales (anglais général, « business » et de sa
+spécialité scientifique) , en classe et en autono-
+mie, en les validant par des tests réguliers
+de continuer à s’entraîner sur des exercices de
+TOEIC (4 parties de compréhension orale) +
+tests entiers
+de travailler sur des supports audio et vidéo va-
+riés (anglais général, « business » et de spécia-
+lité) et prendre la parole pour réagir spontané-
+ment, en inter-activité avec la classe
+de continuer à s’entraîner sur des exercices de
+TOEIC (3 parties écrites)
+de lire des documents variés (anglais général,
+« business » et scientifique) et rédigé quelques
+lignes pour en rendre compte et donner son
+avis
+de rédiger CVs et lettres de motivation
+
+4.3. LANG702a - Langues vivantes (Niveau TOEIC atteint)
+Cours (h)
+
+Pondération
+
+Evaluation
+
+TD (h)
+
+TP (h)
+
+ 
+
+30
+
+ 
+
+3
+
+CC
+
+Pré-requis
+• Pour l'anglais Culture Civilisation et Langue (CCL) : élèves ingénieurs ayant réussi le TOEIC.
+• Pour la LV2 : cours débutants uniquement pour le chinois et le japonais.
+Descriptif
+Ce cours est composé de deux parties :
+
+38
+
+Semestre 7
+
+• 15h d'Anglais :  Culture, Civilisation et Langue
+• 15h d'une seconde langue vivante. Les langues proposées sont :
+
+• Espagnol, Allemand et Italien pour les 2 sites de l'école (non débutants).
+• Chinois et Japonais sur le site d'Annecy avec des cours débutants possibles.
+
+Objectifs d'apprentissage
+
+Ce cours vise à rendre l'élève apte à :
+être en autonomie linguistique et culturelle
+pour communiquer de façon authentique
+ 
+
+ 
+
+Niveau
+Maîtrise
+
+ 
+
+ 
+
+imaginer, être créatif et crédible (dans une
+langue étrangère) pour convaincre des parte-
+naires professionnels
+
+Maîtrise
+
+ 
+
+comprendre et parler d'autres langues que
+le français et l'anglais et s'ouvrir à d'autres
+cultures.
+ 
+
+ 
+
+Maîtrise
+
+A l'issue de ce cours l'élève sera capable :
+d'inter-agir avec des professionnels (de sa spé-
+cialité) au cours de présentations
+d'écouter régulièrement les nouvelles sur des
+sites anglophones d’information (CNN, BBC,
+Skynews…) et sera en mesure de restituer
+l’essentiel oralement de façon succincte, en in-
+ter-activité avec le groupe-classe
+de faire des recherches (en groupe et indivi-
+duellement) à visée professionnelle / culturelle
+à présenter en classe
+de monter un projet professionnel innovant ;
+simuler les démarches auprès des acteurs éco-
+nomiques et d’apporter de l’aide pour le fina-
+liser (selon les étapes d’un « business plan »
+crédible : rédaction de emails, entretien télé-
+phonique, recrutement, recherches de finance-
+ment..)
+de le présenter, en démontrant la faisabilité
+technique et commerciale (« pitch » / sur le
+modèle de : « Dragons’ den »)
+de travailler sur des supports écrits, audio et vi-
+déo variés
+
+ 
+
+d'échanger avec des personnes non franco-
+phones et non anglophones.
+
+4.4. SHES703a - Ressources et dynamique professionnelles
+Cours (h)
+
+Pondération
+
+TP (h)
+
+TD (h)
+10.5
+
+ 
+
+8
+
+1.5
+
+Oral (50%) + rap-
+port et soutenance
+stage 3A (50%)
+
+Evaluation
+
+Langue(s) utilisée(s) pour les enseignements
+• Français
+Descriptif
+Le but du module est d'amener les élèves vers une meilleure connaissance de soi pour définir un projet profession-
+nel, élaborer une stratégie de recherche ciblée et se présenter efficacement lors d'un entretien.
+Plan du Cours
+1.
+2.
+3. Ressources et dynamique personnelles et professionnelles (4TD)
+Intitulés TP
+Simulations d'entretien avec des professionnels
+
+Préparation à la soutenance de stage (2 TD)
+Présentation des objectifs du stage (1TD)
+
+39
+
+Semestre 7
+
+Objectifs d'apprentissage
+
+Ce cours vise à rendre l'élève apte à :
+définir son projet de stage 4ème année et mener
+une recherche efficace
+ 
+
+ 
+
+ 
+
+ 
+
+Niveau
+
+A l'issue de ce cours l'élève sera capable :
+Application d'identifier ses valeurs, ses motivations et ses
+compétences personnelles et professionnelles
+de comprendre les attendus du stage de 4ème
+année
+de définir son projet selon les attendus du stage
+et ses ressources (personnalité et compétences)
+de convaincre en entretien
+
+ 
+
+ 
+
+4.5. SHES704a - Créativité et Management de l'innovation
+Cours (h)
+
+Pondération
+
+TP (h)
+
+Evaluation
+
+TD (h)
+13.5
+
+12
+
+ 
+
+1.5
+
+CC (20%) Rapport
++Soutenance(80%)
+
+Langue(s) utilisée(s) pour les enseignements
+• Français
+Descriptif
+L'objectif de ce cours est de permettre aux étudiants de connaitre les grandes orientations stratégiques des entre-
+prises. A travers une mise en application des notions abordées en cours magistral, les étudiants auront à gérer un
+projet innovation, à analyser le secteur, l'offre, la demande et à élaborer un business model.
+Ce cours a, en outre, pour vocation de développer des capacités entrepreneuriales chez les étudiants et, de leur
+donner les clés de compréhension de l'élaboration d'un projet innovant (contraintes temporelles, financières etc...).
+Plan du Cours
+1.
+
+Innovation ou invention? La créativité au démarrage
+1.1. Le processus de créativité
+1.2. Les outils de la créativité
+1.3. De l'idée aux Best-seller et produits cultes
+Le management de l'innovation
+2.1. Favoriser l'innovation dans l'entreprise
+2.2. S'organiser pour innover
+2.3. L'innovation et le crowdfunding
+La valeur de l'innovation Business ou GRD : quel outil?
+3.1. La proposition de valeur de l'innovation
+3.2. Le business Canvas
+3.3. Le GRP
+
+2.
+
+3.
+
+4. Quand l'innovation se confronte au marché
+4.1. L'étude de marché ou de non-marché
+4.2. les outils quantitatifs
+4.3. les outils qualitatifs
+L'écosystème de l'innovation
+5.1. Le PESTEL comme outil d'analyse de l'environnement de l'innovation
+5.2. Le SWOT comme outils d'évaluation de l'innovation
+
+5.
+
+6. Valoriser l'innovation
+
+7.
+
+6.1. Le rôle de la communication (faire aimer, faire connaitre, faire savoir)
+6.2. L'innovation et les réseaux sociaux
+L'entreprenariat et la création d'entreprise
+7.1. L'accompagnement à l'entreprenariat
+7.2. La posture entreprenariale
+7.3. Faut-il protéger l'idée?
+
+40
+
+Semestre 7
+
+Objectifs d'apprentissage
+
+Ce cours vise à rendre l'élève apte à :
+assurer le management de l'innovation
+
+Niveau
+
+A l'issue de ce cours l'élève sera capable :
+
+Application  
+
+41
+
+Semestre 8
+
+UE
+
+ECTS Module
+
+Intitulé
+
+Cours (h) TD (h)
+
+TP (h)
+
+9
+
+DATA831a
+
+Big Data
+
+7.5
+
+UE801 :
+Données et
+Aide à la
+Décision
+
+DATA832a Machine Learning
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+INFO831a
+
+PROJ831a
+
+9
+
+INFO832a
+
+UE802 :
+Informa-
+tique et
+
+Conception
+
+Informatique
+décisionnelle
+Projet Infor-
+matique Don-
+nées et Usages
+
+Qualité et
+tests logiciel
+
+ 
+
+ 
+
+ 
+
+UE804 :
+Passerelle
+vers le mi-
+lieu pro-
+fessionnel
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+INFO833a
+
+INFO834a
+
+ISOC831a
+
+Systèmes
+distribués à
+large échelle
+Bases de don-
+nées distribuées
+
+Dimen-
+
+sion métiers
+
+12
+
+LANG800
+
+Soutien : Anglais
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+LANG801a
+
+LANG802a
+
+PROJ801
+
+SHES802a
+
+SHES803a
+
+Anglais (Ni-
+veau TOEIC
+non atteint)
+Langues vi-
+
+vantes (Niveau
+TOEIC atteint)
+Stage Assis-
+tant ingénieur
+
+Système de Ma-
+nagement Inté-
+gré QSE (Qua-
+lité Sécurité En-
+vironnement)
+Théorie des
+organisations
+
+ 
+
+9
+
+9
+
+ 
+
+9
+
+9
+
+4.5
+
+12
+
+12
+
+12
+
+13.5
+
+7.5
+
+30
+
+ 
+
+ 
+
+ 
+
+ 
+
+7.5
+
+ 
+
+6
+
+40.5
+
+30
+
+ 
+
+9
+
+10.5
+
+13.5
+
+6
+
+42
+
+12
+
+12
+
+12
+
+36
+
+16
+
+15
+
+24
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Pondé-
+ration
+
+1
+
+Evaluation
+
+CC(50%)
++ ET(50%)
+
+2.5
+
+2.5
+
+3
+
+2.5
+
+2.5
+
+2.5
+
+1.5
+
+ 
+
+3
+
+3
+
+6
+
+CC(50%)
++ ET(50%)
+CC(50%)
++ ET(50%)
+
+CC
+
+CC
+
+ET(70%) +
+CC(30%)
+
+CC(50%)
++ ET(50%)
+
+CC
+
+ 
+
+CC
+
+CC
+
+Soutenance,
+rapport écrit,
+évaluation
+entreprise
+
+1.5
+
+CC
+
+1.5
+
+CC
+
+Semestre 8
+
+1. UE801 : Données et Aide à la Décision
+
+1.1. DATA831a - Big Data
+TP (h)
+Cours (h)
+
+TD (h)
+
+Pondération
+
+Evaluation
+
+7.5
+
+ 
+
+12
+
+1
+
+CC(50%) + ET(50%)
+
+Langue(s) utilisée(s) pour les enseignements
+• Français
+Pré-requis
+• Systèmes distribués à large échelle (INFO 833)
+• Bases de données distribuées (INFO 834)
+Descriptif
+Avec l'avènement du Digital, les données sont de plus en plus omniprésentes et en nombre tel qu'il n'est plus
+possible d'envisager une analyse sur un ordinateur personnel. Le Big Data est né chez les géants de l'Internet
+(Google, Amazon, Facebook, Yahoo) et a donné lieu à de nombreux outils devenus Open Source comme Big
+Table, Hadoop, MongoDB pour n'en citer que quelques-uns. Le module Big Data présente les différentes approches
+existantes pour la prise en compte de données massives à savoir un traitement par batch (avec Hadoop et Map
+Reduce), un traitement live (avec Apache Spark) et finalement l'architecture lambda mixant les deux approches.
+Plan du Cours
+1. Qu'est-ce que le Big Data ?
+2. Quelles sont les caractéristiques du Big Data ?
+
+2.1. Volume
+2.2. Vitesse
+2.3. Variété
+3. Du 3V au 5V
+
+4.
+
+3.1. Valeur
+3.2. Véracité
+Processus de calcul
+4.1. Approche Map Reduce
+4.2. Approche Streaming
+4.3. Approche Lamba
+
+Intitulés TP
+1. Approche Map Reduce pour le traitement de données textuelles
+2. Approche Streaming pour l'analyse de flux de données
+3. Architecture Lambda pour l'analyse dans le domaine des réseaux sociaux
+Objectifs d'apprentissage
+
+Ce cours vise à rendre l'élève apte à :
+sélectionner l'architecture la plus adaptée à son
+problème
+ 
+
+Niveau
+Maîtrise
+
+ 
+
+A l'issue de ce cours l'élève sera capable :
+de comprendre les trois architectures et leur
+utilisation
+de mettre en oeuvre les trois architectures
+
+1.2. DATA832a - Machine Learning
+Cours (h)
+
+TD (h)
+
+TP (h)
+
+Pondération
+
+Evaluation
+
+9
+
+9
+
+12
+
+2.5
+
+CC(50%) + ET(50%)
+
+Langue(s) utilisée(s) pour les enseignements
+• Français avec documents en anglais
+Pré-requis
+• MATH741a,
+• DATA732,
+• INFO501,
+• INFO641a
+
+43
+
+Semestre 8
+
+Descriptif
+Ce cours présente une vue d’ensemble de l’apprentissage automatique, de ses grands principes à sa mise en œuvre
+par des algorithmes spécialisés. Les principes de l’apprentissage sont présentés par le biais d’une typologie des
+problèmes abordés et des catégories d’apprentissage. Concrètement, la formulation d’un problème d’apprentissage
+correspond à spécifier conjointement objectifs, données et modèles. Le problème formulé est ensuite résolu en
+utilisant un algorithme adapté. Si les grands principes de l’apprentissage se déclinent sur les différents problèmes
+abordés, leur résolution fait appel à des algorithmes différents. Ce cours se focalise sur les problèmes de classifi-
+cation en mode supervisé et non-supervisé. Dans ce contexte, les grandes familles de modèles (arbres, réseaux de
+neurones, règles, modèles bayésiens, …) et algorithmes associés seront appréhendés par la pratique puis revisités
+a posteriori de façon à extraire les principes et concepts propres aux différentes méthodes.
+Plan du Cours
+1.
+
+Typologie de problèmes en apprentissage automatique
+1.1. classification
+1.2. détection d'anomalies
+1.3. régression
+1.4. clustering
+1.5. renforcement
+Formulation d'un problème et évaluation d'une solution
+2.1. objectifs
+2.2. données
+2.3. modèles et algorithmes
+2.4. approches supervisées / non-supervisées
+
+2.
+
+3. Classification supervisée
+
+3.1. arbres de décision
+3.2. réseaux de neurones
+3.3. classifieurs et réseaux bayésiens
+3.4. raisonnement à partir de cas
+
+4. Classification non-supervisée
+4.1. réduction de dimension
+4.2. méthodes par partitionnement
+4.3. méthodes hiérarchiques
+4.4. règles d'association
+
+Intitulés TP
+Utilisation d'outils au choix (plateforme Weka ou Knime, Librairies Python, Java-ML, ...) Les deux premiers TP
+seront sous la forme d'un challenge tel que ceux proposés par Kaggle et ouverts à tous comme par exemple :
+Titanic : machine learning from disaster - Predict survival on the Titanic ou encore Leaf classification.
+• TP1 : Problème d'apprentissage supervisé
+• TP2 : Problème d'apprentissage non supervisé
+• TP3 : Définir son propre problème d'apprentissage et le résoudre
+Objectifs d'apprentissage
+
+Ce cours vise à rendre l'élève apte à :
+transformer un problème fonctionnel en un pro-
+blème d'apprentissage automatique
+ 
+
+ 
+
+réaliser une classification supervisée en exploi-
+tant les modèles et méthodes d'apprentissage
+classiquement disponibles dans les logiciels de
+fouille de données
+
+Niveau
+Maîtrise
+
+ 
+
+ 
+
+Expertise
+
+44
+
+A l'issue de ce cours l'élève sera capable :
+de formuler un problème d'apprentissage par
+un triplet (données, objectifs, modèles)
+de positionner un problème particulier dans la
+typologie des problèmes abordés en apprentis-
+sage automatique
+de formuler une procédure d'évaluation d'un
+système appris
+d'expliquer, analyser et interpréter les principes
+de base des approches supervisées usuelles
+(arbres de décision, réseaux de neurones, sys-
+tèmes bayésiens)
+
+Ce cours vise à rendre l'élève apte à :
+ 
+
+ 
+
+Semestre 8
+
+Niveau
+
+ 
+
+ 
+
+construire des groupes homogènes d'individus
+similaires
+ 
+
+Expertise
+
+ 
+
+A l'issue de ce cours l'élève sera capable :
+de mettre en forme les données, configurer et
+paramétrer correctement les différents types de
+modèles et méthodes
+d'évaluer et comparer différents modèles appris
+d'exploiter des algorithmes de clustering hiérar-
+chique ou de partitionnement
+de construire et d'utiliser une métrique de
+distance/similarité adaptée aux données en
+contexte supervisé ou non
+
+Bibliographie
+• E. Biernat, M. Lutz, Data Science : fondamentaux et études de cas - Machine learning avec Python et R,  Eyrolles
+
+2015
+
+• T.M Mitchell, Machine Learning, McGraw-Hill Series, 1997
+• I.A Witten, E. Franck, Data mining - Practical machine learning tools and techniques with Java implementations,
+
+Morgan Kaufman Publishers, 1999
+1.3. INFO831a - Informatique décisionnelle
+Pondération
+Cours (h)
+
+TD (h)
+
+TP (h)
+
+Evaluation
+
+9
+
+9
+
+12
+
+2.5
+
+CC(50%) + ET(50%)
+
+Langue(s) utilisée(s) pour les enseignements
+• Français avec documents en anglais
+Pré-requis
+• MATH741
+• DATA732
+• ISOC631
+• PROJ632
+Descriptif
+Ce cours présente les méthodes statistiques exploitées en analyse de données (analyse factorielle) ou en modé-
+lisation de la relation explicative d'une variable (régression) et positionne leur utilisation dans la pyramide de
+l’informatique décisionnelle moderne.
+La première partie du cours est consacrée à l’analyse factorielle qui, par confrontation des espaces d’individus et
+de variables, enrichit l‘interprétation et permet d’exhiber la structure interne des données. La nature et le codage
+des données conduisent à deux variantes essentielles des méthodes factorielles, à savoir l’analyse en composantes
+principales (ACP) et l’analyse des correspondances multiples (ACM), combinées dans l’analyse factorielle mul-
+tiple (AFM).
+La seconde partie présente différents modèles de régression et les méthodes d’estimation de leurs paramètres,
+du modèle linéaire aux modèles plus complexes, de structure éventuellement mal connue, adaptés à différentes
+hypothèses sur la distribution des données.
+Plan du Cours
+1.
+2.
+
+La suite décisionnelle et l'analyse de données
+Les méthodes d'analyse exploratoire des données multidimensionnelles
+2.1. ACP : Analyse en Composantes Principales (variables quantitatives)
+2.2. ACM : Analyse des Correspondances Multiples (variables qualitatives)
+2.3. AFM : Analyse Factorielle Multiple (groupes de variables quantitatives et/ou qualitatives)
+Les régressions
+3.1. Régression linéaire (simple, multiple)
+3.2. Régression polynomiale
+3.3. Régression quantile
+3.4. Régression logistique
+3.5. Modèle linéaire généralisé
+
+3.
+
+45
+
+Semestre 8
+
+3.6. Régression non paramétrique
+3.7. Régression en grande dimension (ridge, lasso)
+
+Intitulés TP
+Les TP seront réalisés avec le logiciel R en utilisant des packages appropriés, comme par exemple le package
+FactoMineR dédié à l'analyse factorielle. Trois TP permettront d'aborder une analyse complète de données sur
+des exemples concrets, réels, notamment sur de gros jeux de données d'entreprises, d'instituts, de laboratoires,
+d'enquêtes régionales, nationales ... Différents domaines tels que la santé, la banque, les assurances, la produc-
+tion, la grande distribution, le marketing, les réseaux sociaux, la société, l'environnement, ..., pourront être abor-
+dés. Dans tous les cas, les données seront accessibles en ligne sur différents sites comme par exemple l'UCI Ma-
+chine Learning Repository (https://archive.ics.uci.edu/ml/), les kaggle datasets (http://www.kaggle.com/datasets),
+la statlib - datasets archive (http://lib.stat.cmu.edu/datasets/).
+Objectifs d'apprentissage
+
+Niveau
+Maîtrise
+
+A l'issue de ce cours l'élève sera capable :
+de réaliser une analyse factorielle de données
+avec variables quantitatives et/ou qualitatives
+
+Ce cours vise à rendre l'élève apte à :
+définir une modélisation adaptée à un jeu de
+données en se basant sur une analyse de don-
+nées préliminaire
+ 
+
+ 
+
+ 
+
+ 
+
+estimer un modèle statistique linéaire et inter-
+préter les résultats obtenus
+
+Maîtrise
+
+ 
+
+utiliser un modèle à des fins explicatives ou
+prédictives
+
+ 
+
+ 
+
+Maîtrise
+
+ 
+
+de proposer une éventuelle réduction de di-
+mensions en assurant une perte minimale
+d'informations
+d'obtenir des facteurs non corrélés utilisables
+en modélisation
+e transformer des connaissances théoriques en
+une pratique de la modélisation de données
+réelles et de l'estimation de modèles
+d'utiliser efficacement des outils logiciels de
+statistiques (R packages)
+de tester la pertinence statistique du modèle de
+régression et d'évaluer la qualité de description
+et de prédiction
+de développer un sens critique en prenant en
+compte le risque de toute décision statistique
+
+Bibliographie
+• P.A. Cornillon, E. Matzner-Lober, Régression avec R, Collection Pratique R, Springer, 2011
+• T. Hastie, R. Tibshirani, J. Friedman, The Elements of Statistical Learning - Data Mining, Inference, and Pre-
+
+diction, Second Edition, Springer, 2013
+
+• P. Lafaye de Micheaux, R. Drouilhet, B. Liquet, Le logiciel R - Maîtriser le langage, Effectuer des analyses
+
+(bio)statistiques, 2ième édition, Springer, 2014
+1.4. PROJ831a - Projet Informatique Données et Usages
+Cours (h)
+
+Pondération
+
+Evaluation
+
+TD (h)
+
+TP (h)
+
+4.5
+
+ 
+
+36
+
+3
+
+CC
+
+Langue(s) utilisée(s) pour les enseignements
+• Français
+• Français avec documents en anglais
+Pré-requis
+• Analyse et Visualisation de données (DATA 732)
+• Qualité et tests logiciels (INFO 832)
+Descriptif
+Le premier projet au semestre 6 a permis d'analyser quels étaient les besoins en terme de données pour répondre
+un problème, comment les obtenir et comment les consolider pour qu'elles soient exploitables. Ce deuxième projet
+
+46
+
+Semestre 8
+
+vise à considérer l'étape suivante dans un projet de Data Science à savoir faire l'analyse et la visualisation des
+données : sélectionner les caractéristiques des données qu'il faudra utiliser pour l'analyse et envisager quels sont les
+meilleurs moyens de visualiser ces données pour les mettre en valeur. Ce projet partira à nouveau d'un problème
+et cherchera à, comme pour le PROJ 631, trouver les données nécessaires, les mettre en forme puis à effectuer
+une analyse et une visualisation. Ce module pourra faire l'objet d'un challenge entre une entreprise partenaire
+de la formation et les étudiants de la formation. L'entreprise fournirait les données et un travail conjoint entre
+l'entreprise et les étudiants pourrait aboutir à une solution au problème posé. Un exemple illustratif dans le cadre
+de ce projet est la campagne publicitaire d'une entreprise sur Twitter. Il convient pour cela de connaître qui suit
+le compte Twitter de l'entreprise, quelle est la fréquence où ces utilisateurs tweetent afin de trouver le moment le
+plus opportun pour communiquer avec eux.
+Objectifs d'apprentissage
+
+Ce cours vise à rendre l'élève apte à :
+appréhender un problème d'usage de la donnée
+dans sa globalité, de la collecte des données
+jusqu'à leur visualisation et leur analyse
+ 
+
+ 
+
+ 
+ 
+
+Niveau
+
+A l'issue de ce cours l'élève sera capable :
+
+Application comprendre un énoncé de problème lié à
+
+l'usage des Big Data
+
+ 
+
+ 
+
+ 
+ 
+
+proposer une approche globale de résolution en
+équipe
+concevoir les outils de collecte et de mise en
+forme des données
+visualiser et mettre en valeur les données
+réaliser des analyses qualitative et quantitative
+des données
+
+2. UE802 : Informatique et Conception
+
+2.1. INFO832a - Qualité et tests logiciel
+Cours (h)
+
+TD (h)
+
+TP (h)
+
+Pondération
+
+12
+
+12
+
+16
+
+2.5
+
+Evaluation
+
+CC
+
+Langue(s) utilisée(s) pour les enseignements
+• Français
+Pré-requis
+• INFO 501
+• MATH 631
+• INFO 641
+Descriptif
+Ce cours vise à acquérir les compétences nécessaires à la mise en place de méthodes "Agile" pour le développement
+de logiciels. Dans ces contextes, visant la qualité logicielle, le test logiciel sera introduit à travers la conception
+de suite de tests et leur implémentation via différentes unité de test.
+Plan du Cours
+1. Assurance Qualité Logiciel (AQL)
+
+2.
+
+3.
+
+1.1. Enjeux
+1.2. Le plan AQL
+1.3. Les normes ISO, CMM, CMMI-DEV...
+La qualité des données
+2.1. Enjeux
+2.2. Démarche, critères et indicateurs
+2.3. Master Data Management MDM
+Test logiciel
+3.1. Qui ? Quoi ? Où ? Quand ? Comment ? Combien ? Pourquoi ? (QQOQCCP)
+3.2. Méthodes de conception (boite blanche/noire, affirmation/négation....)
+3.3. Du plan au rapport de test
+
+47
+
+Semestre 8
+
+Intitulés TP
+• TP1 Development Team : mise en pratique d'un plan AQL
+• TP2 Test Team : Le jeux des 10 bugs (Définition et implémentation d'une suite de test sur un projet existant)
+• TP3 Extreme Programming TP4 Gouvernance des données
+Objectifs d'apprentissage
+
+Ce cours vise à rendre l'élève apte à :
+concevoir un plan d'assurance qualité logiciel
+
+ 
+
+concevoir et mettre en application un plan de
+test
+ 
+
+ 
+
+prendre en compte et gérer la dimension qualité
+des données traitées
+ 
+
+Niveau
+
+A l'issue de ce cours l'élève sera capable :
+
+Application de concevoir un plan d'assurance qualité logi-
+
+ 
+
+ciel
+de mettre en pratique un plan d'assurance quali-
+té logiciel
+
+Application de définir l'ensemble des jeux de tests d'un pro-
+
+duit logiciel
+de définir les critères de validation de jeux de
+tests
+d'implémenter une suite de tests
+
+ 
+
+ 
+
+Application d'évaluer les critères de qualité d'un ensemble
+
+ 
+
+de données pour l'applicatio
+de gérer un ensemble de données selon les cri-
+tères de qualité nécessaires à l'application visée
+
+2.2. INFO833a - Systèmes distribués à large échelle
+Cours (h)
+
+Pondération
+
+TP (h)
+
+Evaluation
+
+TD (h)
+13.5
+
+12
+
+15
+
+2.5
+
+ET(70%) + CC(30%)
+
+Langue(s) utilisée(s) pour les enseignements
+• Anglais
+Pré-requis
+• INFO632
+• PROJ731
+• or equivalent
+Descriptif
+Ce cours vise à apprendre à maitriser les systèmes distribués à grande échelle, en particulier ceux gérant de grandes
+masses de données.
+Plan du Cours
+1. Distributed systems foundations
+2. Architectures
+
+2.1. Client-server model
+2.2. Peer-to-peer model
+2.3. Complexes Architectures
+
+3. Distributed algorithms
+
+3.1. Broadcast
+3.2. Failure detection
+3.3. Consensus
+Large-scale data management
+4.1. Redundancy
+4.2. Distributed hash tables
+4.3. Large-scale distributed data management systems, NoSQL
+Simulation of large-scale distributed systems
+5.1. Large-scale experimentations
+5.2. Simulation aproaches
+
+4.
+
+5.
+
+48
+
+Semestre 8
+
+Intitulés TP
+• Failure injection and detection
+• Distributed hash tables
+• Redundancy and fault tolerance
+Objectifs d'apprentissage
+
+Ce cours vise à rendre l'élève apte à :
+concevoir des systèmes à large échelle
+
+Niveau
+Expertise
+
+ 
+
+ 
+
+ 
+
+ 
+
+concevoir des système fiables, capables de ré-
+agir aux occurrences de fautes
+ 
+
+Maîtrise
+
+ 
+
+A l'issue de ce cours l'élève sera capable :
+de comprendre les problématiques liées à la
+distribution du stockage et des traitements
+d'identifier les points de contention dans un
+système distribué
+de définir et placer les services composant le
+système
+de comprendre les problématiques liées à
+l'asynchronisme, à la détection de défaillances
+de mettre en oeuvre des solutions de redon-
+dance (données, services)
+
+2.3. INFO834a - Bases de données distribuées
+Cours (h)
+
+Pondération
+
+TD (h)
+
+TP (h)
+
+Evaluation
+
+7.5
+
+7.5
+
+24
+
+2.5
+
+CC(50%) + ET(50%)
+
+Langue(s) utilisée(s) pour les enseignements
+• Français
+Pré-requis
+• INFO642
+Descriptif
+L'objectif de ce cours est d'apprendre à concevoir et mettre en œuvre une base de données distribuée pour le Big
+Data. Nous aborderons deux aspects : l'organisation des données (représentation, stockage, répartition, passage à
+l'échelle, etc.) et l'organisation des traitements (définition, répartition, restitution, etc.).
+Plan du Cours
+1.
+2. Concepts fondamentaux des SGBD NoSQL (vs. SQL) : schéma implicite, paires clé-valeur, bases orientées
+
+Introduction aux bases de données distribuées pour le Big Data : exigences et caractéristiques
+
+documents ou colonnes
+Propriétés WHAT (vs. TIPS/ACID, RICE), NewSQL
+
+3.
+4. Développement de bases de données distribuées NoSQL (e.g. Hadoop, Spark and Storm)
+Objectifs d'apprentissage
+
+Ce cours vise à rendre l'élève apte à :
+identifier les exigences et les caractéristiques
+d'une base de données pour le Big Data
+ 
+
+ 
+
+Niveau
+
+A l'issue de ce cours l'élève sera capable :
+
+Application d'expliquer le "big data" selon la règle des 3V
+
+ 
+
+ 
+
+(Volume, Variété, Vélocité)
+d'identifier les caractéristiques des bases de
+données pour le big data (hétérogénéité, don-
+nées non structurés/semi-structurées, distributi-
+vité, etc.)
+de comparer et positionner les SGBD relation-
+nels et dérivés par rapport à la règle des 3V
+
+concevoir et mettre en œuvre l'organisation des
+données au travers de représentations NoSQL
+
+Application d'utiliser les différents modèles/représentations
+
+Not Only SQL (schéma implicite, paires clé-
+valeur, bases orientées documents ou colonnes)
+
+49
+
+Semestre 8
+
+Ce cours vise à rendre l'élève apte à :
+concevoir, organiser et mettre en œuvre des
+traitements distribués sur des données NoSQL
+ 
+
+mettre en œuvre un passage à l'échelle d'une
+base de données SQL et NoSQL (techniques de
+partitionnement, réplication, clustering )
+utiliser les technologies actuelles telles que Ha-
+doop, Pig, Hive, Flume, CASSANDRA, Man-
+goDB
+
+Niveau
+
+A l'issue de ce cours l'élève sera capable :
+Application d'expliquer les apports du big data : WHAT
+(Web data, Hadoop, Analytics, Temps réel)
+de connaître et positionner NewSQL par rap-
+port aux autres approches (NoSQL et SQL)
+Application d' utiliser des techniques de partitionnement,
+
+ 
+
+Notion
+
+réplication et clustering permettant le passage à
+l'échelle d'une base de données
+d'utiliser les technologies actuelles en particu-
+lier celles map/reduce comme dans Hadoop et
+Spark/Storm
+
+2.4. ISOC831a - Dimension métiers
+Cours (h)
+
+TD (h)
+
+TP (h)
+
+Pondération
+
+30
+
+ 
+
+ 
+
+1.5
+
+Evaluation
+
+CC
+
+Descriptif
+Le métier de Data Scientist se compose de trois volets :
+• Connaissances en statistiques
+• Connaissances en informatique
+• Dimension métiers
+L'objectif de ce module est de se concentrer sur la troisième partie à savoir la dimension métiers par l'intermédiaire
+de rencontres avec des professionnels qui sont confrontés à des problèmes de Data Science.
+Objectifs d'apprentissage
+
+Ce cours vise à rendre l'élève apte à :
+comprendre le métier de Data Scientist dans
+l'entreprise
+ 
+
+Niveau
+
+A l'issue de ce cours l'élève sera capable :
+
+Application d'identifier les missions confiées à un da-
+
+ta-scientist en entreprise
+de se positionner sur le marché de l'emploi
+
+ 
+
+3. UE804 : Passerelle vers le milieu professionnel
+
+3.1. LANG800 - Soutien : Anglais
+Cours (h)
+
+TD (h)
+
+TP (h)
+
+Pondération
+
+Evaluation
+
+ 
+
+6
+
+ 
+
+ 
+
+ 
+
+Langue(s) utilisée(s) pour les enseignements
+• Anglais
+Pré-requis
+Avoir validé S5 - S6 Score Toeic 635. Score Toeic 735 non atteint.
+Descriptif
+Reprise de toutes les bases et renforcement des points de langues. 6h de cours  + 6 h de travail en autonomie par
+semestre en groupe de 15 étudiants.
+
+3.2. LANG801a - Anglais (Niveau TOEIC non atteint)
+Cours (h)
+
+Pondération
+
+TP (h)
+
+Evaluation
+
+CC
+
+TD (h)
+40.5
+
+ 
+
+ 
+
+3
+
+Langue(s) utilisée(s) pour les enseignements
+• Français
+Pré-requis
+Programme de S7
+
+50
+
+Semestre 8
+
+Descriptif
+Ce  cours  prépare  les  étudiants  au  test  du  TOEIC  ("Test  of  English  for  International  communication")  et  plus
+exactement à l'obtention d'un score minimal de 785 points (sur 990).
+Le test Toeic se déroulera à la fin de ce semestre sur chacun des sites à des dates très proches. (Des sessions de
+" rattrapage" auront lieu s9).
+Les étudiants sont évalués tout au long de chaque semestre. L'évaluation terminale consiste en une épreuve de
+1h, 1h30 ou 2h selon le semestre et selon le site (Annecy ou Le Bourget),et compte coefficient 2 dans le contrôle
+continu total.
+Plan du Cours
+1.
+
+ Révision de points de grammaire importants pour le Toeic
+1.1. Révisions de tous les temps vus ou revus en S5, S6 et S7.
+1.2. Le passif.
+1.3. les structures causatives.
+1.4. BV / BVing ou to BV.
+1.5. Les mots de liaison.
+
+2. Compréhension orale
+
+2.1. Dialogues enregistrés en anglais américain, britannique, néo-zélandais....
+2.2. Videos en anglais américain, britannique, australien....
+
+3. Compréhension écrite
+3.1. Extraits de presse
+3.2. Textes divers
+
+Objectifs d'apprentissage
+
+Ce cours vise à rendre l'élève apte à :
+intervenir à l'écrit et à l'oral, en visant toujours
+l’inter-activité de communication opération-
+nelle
+
+ 
+
+Niveau
+Maîtrise
+
+ 
+
+comprendre des documents sonores et
+s’exprimer oralement
+
+Maîtrise
+
+ 
+
+ 
+
+comprendre des documents écrits et s’exprimer
+à l’écrit
+ 
+
+ 
+
+ 
+
+ 
+
+Maîtrise
+
+ 
+
+ 
+
+51
+
+A l'issue de ce cours l'élève sera capable :
+de poursuivre des révisions grammaticales
+sur : le conditionnel ; tous les autres temps ;
+l’expression de la suggestion et de la modalité /
+le passif ; les structures verbales (infinitif/ -ing)
+d'améliorer ses connaissances grammaticales et
+lexicales (anglais général, « business » et de sa
+spécialité scientifique) , en classe et en autono-
+mie, en les validant par des tests réguliers
+de continuer à s’entraîner sur des exercices de
+TOEIC (4 parties de compréhension orale) +
+tests entiers
+de travailler sur des supports audio et vidéo va-
+riés (anglais général, « business » et de spécia-
+lité) et pris la parole pour réagir spontanément,
+en inter-activité avec la classe
+de prendre la parole en mode préparé et en in-
+ter-activité spontanée via des exposés à carac-
+tère scientifique et sur des thématiques ou pro-
+blèmes liés au monde de l’entreprise (entretien
+d’embauche, négociations, discussion sur un
+projet technique/ professionnel…/ inégalité sa-
+lariale ; mobilité internationale…etc)
+de s’entraîner sur des exercices de TOEIC (3
+parties écrites)
+de lire des documents variés (anglais général,
+« business » et scientifique) et rédigé quelques
+lignes pour en rendre compte et donner son
+avis
+de rédiger CVs et lettres de motivation
+
+Semestre 8
+
+3.3. LANG802a - Langues vivantes (Niveau TOEIC atteint)
+Cours (h)
+
+Pondération
+
+TD (h)
+
+TP (h)
+
+Evaluation
+
+ 
+
+30
+
+ 
+
+3
+
+CC
+
+Pré-requis
+• Pour l'anglais Civilisation : élèves ingénieurs ayant réussi le TOEIC.
+• Pour la LV2 : cours débutants uniquement pour le chinois et le japonais
+Descriptif
+Ce cours est composé de deux parties :
+• 15h d'Anglais :  Culture, Civilisation et Langue.Réactualisation et validation des acquis et utilisation de l'anglais
+
+en toute situation de communication.
+
+• 15h d'une seconde langue vivante. Les langues proposées  sont :
+
+• Espagnol, Allemand et Italien pour les 2 sites de l'école (non débutants).
+• Chinois et Japonais sur le site d'Annecy avec des cours débutants possibles
+
+A l'issue de ce cours l'élève sera capable :
+d'inter-agir avec des professionnels (de sa spé-
+cialité) au cours de présentations
+d'écouter régulièrement les nouvelles sur des
+sites anglophones d’information (CNN, BBC,
+Skynews…) et sera en mesure de restituer
+l’essentiel oralement de façon succincte, en in-
+ter-activité avec le groupe-classe
+de faire des recherches (en groupe et indivi-
+duellement) à visée professionnelle / culturelle
+à présenter en classe
+de monter un projet (professionnel) innovant ;
+simulé les démarches auprès des acteurs éco-
+nomiques capables d’apporter de l’aide pour le
+finaliser (selon les étapes d’un « business plan
+» crédible : rédaction de emails, entretien télé-
+phonique, recrutement, recherches de finance-
+ment..)
+de présenter un projet, en en démontrant la fai-
+sabilité technique et commerciale (« pitch » /
+sur le modèle de : « Dragons’ den »)
+de travailler sur des supports écrits, audio et vi-
+déo variés
+
+Objectifs d'apprentissage
+
+Ce cours vise à rendre l'élève apte à :
+être en autonomie linguistique et culturelle
+pour communiquer de façon authentique
+ 
+
+ 
+
+Niveau
+Maîtrise
+
+ 
+
+ 
+
+imaginer, être créatif et crédible (dans une
+langue étrangère) pour convaincre des parte-
+naires professionnels
+
+Maîtrise
+
+ 
+
+comprendre et parler d'autres langues que
+le français et l'anglais et s'ouvrir à d'autres
+cultures.
+ 
+
+ 
+
+Maîtrise
+
+ 
+
+d'échanger avec des personnes non franco-
+phones et non anglophones.
+
+3.4. PROJ801 - Stage Assistant ingénieur
+Pondération
+Cours (h)
+
+TD (h)
+
+TP (h)
+
+ 
+
+ 
+
+ 
+
+6
+
+Langue(s) utilisée(s) pour les enseignements
+• Français
+Pré-requis
+Enseignements du S5 au S8
+
+52
+
+Evaluation
+
+Soutenance, rapport écrit,
+
+évaluation entreprise
+
+Semestre 8
+
+Descriptif
+Le stage de 4ème année est un stage d'application en milieu professionnel en tant que technicien ou assistant in-
+génieur. L'élève-ingénieur sera chargé d'une étude spécifique, de la mise au point ou de l'adaptation de techniques
+ou méthodes nouvelles. Ce stage sera réalisé au sein d'une entreprise ou d'un organisme dont l'activité est repré-
+sentative de la spécialité choisie à l'école. 
+Objectifs d'apprentissage
+
+Ce cours vise à rendre l'élève apte à :
+s'intégrer et participer à une organisation pro-
+fessionnelle
+ 
+ 
+
+Niveau
+
+A l'issue de ce cours l'élève sera capable :
+
+Application de découvrir des méthodes et des pratiques pro-
+
+fessionnelles
+de respecter la politique RSE de l'entreprise
+de participer au développement de l'entreprise
+
+ 
+ 
+
+collaborer à l'avancement d'un projet
+
+Application de mettre en œuvre ses connaissances théo-
+
+ 
+
+ 
+
+ 
+
+ 
+
+riques et pratiques
+de mettre en œuvre les bases du management
+opérationnel
+de travailler en équipe et communiquer effica-
+cement avec un public varié
+
+3.5. SHES802a - Système de Management Intégré QSE (Qualité Sécurité En-
+vironnement)
+Cours (h)
+
+Pondération
+
+Evaluation
+
+TD (h)
+10.5
+
+9
+
+TP (h)
+
+ 
+
+1.5
+
+CC
+
+Langue(s) utilisée(s) pour les enseignements
+• Français
+Pré-requis
+Aucun pré-requis nécessaire.
+Descriptif
+Les élèves doivent avoir pris conscience que les systèmes de management de la qualité, de l'environnement et
+de la santé et sécurité au travail sont aujourd'hui incontournables dans l'entreprise. Il leur faut donc avoir une
+connaissance suffisante de ces systèmes afin de les prendre en compte et de les intégrer dans leur métier d'ingénieur.
+Plan du Cours
+1. Management de la Qualité :
+
+1.1. Introduction au management de la qualité ;
+1.2. Norme : définition et historique de la qualité, principe de la certification ;
+1.3. Amélioration Continue : Kaizen, 5S, Lean, Six Sigma ;
+1.4. Démarche Processus ;
+1.5. TD : Modélisation informatique d'un processus, bpm, édition Web.
+
+2. Management de l'Environnement :
+
+2.1. L'environnement, le développement durable, le Bilan Carbone ;
+2.2. Qu'est-ce qu'un SME ?
+2.3. Les référentiels, les enjeux ;
+2.4. La norme ISO 14001 ;
+2.5. Le référentiel EMAS ;
+2.6. Mettre en place un SME ;
+2.7. TD : Audit du SME d'une entreprise, proposition d'éco-cartes.
+Santé et Sécurité au Travail :
+3.1. Généralités et enjeux ;
+3.2. Parties prenantes ;
+3.3. Législation et référentiel de système de management SST ;
+3.4. SST et RSE.
+
+3.
+
+53
+
+Semestre 8
+
+Objectifs d'apprentissage
+
+Ce cours vise à rendre l'élève apte à :
+citer et décrire les systèmes de management de
+la qualité
+ 
+
+ 
+
+citer et décrire les systèmes de management en-
+vironnementaux
+ 
+
+ 
+
+décrire la législation et le système de manage-
+ment de la santé et de la sécurité au travail
+
+ 
+
+Niveau
+
+A l'issue de ce cours l'élève sera capable :
+
+Application de participer activement à une démarche quali-
+
+ 
+
+ 
+
+té
+de faire partie d'un workshop à l'occasion d'un
+événement Kaizen
+de repérer et de modéliser un processus dont il
+serait le pilote
+
+Application de participer activement à une certification en-
+
+ 
+
+ 
+
+vironnementale
+de repérer et de modéliser un processus dont il
+serait le pilote
+de construire des éco-cartes dans le cadre du
+référentiel EMAS
+
+Application de prendre en compte les impératifs liés à la
+santé et à la sécurité au travail imposés par la
+législation
+de prendre conscience de la notion de bien-
+être au travail en s'inscrivant dans une politique
+RSE pro-active
+
+ 
+
+3.6. SHES803a - Théorie des organisations
+Pondération
+Cours (h)
+
+TD (h)
+
+TP (h)
+
+13.5
+
+6
+
+ 
+
+1.5
+
+Evaluation
+
+CC
+
+Langue(s) utilisée(s) pour les enseignements
+• Français
+Descriptif
+Le contenu du cours de théorie des organisations est volontairement descriptif et suit une chronologie très claire.
+L'idée est de retracer les prémisses dans la gestion des organisations dès la fin du XIXième siècle jusqu'à nos jours.
+Pour cela le cours s'appuie sur les principales théories, recherches et avancées managériales effectuées au fur et
+a mesure du  développement des entreprises.
+Ce module se divise en trois grandes parties thématiques :
+• Les fondements de la gestion des organisations (approche classique et école des relations humaines);
+• Le concept de structure organisationnelle avec entre autres les travaux de Mintzberg qui mettent en évidence
+
+les opportunités et les contraintes en termes de conception, de coordination et d'agencement d'une entreprise;
+
+• Le comportement organisationnel avec les notions de performance, de diversité, de conflits, de négociation,
+
+de stress...
+
+Ce cours est un enseignement de base dans le domaine de la gestion. Il permet d'avoir un aperçu global du mana-
+gement des entreprises et d'en comprendre les tenants et les aboutissants.
+Plan du Cours
+1.
+
+Les prémisses de la gestion des organisations.
+1.1. L'ecole classique (Taylor, Ford, Weber, Fayol)
+1.2. L'ecole des relations humaines (Mayo...)
+1.3. Les théories de la motivation (Maslow, Lewin...)
+Les structures organisationnelles
+2.1. Les différents types de structure
+2.2. L'impératif de la coordination
+2.3. Vers un modèle de réseau
+Le comportement organisationnel
+3.1. La diversité
+
+2.
+
+3.
+
+54
+
+Semestre 8
+
+3.2. Les équipes / groupes
+3.3. Les conflits et négociations
+3.4. La dynamique du stress
+
+Objectifs d'apprentissage
+
+Ce cours vise à rendre l'élève apte à :
+retracer les prémisses dans la gestion des or-
+ganisations et décrire les principales théories
+et recherches sur le fonctionnement des entre-
+prises
+ 
+
+Niveau
+
+A l'issue de ce cours l'élève sera capable :
+
+Application de connaître les grands courants de pensée
+
+ 
+
+de comprendre l'évolution des premières ré-
+flexions de management
+
+décrire la notion de structure organisationnelle
+
+Application de connaître les différentes formes organisa-
+
+ 
+
+décrire la thématique du comportement organi-
+sationnel (conflits, négociation, stress...)
+
+ 
+
+tionnelles
+de comprendre l'adéquation entre structure et
+coordination
+
+Application d'identifier et de reconnaître les diverses me-
+
+sures de performance, la notion de diversité, la
+problématique des conflits, de la négociation,
+du stress...
+
+55
+
+Semestre 9
+
+UE
+
+ECTS Module
+
+Intitulé
+
+Cours (h) TD (h)
+
+TP (h)
+
+Pondé-
+ration
+
+Evaluation
+
+10
+
+INFO931
+
+UE901 :
+Optimisa-
+tion et HPC
+
+INFO932
+
+Optimisation et
+aide à la déci-
+sion multicritère
+
+Calcul haute
+performance et
+
+Cloud Computing
+
+12
+
+12
+
+7.5
+
+7.5
+
+PROJ931
+DATA931 Machine Learning
+
+Projet Usages
+
+ 
+12
+
+ 
+
+ 
+
+10
+
+ 
+
+ 
+
+ 
+
+ 
+
+UE902 :
+Données et
+Aide à la
+Décision II
+
+ 
+
+ 
+
+UE904 :
+Passerelle
+vers le mi-
+lieu pro-
+fessionnel
+
+ISOC931
+
+PROJ932
+
+10
+
+LANG901a
+
+Innovation
+et Recherche
+Projet Da-
+ta Science
+Anglais (Ni-
+veau TOEIC
+non atteint)
+
+16
+
+24
+
+40
+16
+
+20
+
+40
+
+ 
+
+ 
+
+40
+
+ 
+
+3
+
+3
+
+4
+3
+
+3
+
+4
+
+2.5
+
+2.5
+
+6
+
+1.5
+
+CC
+
+CC
+
+CC
+CC
+
+CC
+
+CC
+
+CC
+
+CC
+
+Pratique +
+Rapport +
+Soutenance
+
+CC
+
+ 
+12
+
+12
+
+ 
+
+40.5
+
+30
+
+ 
+
+6
+
+ 
+
+ 
+
+ 
+
+ 
+
+LANG902a Langues (Niveau
+TOEIC atteint)
+Projet Recherche
+et Développement
+
+PROJ901a
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+SHES901a
+
+Techniques de
+management
+
+15
+
+7.5
+
+1. UE901 : Optimisation et HPC
+
+1.1. INFO931 - Optimisation et aide à la décision multicritère
+Cours (h)
+
+Pondération
+
+Evaluation
+
+TD (h)
+
+TP (h)
+
+12
+
+12
+
+16
+
+3
+
+CC
+
+Langue(s) utilisée(s) pour les enseignements
+• Français avec documents en anglais
+Pré-requis
+• DATA731
+• PROJ731
+• INFO831
+Descriptif
+Ce  cours  vise  à  appréhender    les  problèmes  multicritères  sous  deux  angles  différents,  à  savoir  l'optimisation
+et l’aide à la décision.  Dans les deux cas, la problématique générale est présentée avant de détailler les diffé-
+rentes approches. L’optimisation multicritères est abordée par les algorithmes évolutionnaires (algorithmes géné-
+
+56
+
+Semestre 9
+
+tiques, programmation génétique). Les différents éléments de l’évolution artificielle sont présentés avant d’aborder
+l’optimisation multicritères par des approches basées sur la dominance et de présenter l’algorithme Non-dominated
+Sorting Genetic Algorithm (NSGA). L’aide à la décision multicritères est  utilisée dans les problèmes de décision
+pour trouver la ou les meilleures solutions possibles et rendre le processus de décision plus explicite, rationnel et
+efficace. Le décideur est aidé par des outils automatiques pour construire un ou plusieurs modèles de préférence.
+Les différents types de problèmes abordés et de modélisations développées conduisent  à diverses méthodes et
+outils de mise en œuvre présentés dans ce cours.
+Plan du Cours
+1.
+Introduction
+2. Optimisation évolutionnaire
+
+2.1. Evolution artificielle et principes des algorithmes évolutionnaires
+2.2. Les problèmes multicritères
+2.3. Dominance et front de Pareto
+2.4. Optimisation évolutionnaire multicritères
+2.5. Algorithme NSGA
+
+3. Aide à la décision multicritères
+
+3.1. Typologie des problèmes abordés
+3.2. Les différentes approches : surclassement, agrégation
+3.3. Panorama des principales méthodes :  Electre, UTA, AHP, MACBETH
+3.4. Les outils
+
+Intitulés TP
+2 sujets abordés  Optimisation multi-critère avec NSGA 2
+• téléchargement du code source et génération d'un exécutable
+• traitement de problèmes tests significatifs (DTLZ1 à DTLZ9)
+• parallélisation du code
+Système d'aide à la décision
+• définition d'un problème complet d'aide à la décision et de l'expertise associée
+• choix d'une méthode et d'un outil logiciel en cohérence avec le problème défini
+• implémentation et test du système selon un processus d'amélioration incrémental
+Objectifs d'apprentissage
+
+Ce cours vise à rendre l'élève apte à :
+développer une application d'aide à la décision
+avec une approche scientifique d'un problème
+de décision dans un contexte socio-économique
+ 
+
+ 
+
+réaliser une optimisation multicritères évolu-
+tionnaire pour déterminer un ensemble de solu-
+tions optimales en présence de critères antago-
+nistes
+ 
+
+ 
+
+Niveau
+
+A l'issue de ce cours l'élève sera capable :
+
+ 
+
+Application de définir les étapes-clé de la phase de modéli-
+sation : ensemble d'alternatives, problématique,
+critères
+de choisir une méthode appropriée à la re-
+cherche de solutions optimales ou de compro-
+mis
+mettre en oeuvre une méthode d'aide à la déci-
+sion sur un cas concret en exploitant des outils
+informatiques appropriés
+
+ 
+
+Application de formuler un problème d'optimisation mul-
+
+ti-critères et d'évaluer une solution
+
+d'analyser et concevoir un algorithme évolu-
+tionnaire en exploitant le schéma général (ini-
+tialisation, sélection, opération génétique, éva-
+luation, stratégie générationnelle)
+de configurer et paramétrer correctement un al-
+gorithme évolutionnaire de façon à maintenir la
+diversité et éviter une convergence prématurée
+
+ 
+
+ 
+
+57
+
+Semestre 9
+
+Bibliographie
+• S. Boyd, L. Vandenberghe, Convex Optimization, Cambridge University Press, 2004
+• K. Deb, Multi-Objective Optimization using Evolutionary Algorithms, Wiley, 2011
+• Ishizaka, P. Nemery, Multi-Criteria Decision Analysis - Methods and Software, John Wiley & Sons, 2013
+
+1.2. INFO932 - Calcul haute performance et Cloud Computing
+Evaluation
+Cours (h)
+
+Pondération
+
+TD (h)
+
+TP (h)
+
+7.5
+
+7.5
+
+24
+
+3
+
+CC
+
+Langue(s) utilisée(s) pour les enseignements
+• Français avec documents en anglais
+Pré-requis
+Bonnes connaissances en systèmes, systèmes répartis, réseaux.
+Descriptif
+Ce cours vise à appréhender les spécificités liées au cloud computing (ressources à la demande, virtualisation,
+déploiement, ....) et au calcul hautes performances.
+Plan du Cours
+1. High-performance computing (HPC)
+
+1.1. HPC architectures
+1.2. Parallel programing
+
+2. Cloud computing
+
+2.1. Introduction, definitions
+2.2. Elasticity: isolation and consolidation
+2.3. Virtualization techniques
+2.4. Deployment
+2.5. Data storage in clouds
+
+3. Virtualization overhead and HPC
+Intitulés TP
+• Parallel programing using MPI
+• Deploying and managing virtual machines
+• Light virtualization with Linux containers and Docker
+Objectifs d'apprentissage
+
+Ce cours vise à rendre l'élève apte à :
+concevoir et programmer des applications pa-
+rallèles hautes performances
+ 
+ 
+
+configurer, déployer des solutions virtualisées
+dans des clouds.
+ 
+
+Niveau
+Maîtrise
+
+ 
+ 
+
+Maîtrise
+
+A l'issue de ce cours l'élève sera capable :
+de mettre en oeuvre des programmes parallèles
+à base de passage de messages
+de connaitre les architecture HPC
+de mettre en oeuvre des programmes parallèles
+à base de mémoire partagée
+de comprendre les principes de la virtualisation
+
+ 
+
+de construire, configurer et déployer des ma-
+chines virtuelles
+
+1.3. PROJ931 - Projet Usages
+Cours (h)
+
+TD (h)
+
+TP (h)
+
+Pondération
+
+ 
+
+ 
+
+40
+
+Langue(s) utilisée(s) pour les enseignements
+• Français
+• Français avec documents en anglais
+
+4
+
+58
+
+Evaluation
+
+CC
+
+Semestre 9
+
+Pré-requis
+Plateformes collaboratives (ISOC 631) Economie et gouvernance de la donnée (ISOC 731 Sécurité et cryptogra-
+phie (INFO 731)
+Descriptif
+Les données sont devenues une information capitale pour l'entreprise qui va tenter de la valoriser. Cette valorisation
+peut être interne afin de mieux comprendre leurs clients par exemple, mais comme c'est souvent le cas avec les
+sociétés de l'Internet, il s'agit de revendre ces données à des sociétés tierces pour des publicités ciblées par exemple.
+Il devient important de maîtriser l'acquisition de la donnée et son exploitation. L'objectif de ce projet sera de
+simuler un réseau social et de réfléchir aux politiques à mettre en place pour la sécurité et la confidentialité des
+données ainsi que la valorisation de celles-ci.
+Objectifs d'apprentissage
+
+Ce cours vise à rendre l'élève apte à :
+gérer la gouvernance de la donnée
+
+Niveau
+Maîtrise
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+
+A l'issue de ce cours l'élève sera capable :
+d'obtenir de la donnée qui peut être confiden-
+tielle ou privée
+de comprendre les notions de sécurité de la
+donnée
+de savoir gérer les données
+d'appliquer une politique de sécurité à des don-
+nées
+
+2. UE902 : Données et Aide à la Décision II
+
+2.1. DATA931 - Machine Learning
+Cours (h)
+
+TD (h)
+
+TP (h)
+
+Pondération
+
+12
+
+12
+
+16
+
+3
+
+Evaluation
+
+CC
+
+Langue(s) utilisée(s) pour les enseignements
+• Anglais
+Pré-requis
+• DATA832
+• INFO831
+Descriptif
+Ce module s'inscrit dans la continuité des modules DATA832 et INFO831 dans lesquels le B.A.-ba de la science
+des données a été présenté à travers les différents paradigmes de l'apprentissage automatique et de la statistique
+exploratoire et expérimenté avec la machinerie algorithmique de base, mettant en évidence les limites des outils
+basiques de modélisation. Un ensemble de méthodes avancées, étendant les fondamentaux de l'apprentissage, est
+présenté dans ce module. Chacune des approches permet d'améliorer le processus d'apprentissage en se focali-
+sant sur un aspect particulier, par exemple la réduction de la variance des décisions, le traitement de problèmes
+non linéaires, ou encore l'apprentissage à partir d'un très grand nombre d'exemples et l'extraction automatique de
+caractéristiques. A une présentation conceptuelle des différentes méthodes, sera associée une réflexion sur leur
+implémentation et une expérimentation basée sur des cas concrets de recherche et développement.
+Plan du Cours
+Panorama de méthodes avancées pour le big data
+1. Méthodes ensemblistes (bagging, forêts aléatoires, boosting)
+2. Machines à vecteurs supports et méthodes à noyaux
+3. Apprentissage profond (deep learning)
+4. Méthodes par renforcement
+5.
+Intitulés TP
+Les TP permettront aux étudiants de se familiariser avec les bibliothèques d'apprentissage avancé en Python puis
+d'utiliser certaines bibliothèques pour résoudre des problèmes d'apprentissage complexes, comme par exemple la
+bibliothèque Keras pour l'apprentissage profond ou encore la bibliothèque arulesSequences pour l'extraction de
+
+Séries temporelles et motifs séquentiels
+
+59
+
+Semestre 9
+
+motifs séquentiels.  Des données de référence, comme par exemple la base MNIST (chiffres manuscrits) ou les
+bases CIFAR (objets et animaux) seront utilisées pour réaliser l'apprentissage de systèmes de classification.
+Objectifs d'apprentissage
+
+Ce cours vise à rendre l'élève apte à :
+identifier les avancées conceptuelles et techno-
+logiques associées au développement des mé-
+thodes d'apprentissage modernes
+ 
+
+mettre en oeuvre des méthodes d'apprentissage
+modernes en utilisant des outils de développe-
+ment appropriés
+ 
+
+ 
+
+Niveau
+Maîtrise
+
+A l'issue de ce cours l'élève sera capable :
+de formuler les principes et concepts de base
+des principales approches modernes
+
+ 
+
+de présenter des applications qui ont contribué
+au succès des approches modernes en appren-
+tissage automatique et analyser leurs caractéris-
+tiques
+
+Application d'installer, configurer et utiliser des biblio-
+thèques d'apprentissage avancé en Python
+
+ 
+
+ 
+
+d'expérimenter des techniques avancées
+d'apprentissage pour la classification d'objets
+en utilisant des bases de données massives de
+référence
+de concevoir et de développer sa propre appli-
+cation d'apprentissage avancé dans le cadre du
+big data
+
+Bibliographie
+• T. Hastie, R. Tibshirani, J. Friedman, The Elements of Statistical Learning - Data Mining, Inference, and Pre-
+
+diction, Second Edition, Springer, 2013
+
+• I. Goodfellow, Y. Bengio, A. Courville, Deep learning, MIT Press book, 2016
+
+2.2. ISOC931 - Innovation et Recherche
+Cours (h)
+
+TD (h)
+
+TP (h)
+
+Pondération
+
+6
+
+12
+
+20
+
+3
+
+Evaluation
+
+CC
+
+Langue(s) utilisée(s) pour les enseignements
+• Français
+Pré-requis
+Tous les modules de la formation
+Descriptif
+L'objectif de ce module est de donner les bases méthodologiques
+1.
+2.
+
+d'une recherche documentaire
+d'une synthèse bibliographique, c'est-à-dire le compte rendu et l'analyse critique d'un ensemble de documents
+portant sur un même thème, à partir de critères explicites
+
+Plan du Cours
+1. Méthodologie documentaire
+
+2.
+
+1.1. Recherche documentaire
+1.2. Validation de l'information
+1.3. Veille documentaire
+Synthèse bibliographique
+2.1. Identifier les éléments d'intérêt commun dans les documents
+2.2. Analyser et évaluer chaque document par rapport à des critères
+2.3. Comparer les documents
+2.4. Etablir un fil conducteur et organiser la synthèse
+2.5. Rédiger, éliminer les redondances
+
+60
+
+Semestre 9
+
+Intitulés TP
+• Définition d'un thème d'étude en lien avec la formation IDU et de préférence avec les activités de l'entreprise
+
+d'accueil
+
+• Recherche documentaire
+• Définition de critères pour la synthèse bibliographique
+• Review des synthèses bibliographiques
+• Présentation orale des travaux de synthèse
+Objectifs d'apprentissage
+
+Ce cours vise à rendre l'élève apte à :
+définir un thème et une problématique de R&D
+liée à la formation IDU et faire la recherche do-
+cumentaire associée
+ 
+
+ 
+
+ 
+
+Niveau
+Maîtrise
+
+ 
+
+ 
+
+ 
+
+réaliser une synthèse bibliographique sur une
+problématique définie
+
+Maîtrise
+
+ 
+
+ 
+
+ 
+
+ 
+
+2.3. PROJ932 - Projet Data Science
+Cours (h)
+
+TD (h)
+
+TP (h)
+
+Pondération
+
+ 
+
+ 
+
+40
+
+4
+
+A l'issue de ce cours l'élève sera capable :
+de clarifier le sujet et de l'appréhender globale-
+ment en consultant des ouvrages qui donnent
+une vue d'ensemble
+d'établir une liste de concepts/mots clés pour
+délimiter la recherche
+sélectionner les sources d'information selon le
+niveau et la nature de l'information recherchée
+évaluer la qualité et la pertinence des sources,
+en particulier pour des recherches sur le web
+de discuter la valeur d'un document, en exami-
+ner les qualités et les défauts, l'intérêt et les li-
+mites
+de faire une analyse critique portant sur le
+fond et la forme des documents en faisant res-
+sortir leur intérêt commun, les points forts et
+faibles de chacun, leur complémentarité ou leur
+contradiction
+de rédiger une synthèse bibliographique met-
+tant en lumière l'explication et la justification
+de la problématique avec une organisation lo-
+gique des éléments de démonstration et une ca-
+tégorisation des différents arguments
+
+Evaluation
+
+CC
+
+Langue(s) utilisée(s) pour les enseignements
+• Français
+• Français avec documents en anglais
+Pré-requis
+• Systèmes distribués à large échelle (INFO 833)
+• Bases de données distribuées (INFO 834)
+Descriptif
+Les précédents projets (PROJ 631, 831, 931) visaient un développement et une exploitation sur un ordinateur
+personnel. Dans ce projet, il s'agira de dépasser les limites d'une unique machine et de considérer une approche
+Big Data et ses 3V : Volume, Vitesse et Variété. Sur ce projet, les étudiants devront fournir un système clé en main
+(par l'intermédiaire d'une machine virtuelle ou d'un conteneur Docker) répondant au problème posé. Ils devront
+donc trouver l'architecture nécessaire à mettre en place, les outils à utiliser ou créer et les bases de données à
+définir, tout cela dans le cadre d'un Cloud.
+
+61
+
+Objectifs d'apprentissage
+
+Ce cours vise à rendre l'élève apte à :
+concevoir un système large échelle pour
+l'analyse de données
+ 
+
+ 
+
+ 
+
+Semestre 9
+
+Niveau
+Maîtrise
+
+ 
+
+ 
+
+ 
+
+A l'issue de ce cours l'élève sera capable :
+d'appréhender un problème de Data Science
+dans son intégralité
+de définir le processus complet de l'acquisition
+des données jusqu'à la visualisation des don-
+nées et les résultats
+de concevoir un système qui nécessite des don-
+nées massives, et du calcul distribué
+de fournir un système clé en main pour répli-
+quer le processus
+
+3. UE904 : Passerelle vers le milieu professionnel
+
+3.1. LANG901a - Anglais (Niveau TOEIC non atteint)
+Cours (h)
+
+Pondération
+
+TP (h)
+
+TD (h)
+40.5
+
+ 
+
+ 
+
+2.5
+
+Evaluation
+
+CC
+
+Langue(s) utilisée(s) pour les enseignements
+• Anglais
+Pré-requis
+Cours de s7 et s8 et score Toeic minimum 735
+Descriptif
+ Ce cours prépare les étudiants à leur entrée dans la vie professionnelle. Conduite ou participation à une réunion :
+vocabulaire et structures liés à cet aspect tout en continuant un travail sur les 4 compétences mais en insistant
+sur une mise en situation proche de la réalité( "jeux de rôle", acquisition de vocabulaire technique (selon le site)
+et  vocabulaire  de  l'entreprise...).  Mais  aussi  prise  de  parole  en  public  au  moyen  de  présentations  données  par
+des étudiants en groupes et ou en individuel, sur des sujets illustrés par des articles de presse ou des supports
+vidéos (VTD : Video, Talk and Debate). Les étudiants sont évalués tout au long de chaque semestre. L'évaluation
+terminale consiste en une épreuve de 1h, 1h30 ou 2h selon le semestre et selon le site (Annecy ou Le Bourget),
+et compte coefficient 2 dans le contrôle continu total.
+Plan du Cours
+1. Utilisation des structures, lexiques, notions et fonctions nécessaires à une bonne expression orale et écrite:
+
+1.1. Temps
+1.2. Questionnement (dans un cadre professionnel)
+1.3. Mots de liaison
+
+2. Compréhension orale:
+
+2.1. Dialogues enregistrés en anglais américain, britannique, néo-zélandais....
+2.2. Videos en anglais américain, britannique, australien....
+
+3. Compréhension écrite:
+3.1. Extraits de presse
+3.2. Textes divers
+
+Objectifs d'apprentissage
+
+Ce cours vise à rendre l'élève apte à :
+valider le TOEIC à 785
+
+ 
+
+utiliser l’inter-activité de communication opé-
+rationnelle la plus authentique possible
+
+A l'issue de ce cours l'élève sera capable :
+de continuer des révisions lexicales et gram-
+maticales visant plus spécifiquement les points
+testés au TOEIC
+d'intensifer l’entraînement sur des exercices de
+TOEIC (7 parties) / test entiers
+d'écouter régulièrement les nouvelles sur des
+sites anglophones d’information (CNN, BBC,
+Skynews…) et sera en mesure de restituer
+
+Niveau
+Notion
+
+ 
+
+Maîtrise
+
+62
+
+Semestre 9
+
+Ce cours vise à rendre l'élève apte à :
+
+Niveau
+
+ 
+
+ 
+
+ 
+
+ 
+
+Bibliographie
+• Documents distribués par les intervenants
+• Différents sites internet dont la liste est donnée en début de S5
+
+A l'issue de ce cours l'élève sera capable :
+l’essentiel oralement de façon succincte, en in-
+ter-activité avec le groupe-classe
+de faire des recherches (en groupe et indivi-
+duellement) pour monter un projet (profession-
+nel / culturel) innovant , en équipe, à présen-
+ter en classe, après avoir anticipé et simulé les
+démarches auprès des acteurs économiques ca-
+pables d’aider l’équipe à le monter, selon les
+étapes d’un « business plan » crédible : rédac-
+tion de emails, entretien téléphonique, recrute-
+ment, recherches de financement…
+de présenter le projet collectif, en en démon-
+trant la faisabilité technique et commerciale («
+pitch » / sur le modèle de : « Dragons’ den »)
+
+3.2. LANG902a - Langues (Niveau TOEIC atteint)
+Cours (h)
+
+Pondération
+
+TD (h)
+
+TP (h)
+
+ 
+
+30
+
+ 
+
+2.5
+
+Evaluation
+
+CC
+
+Pré-requis
+• Pour l'anglais Civilisation : élèves ingénieurs ayant réussi le TOEIC.
+• Pour la LV2 : cours débutants uniquement pour le chinois et le japonais
+Descriptif
+Ce cours est composé de deux parties :
+• 15h d'Anglais :  Culture, Civilisation et Langue.Réactualisation et validation des acquis et utilisation de l'anglais
+
+en toute situation de communication.
+
+• 15h d'une seconde langue vivante. Les langues proposées  sont :
+
+• Espagnol, Allemand et Italien pour les 2 sites de l'école (non débutants).
+• Chinois et Japonais sur le site d'Annecy avec des cours débutants possibles
+
+Objectifs d'apprentissage
+
+Ce cours vise à rendre l'élève apte à :
+être en autonomie linguistique et culturelle
+pour communiquer de façon authentique
+ 
+
+ 
+
+Niveau
+Expertise
+
+ 
+
+ 
+
+imaginer, être créatif et crédible (dans une
+langue étrangère) pour convaincre des parte-
+naires professionnels
+
+Expertise
+
+A l'issue de ce cours l'élève sera capable :
+d'inter-agir avec des professionnels (de sa spé-
+cialité) au cours de présentations
+d'écouter régulièrement les nouvelles sur des
+sites anglophones d’information (CNN, BBC,
+Skynews…) et sera en mesure de restituer
+l’essentiel oralement de façon succincte, en in-
+ter-activité avec le groupe-classe
+de faire des recherches (en groupe et indivi-
+duellement) à visée professionnelle / culturelle
+à présenter en classe
+de monter un projet (professionnel) innovant ;
+simulé les démarches auprès des acteurs éco-
+nomiques capables d’apporter de l’aide pour le
+finaliser (selon les étapes d’un « business plan
+» crédible : rédaction de emails, entretien télé-
+
+63
+
+Semestre 9
+
+Ce cours vise à rendre l'élève apte à :
+
+Niveau
+
+ 
+
+comprendre et parler d'autres langues que
+le français et l'anglais et s'ouvrir à d'autres
+cultures.
+ 
+
+A l'issue de ce cours l'élève sera capable :
+phonique, recrutement, recherches de finance-
+ment..)
+de présenter un projet, en en démontrant la fai-
+sabilité technique et commerciale (« pitch » /
+sur le modèle de : « Dragons’ den »)
+de travailler sur des supports écrits, audio et vi-
+déo variés
+
+ 
+
+Expertise
+
+ 
+
+d'échanger avec des personnes non franco-
+phones et non anglophones.
+
+3.3. PROJ901a - Projet Recherche et Développement
+Cours (h)
+
+Pondération
+
+TD (h)
+
+TP (h)
+
+Evaluation
+
+ 
+
+ 
+
+40
+
+6
+
+Pratique + Rap-
+port + Soutenance
+
+Langue(s) utilisée(s) pour les enseignements
+• Français
+Descriptif
+Ce travail consiste en une initiation à la recherche fondamentale ou appliquée. Il est réalisé sur un sujet proposé
+par le monde industriel ou par un laboratoire de recherche. La première partie du projet porte sur un état de l'art
+des connaissances et/ou techniques sur le sujet, l'identification de la méthode et/technique qui sera mise en ouvre
+dans le cadre du projet, et l'élaboration d'un plan d'experience ou de travail permettant de répondre au problème.
+La deuxième partie du travail concerne la réalisation de l'étude et l'analyse des résultats
+Objectifs d'apprentissage
+
+Ce cours vise à rendre l'élève apte à :
+mener un travail de recherche fondamentale ou
+appliquée
+ 
+ 
+
+Niveau
+
+A l'issue de ce cours l'élève sera capable :
+
+Application de réaliser un état de l'art des connaissances et
+
+des techniques
+de justifier une stratégie de recherche
+de faire une analyse critique de ses résultats
+
+ 
+ 
+
+gérer un projet
+ 
+
+Application planifier son travail sur la durée du projet
+
+ 
+
+respecter les jalon et rendre les livrables atten-
+dus
+3.4. SHES901a - Techniques de management
+Cours (h)
+
+Pondération
+
+Evaluation
+
+TD (h)
+
+TP (h)
+
+15
+
+7.5
+
+ 
+
+1.5
+
+CC
+
+Langue(s) utilisée(s) pour les enseignements
+• Français
+Descriptif
+Cet élément constitutif de SHES se décompose en deux enseignements indépendants : Management, Ethique.
+Le  but  de  ce  module  est  d'appréhender  les  dimensions  humaine  et  communicationnelle  du  management  et  de
+développer l'assertivité managériale des élèves
+Plan du Cours
+1. Management (12h CM ; 7,5h TD) :
+
+1.1. Comprendre - La dimension humaine du management
+1.2. Communiquer - La dimension relationnelle du management
+Ethique et management (3h CM)
+
+2.
+
+64
+
+Semestre 9
+
+Intitulés TP
+Management :
+1. Agir - La dimension stratégique du management (mises en situation)
+Objectifs d'apprentissage
+
+Ce cours vise à rendre l'élève apte à :
+mener une réflexion éthique sur sa pratique
+professionnelle et sur la posture managériale
+ 
+
+ 
+
+Niveau
+
+A l'issue de ce cours l'élève sera capable :
+
+Application de connaître les concepts de RSE, d’éthique et
+
+ 
+
+ 
+
+de déontologie
+d'argumenter la place de l’éthique dans
+l’entreprise et le management
+d’analyser des situations de dilemme pour
+prendre une décision réfléchie
+
+conduire un projet et des hommes
+
+Application de concevoir une équipe chargée de la mise en
+
+ 
+
+ 
+
+développer l'assertivité managériale
+ 
+
+ 
+
+ 
+
+œuvre d’un projet
+de comprendre les tâches et les compétences
+professionnelles impliquées dans la mise en
+œuvre du projet
+de prendre du recul sur des situations com-
+plexes et d’arbitrer les besoins conflictuels liés
+à la conception du projet
+
+Application d'exprimer ses attentes et ses besoins
+
+ 
+
+de se positionner en tant que personne et fonc-
+tion
+
+65
+
+Semestre 10
+
+UE
+
+ECTS Module
+
+Intitulé
+
+Cours (h) TD (h)
+
+TP (h)
+
+30
+
+PROJ001
+
+Stage Ingénieur
+
+ 
+
+ 
+
+ 
+
+UE001 :
+Stage In-
+génieur
+
+Pondé-
+ration
+
+30
+
+Evaluation
+
+Soutenance,
+rapport écrit,
+évaluation
+entreprise
+
+1. UE001 : Stage Ingénieur
+
+1.1. PROJ001 - Stage Ingénieur
+Cours (h)
+
+TD (h)
+
+TP (h)
+
+Pondération
+
+Evaluation
+
+ 
+
+ 
+
+ 
+
+30
+
+Soutenance, rapport écrit,
+
+évaluation entreprise
+
+Langue(s) utilisée(s) pour les enseignements
+• Français
+Pré-requis
+Enseignements du S5 au S9
+Descriptif
+Ce stage s'effectue en entreprise, dans laquelle l'élève-ingénieur aura une (ou des) mission(s) à réaliser, proche(s)
+de sa future fonction d'ingénieur, intégrant une démarche de projet avec des aspects techniques, économiques et
+humains. Ces différents aspects doivent être mis en valeur lors de la restitution écrite et orale du stage même si
+l'élève ingénieur n'en a pas été l'acteur direct.
+Objectifs d'apprentissage
+
+A l'issue de ce cours l'élève sera capable :
+de découvrir des méthodes et des pratiques pro-
+fesionnelles
+de respecter la politique RSE de l'entreprise
+de participer au développement de l'entreprise
+de mettre en œuvre ses connaissances théo-
+riques et pratiques
+de mettre en œuvre les bases du management
+opérationnel
+de travailler en équipe et communiquer effica-
+cement avec un public varié
+
+Ce cours vise à rendre l'élève apte à :
+s'intégrer et participer à une organisation pro-
+fessionnelle
+ 
+ 
+
+Niveau
+Maîtrise
+
+ 
+ 
+
+collaborer à l'avancement d'un projet
+
+Maîtrise
+
+ 
+
+ 
+
+ 
+
+ 
+
+66
+
+

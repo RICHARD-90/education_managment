@@ -1,0 +1,109 @@
+{
+    "name": "skill_comment",
+    "set": [
+      {
+        "name": "IDU-1.1",
+        "value": "Spécifier, analyser, concevoir et mettre en œuvre des systèmes informa-tiques en s'appuyant sur des méthodes de conception et de gestion de projets informa-tiques d'envergure."
+      },
+      {
+        "name": "IDU-1.2",
+        "value": "Spécifier, analyser, concevoir et mettre en œuvre des systèmes informa-tiques en dimensionnant le système par rapport aux caractéristiques attendues en termesde volume des données à traiter, temps de réponse."
+      },
+      {
+        "name": "IDU-1.3",
+        "value": "Spécifier, analyser, concevoir et mettre en œuvre des systèmes informa-tiques en s'appuyant de manière privilégiée sur des systèmes traitant des données massives."
+      },
+      {
+        "name": "IDU-2.1",
+        "value": "Concevoir la collecte, le traitement et l'utilisation des données en s'appuyant sur les méthodes d'analyse et de fouille de donnée pour la découvertede connaissances."
+      },
+      {
+        "name": "IDU-2.2",
+        "value": "Concevoir la collecte, le traitement et l'utilisation des données en s'appuyant sur des modèles de connaissances appropriés au traitement del'information."
+      },
+      {
+        "name": "IDU-2.3",
+        "value": "Concevoir la collecte, le traitement et l'utilisation des données en s'appuyant sur des techniques permettant une exploitation efficace et sécuriséedes données."
+      },
+      {
+        "name": "IDU-3.1",
+        "value": "Appréhender les dimensions économiques et sociales liées à l'usage des sys-tèmes informatiques en concevant des systèmes où le respect de l'humain (sa vie privée, etc.) est une ca-ractéristique attendue majeure."
+      },
+      {
+        "name": "IDU-3.2",
+        "value": "Appréhender les dimensions économiques et sociales liées à l'usage des sys-tèmes informatiques en concevant des systèmes s'inscrivant dans une démarche de développement du-rable."
+      },
+      {
+        "name": "IDU-4.1",
+        "value": "Choisir les moyens appropriés pour le transport et la distribution de données en s'appuyant sur des architectures matérielles et logicielles appropriées."
+      },
+      {
+        "name": "IDU-4.2",
+        "value": "Choisir les moyens appropriés pour le transport et la distribution de données en assurant la sécurité du contenu transporté."
+      },
+      {
+        "name": "TC-1.1",
+        "value": "Gérer et conduire un projet de sa conception à sa réalisation selon ses di-mensions techniques, économiques et humaines en maîtrisant les bases du management opérationnel."
+      },
+      {
+        "name": "TC-1.2",
+        "value": "Gérer et conduire un projet de sa conception à sa réalisation selon ses di-mensions techniques, économiques et humaines en étant apte à choisir et/ou mettre en œuvre des outils et des méthodes pour la réalisation du projet."
+      },
+      {
+        "name": "TC-1.3",
+        "value": "Gérer et conduire un projet de sa conception à sa réalisation selon ses di-mensions techniques, économiques et humaines en étant apte à identifier et mobiliser les ressources d'un champ scientifique et technique spécifique."
+      },
+      {
+        "name": "TC-1.4",
+        "value": "Gérer et conduire un projet de sa conception à sa réalisation selon ses di-mensions techniques, économiques et humaines en intégrant les aspects économiques et financiers du projet."
+      },
+      {
+        "name": "TC-1.5",
+        "value": "Gérer et conduire un projet de sa conception à sa réalisation selon ses di-mensions techniques, économiques et humaines en étant apte à évoluer dans un contexte de collaboration multi-acteurs"
+      },
+      {
+        "name": "TC-2.1",
+        "value": "Communiquer efficacement avec un public varié et développer son projetprofessionnel en s'appropriant les clés d'une communication adaptée"
+      },
+      {
+        "name": "TC-2.2",
+        "value": "Communiquer efficacement avec un public varié et développer son projetprofessionnel en opérant des choix professionnels et en mettant en place une stratégie adaptéepour atteindre ses objectifs et en développant une attitude assertive"
+      },
+      {
+        "name": "TC-2.3",
+        "value": "Communiquer efficacement avec un public varié et développer son projetprofessionnel n évaluant et faisant évoluer ses compétences dans une dynamique apprenante"
+      },
+      {
+        "name": "TC-3.1",
+        "value": "Mobiliser et développer les compétences en sciences humaines nécessaires àson intégration et au développement de son entreprise et de la société en s’intégrant dans l'entreprise et en exerçant le métier d’ingénieur"
+      },
+      {
+        "name": "TC-3.2",
+        "value": "Mobiliser et développer les compétences en sciences humaines nécessaires àson intégration et au développement de son entreprise et de la société en prenant en compte les enjeux industriels, économiques et professionnels"
+      },
+      {
+        "name": "TC-3.3",
+        "value": "Mobiliser et développer les compétences en sciences humaines nécessaires àson intégration et au développement de son entreprise et de la société en travaillant en contexte pluriculturel et/ou international"
+      },
+      {
+        "name": "TC-3.4",
+        "value": "Mobiliser et développer les compétences en sciences humaines nécessaires àson intégration et au développement de son entreprise et de la société en étant apte à prendre en compte les enjeux et les besoins de la société"
+      },
+      {
+        "name": "TC-4.1",
+        "value": "Développer des activités contribuant à des innovations ou des avancéesscientifiques en situant son activité par rapport à l’état de l’art des connaissances et/ou des pratiques"
+      },
+      {
+        "name": "TC-4.2",
+        "value": "Développer des activités contribuant à des innovations ou des avancéesscientifiques en menant un travail de recherche fondamentale ou appliquée cohérent avec uneanalyse critique des résultats"
+      },
+      {
+        "name": "TC-4.3",
+        "value": "Développer des activités contribuant à des innovations ou des avancéesscientifiques en développant une démarche créative s’inscrivant dans un contexte d’innovation"
+      },
+      {
+        "name": "TC-4.4",
+        "value": "Développer des activités contribuant à des innovations ou des avancéesscientifiques en s’appuyant sur des techniques de management de l'innovation dans une dé-marche d'ouverture et d'entreprenaria"
+      }
+    ]
+  }
